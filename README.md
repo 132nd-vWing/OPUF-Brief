@@ -1,9 +1,11 @@
 # Operation Urgent Fury 
 
 ![Logo](/Images/132ndLogo.PNG)
+  <br>
 
 
 ![Logo](/Images/132ndLogosmall.PNG)
+  <br>
 
 ## Situation
 The last year there have been increasing tension in the Persian Gulf. The US have increased sanctions to IRAN, and IRAN have threatened to close the Strait of Hormuz.
