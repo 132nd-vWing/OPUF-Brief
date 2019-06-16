@@ -2,7 +2,7 @@
 
 
 
-##Situation
+## Situation
 The last year there have been increasing tension in the Persian Gulf. The US have increased sanctions to IRAN, and IRAN have threatened to close the Strait of Hormuz.
 
 Intelligence indicate that IRAN is working with RUSSIA and CHINA in order to aquire new weaponsystems, such as aircraft and SAM's. It is in both RUSSIA and CHINA's interest to inflict damage to the allied coalition through IRAN as its proxy.
@@ -23,4 +23,8 @@ CJTF-87 mission have three parts:
 CJTF is invited in by UAE and OMAN, and operates in both countries.
 
 CJTF-87 is heavily reliant on air forces, as the build-up of major land forces takes time.
+
+
+Order of Battle
+#### [OOB](/Docs/OOB.md) 
 
