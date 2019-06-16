@@ -4,12 +4,12 @@
 <br>
 <br>
 
-| **FLIGHT** | **TACAN** |**PRIMARY FREQUENCY**|**SECONDARY FREQUENCY**|**Lasercode** |**FF**|
-| ------ | ---- | ------ | -------- | -------- | ---- |
-**PANTHER**  |50Y-113Y|xxx.xxx|xxx.xxx|1234|4211-4214
-**AXE**|50Y-113Y|xxx.xxx|xxx.xxx|1234|4211-4214
-**BEAST**|50Y-113Y|xxx.xxx|xxx.xxx|1234|4211-4214
-**SWORD**|50Y-113Y|xxx.xxx|xxx.xxx|1234|4211-4214
+| **FLIGHT** | **TACAN** |**PRIMARY FREQUENCY**|**SECONDARY FREQUENCY**|**Lasercode** |**IFF**| Airbase
+| ------ | ---- | ------ | -------- | -------- | ---- | --- |
+**PANTHER**  |50Y-113Y|xxx.xxx|xxx.xxx|1234|4211-4214| OMAM |
+**AXE**|50Y-113Y|xxx.xxx|xxx.xxx|1234|4211-4214| OMAM |
+**BEAST**|50Y-113Y|xxx.xxx|xxx.xxx|1234|4211-4214| OMAM |
+**SWORD**|50Y-113Y|xxx.xxx|xxx.xxx|1234|4211-4214| OMAM |
 
 
 
