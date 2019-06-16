@@ -1,10 +1,4 @@
-
-
-
-
-# OPUF
-
-## [Links](/Docs/Links.md) 
+# OPERATION URGENT FURY
 
 ## Situation
 The last year there have been increasing tension in the Persian Gulf. The US have increased sanctions to IRAN, and IRAN have threatened to close the Strait of Hormuz.
@@ -29,8 +23,18 @@ CJTF is invited in by UAE and OMAN, and operates in both countries.
 CJTF-87 is heavily reliant on air forces, as the build-up of major land forces takes time.
 
 
-Order of Battle
-#### [OOB](/Docs/OOB.md) 
+
+
+
+
+## Links
+[Presets](/OPUF-Brief/Docs/Presets.md) | [Enemy Forces](/Docs/Enemy.md) | Taskings
+---------------| ------------ | ---- 
+[Links](/Docs/Links.md) | [Order of Battle](/Docs/OOB.md)
+
+
+
+
 
 
 
