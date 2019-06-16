@@ -1,14 +1,16 @@
 # Taskings
 
-/br
-/br
-/br
+<br>
+<br>
+<br>
 
-
-| *Flight* |TACAN |Primary Frequency | Secondary Frequency | Lasercode | IFF |
+| **FLIGHT** |TACAN |**PRIMARY FREQUENCY**| SECONDARY FREQUENCY | Lasercode | **IFF** |
 |--------|------|------------------|---------------------|-----------|-----|
 PANTHER|50Y-113Y|xxx.xxx|xxx.xxx|1234|4211-4214
-Content in the first column| Content in the second column|content last
+AXE|50Y-113Y|xxx.xxx|xxx.xxx|1234|4211-4214
+BEAST|50Y-113Y|xxx.xxx|xxx.xxx|1234|4211-4214
+SWORD|50Y-113Y|xxx.xxx|xxx.xxx|1234|4211-4214
+
 
 
 
