@@ -34,6 +34,13 @@ CJTF-87 is heavily reliant on air forces, as the build-up of major land forces t
 
 
 
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
+
+
 
 
 
