@@ -28,9 +28,9 @@ CJTF-87 is heavily reliant on air forces, as the build-up of major land forces t
 
 
 ## Links
-[Presets](/OPUF-Brief/Docs/Presets.md) | [Enemy Forces](/Docs/Enemy.md)| Taskings
--------------------------------------- | ----------------------------- | ---- 
-[Links](/Docs/Links.md) | [Order of Battle](/Docs/OOB.md) | Test
+[Presets](/Docs/Presets.md) | [Enemy Forces](/Docs/Enemy.md)  | Taskings
+----------------------------| -----------------------------   | ---- 
+[Links](/Docs/Links.md)     | [Order of Battle](/Docs/OOB.md) | Test
 
 
 
