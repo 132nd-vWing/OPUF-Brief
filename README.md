@@ -1,6 +1,6 @@
-# Operation Urgent Fury 
+### [Links](/Docs/Links.md) 
 
-![Picture 12](/Images/132ndLogo.png)
+
 
 
 
