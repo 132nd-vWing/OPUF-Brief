@@ -1,4 +1,4 @@
-![Front IMG](/Images/132ndLogosmall.PNG) 
+! [Logo] (/Images/132ndLogosmall.PNG) 
  
 
 # Operation Urgent Fury 
