@@ -1,10 +1,10 @@
 # Operation Urgent Fury 
 
-![Logo](/Images/132ndLogo.PNG)
+![Picture 12](/Images/132ndLogo.PNG)
   <br>
 
 
-![Logo](/Images/132ndLogosmall.PNG)
+![132nd Logo](/Images/132ndLogosmall.PNG)
   <br>
 
 ## Situation
