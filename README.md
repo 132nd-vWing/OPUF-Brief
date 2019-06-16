@@ -1,37 +1,26 @@
-## Operation Urgent Fury test
+# Operation Urgent Fury 
 
-You can use the [editor on GitHub](https://github.com/132nd-vWing/OPUF-Brief/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+##Situation
+The last year there have been increasing tension in the Persian Gulf. The US have increased sanctions to IRAN, and IRAN have threatened to close the Strait of Hormuz.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Intelligence indicate that IRAN is working with RUSSIA and CHINA in order to aquire new weaponsystems, such as aircraft and SAM's. It is in both RUSSIA and CHINA's interest to inflict damage to the allied coalition through IRAN as its proxy.
 
-```markdown
-Syntax highlighted code block
+From december 2010 UAE and OMAN have seen an increasing activity from the insurgent group "Alsyf Albarq" (Lightening Sword) that are affiliated with IRAN and its goal is for IRAN to seize control of OMAN so that the people of OMAN and IRAN can be united as a single country.
 
-# Header 1
-## Header 2
-### Header 3
+In addition to the insurgent group Alsayf Albarq (AA), a terror organization by the name of "Al Kahn Brigade" has emerged and have conducted several terror attacks in both UAE and OMAN.
 
-- Bulleted
-- List
+Recently there have been indications that IRAN are preparing a offensive, but currently, intelligence do not have any good assessments based on lack of reporting.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+In May 2011 a US led Combined Joint Task Force, CJTF-87, was invited to come to UAE in order to function as a deterrence for any Iran provocations. CJTF-87 operates in UAE and OMAN in order to reassurce the people of UAE and Oman that the allies is on their side of the conflict.
 
-[Link](url) and ![Image](src)
-```
+CJTF-87 mission have three parts:
+1. Deter IRAN aggression.
+2. Counterinsurgency (COIN) against Alsyf Albarq.
+3. Counterterrorism (CT) against Al Kahn Brigade.
+CJTF is invited in by UAE and OMAN, and operates in both countries.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+CJTF-87 is heavily reliant on air forces, as the build-up of major land forces takes time.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/132nd-vWing/OPUF-Brief/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
