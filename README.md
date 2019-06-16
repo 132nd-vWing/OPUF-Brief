@@ -3,7 +3,6 @@
 ![Picture 12](/Images/132ndLogo.png)
 
 
-![132nd Logo](/Images/132ndLogosmall.png)
 
 ## Situation
 The last year there have been increasing tension in the Persian Gulf. The US have increased sanctions to IRAN, and IRAN have threatened to close the Strait of Hormuz.
@@ -31,3 +30,6 @@ CJTF-87 is heavily reliant on air forces, as the build-up of major land forces t
 Order of Battle
 #### [OOB](/Docs/OOB.md) 
 
+
+
+![132nd Logo](/Images/132ndLogosmall.png)
