@@ -2,4 +2,4 @@
 
 ### Enemy forces
 ### Tasking
-### [Frequency Presets](/Docs/Presets.md) 
+### [Frequency Presets](/Docs/Presets.md)
