@@ -7,17 +7,17 @@
 
 | **FLIGHT** | **TACAN** |**PRIMARY FREQUENCY**|**SECONDARY FREQUENCY**|**Lasercode** |**IFF**| Airbase | Group ID |
 | ------ | ---- | ------ | -------- | -------- | ---- | --- |
-**PANTHER**  |50Y-113Y|xxx.xxx |xxx.xxx |1515-1518|4211-4214| OMAM | N/A |
-**FALCON**   |51Y-114Y|xxx.xxx |xxx.xxx |1525-1528|4221-4224| OMAM | N/A |
-**HAWK**     |52Y-115Y|xxx.xxx |xxx.xxx |1535-1538|4231-4234| OMAM | N/A |
-**JEDI**     |53Y-116Y|xxx.xxx| xxx.xxx |1545-1548|4241-4244| OMAM | N/A |
-**RAVEN**    |54Y-117Y|xxx.xxx| xxx.xxx |1555-1558|4251-4254| OMAM | N/A |
-**HUNTER**   |55Y-118Y|xxx.xxx| xxx.xxx |1325-1328|4261-4264| OMAM | N/A |
-**EAGLE**    |56Y-119Y|xxx.xxx| xxx.xxx |1335-1338|4271-4274| OMAM | N/A |
-**JACKAL**   |57Y-120Y|xxx.xxx| xxx.xxx |1345-1348|4311-4314| OMAM | N/A |
-**KNIGHT**   |58Y-121Y|xxx.xxx| xxx.xxx |1355-1358|4321-4324| OMAM | N/A |
-**SPARE**    |59Y-122Y|xxx.xxx| xxx.xxx |1455-1458|4331-4334| OMAM | N/A |
-**SPARE**    |60Y-123Y|xxx.xxx| xxx.xxx |1445-1448|4361-4364| OMAM | N/A |
+**PANTHER**  |50Y-113Y|247.000 (GOLD 1)    |140.000 (MAROON 11) |1515-1518|4211-4214| OMAM | N/A |
+**FALCON**   |51Y-114Y|227.750 (OCHRE 1)   |137.000 (BROWN 11) |1525-1528|4221-4224| OMAM | N/A |
+**HAWK**     |52Y-115Y|246.000 (LIME 3)    |135.000 (LEMON 10) |1535-1538|4231-4234| OMAM | N/A |
+**JEDI**     |53Y-116Y|226.500 (MAROON 10) | 130.000 (LIME 10)|1545-1548|4241-4244| OMAM | N/A |
+**RAVEN**    |54Y-117Y|241.000 (MAROON 8)  | 126.750 (AMBER 9) |1555-1558|4251-4254| OMAM | N/A |
+**HUNTER**   |55Y-118Y|225.500 (CORAL 11)  | 132.000 (VIOLET 9) |1325-1328|4261-4264| OMAM | N/A |
+**EAGLE**    |56Y-119Y|225.750 (INDIGO 10) | 139.000 (INDIGO 7) |1335-1338|4271-4274| OMAM | N/A |
+**JACKAL**   |57Y-120Y|244.250 (CHERRY 11) | 141.000 (OLIVE 3) |1345-1348|4311-4314| OMAM | N/A |
+**KNIGHT**   |58Y-121Y|233.750 (AQUA 8)    | 136.250 (INDIGO 6) |1355-1358|4321-4324| OMAM | N/A |
+**SPARE**    |59Y-122Y|xxx.xxx| xxx.xxx  |1455-1458|4331-4334| OMAM | N/A |
+**SPARE**    |60Y-123Y|xxx.xxx| xxx.xxx  |1445-1448|4361-4364| OMAM | N/A |
 
 
 ## A-10C
