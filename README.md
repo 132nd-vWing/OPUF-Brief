@@ -5,7 +5,7 @@
 
 
 ## Situation
-[Situation](/Docs/Situation.md) |  [Enemy Forces](/Docs/Enemy.md)  |  [Order of Battle](/Docs/OOB.md) | [The News Company](/OPUF-Brief/News/News_company.md)
+[Situation](/Docs/Situation.md) |  [Enemy Forces](/Docs/Enemy.md)  |  [Order of Battle](/Docs/OOB.md) | [The News Company](/OPUF-Brief/Docs/News/News_company.html)
 
 
 
