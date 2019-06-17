@@ -16,6 +16,8 @@
 **JACKAL**   |50Y-113Y|xxx.xxx|xxx.xxx|1234|4211-4214| OMAM | N/A |
 **KNIGHT**   |50Y-113Y|xxx.xxx|xxx.xxx|1234|4211-4214| OMAM | N/A |
 
+| **FLIGHT** | **TACAN** |**PRIMARY FREQUENCY**|**SECONDARY FREQUENCY**|**Lasercode** |**IFF**| Airbase | Group ID |
+| ------ | ---- | ------ | -------- | -------- | ---- | --- |
 **BEAST** |25Y-88Y|xxx.xxx|xxx.xxx|1511-1514|4211-4214| OMDM | 31 |
 **AXE**   |26Y-89Y|xxx.xxx|xxx.xxx|1521-1524|4211-4214| OMDM | 32 |
 **CLAW**  |27Y-90Y|xxx.xxx|xxx.xxx|1531-1534|4211-4214| OMDM | 33 |
