@@ -89,7 +89,23 @@ EAST of UAE, at 24000ft.
 
 **KC-135:**
 TEXACO, Freq: 120.500 (WHITE 9). TACAN: 10Y.
-EAST of UAE at 12000ft.
+EAST of UAE at 12000ft
+
+
+
+
+## Identification Friend or Foe (IFF)
+All flights are to use the following IFF codes :
+
+**MODE 1:** 01
+**MODE 3:** In Accordance With (IAW):  [Flight information](/OPUF-Brief/Docs/Flights.html)
+
+For A-10C, IFF works in cockpit.
+For F/A-18 and KA-50, UR transponder will need to be used.
+Please see UR website how to enable IFF:
+http://tacnoworld.fr/universradio-transponder/
+
+
 <br>
 <br>
 <br>
