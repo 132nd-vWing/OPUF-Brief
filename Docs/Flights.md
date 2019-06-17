@@ -3,6 +3,7 @@
 <br>
 <br>
 <br>
+## F/A-18C
 
 | **FLIGHT** | **TACAN** |**PRIMARY FREQUENCY**|**SECONDARY FREQUENCY**|**Lasercode** |**IFF**| Airbase | Group ID |
 | ------ | ---- | ------ | -------- | -------- | ---- | --- |
@@ -19,6 +20,7 @@
 **SPARE**    |60Y-123Y|xxx.xxx| xxx.xxx |1445-1448|4361-4364| OMAM | N/A |
 
 
+## A-10C
 
 | **FLIGHT** | **TACAN** |**PRIMARY FREQUENCY**|**SECONDARY FREQUENCY**|**Lasercode** |**IFF**| Airbase | Group ID |
 | ------ | ---- | ------ | -------- | -------- | ---- | --- |
@@ -38,11 +40,11 @@
 | **FLIGHT** | **IFF** |**PRIMARY FREQUENCY**|**SECONDARY FREQUENCY**| Airbase |
 | ------      | ----     | ------              | --------            | -------- |
 **BEAR** |3211-3214 |xxxxx| xxxx | FARP |
-** COBRA** | 3111-3114 | xxx | xxx | FARP |
-** DRAGON** | 3121-3124 | xxx | xxx | FARP |
-** GRIZZLY** | 3221-3224 | xxx | xxx | FARP |
-** SHARK** | 3131-3134 | xxx | xxx | FARP |
-** TIGER** | 3231-3234 | xxx | xxx | FARP |
+**COBRA** | 3111-3114 | xxx | xxx | FARP |
+**DRAGON** | 3121-3124 | xxx | xxx | FARP |
+**GRIZZLY** | 3221-3224 | xxx | xxx | FARP |
+**SHARK** | 3131-3134 | xxx | xxx | FARP |
+**TIGER** | 3231-3234 | xxx | xxx | FARP |
 
 ## Back
 [Back to frontpage](https://132nd-vwing.github.io/OPUF-Brief/)
