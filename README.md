@@ -10,7 +10,7 @@
 
 ## Links
 [Presets](/Docs/Presets.md) | [Enemy Forces](/Docs/Enemy.md)  | [Taskings](/Docs/Taskings.md)
-| [Links](/Docs/Links.md)     | [Order of Battle](/Docs/OOB.md) | [Situation](/Docs/Situation.md)
+| [Links](/Docs/Links.md)     | [Order of Battle](/Docs/OOB.md) | [Situation](/Docs/Situation.md) | [SPINS](/Docs/SPINS.md)
 
 
 
