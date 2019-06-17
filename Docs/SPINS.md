@@ -80,30 +80,37 @@ The left side of the tanker is to be used for joining aircraft. The first receiv
 
 ### Tanker information
 **KC-135 MPRS:**
-SHELL,Freq: 247.500 (LIME 11). TACAN: 38Y.
-West of UAE, at 24000ft.
-
-**IL-78:**
-ARCO, KC-135 MPRS, Freq: 240.750 (MAROON 7). TACAN: 39Y.
-EAST of UAE, at 24000ft.
-
+CALLSIGN: SHELL <br>
+FREQUENCY:  247.500 (LIME 11) <br>
+TACAN: 38Y <br>
+LOCATION: West of UAE, at 24000ft <br>
+<br>
+**KC-135 MPRS:**
+CALLSIGN: ARCO <br>
+FREQUENCY: 240.750 (MAROON 7) <br>
+TACAN: 39Y <br>
+LOCATION: EAST of UAE, at 24000ft <br>
+<br>
 **KC-135:**
-TEXACO, Freq: 120.500 (WHITE 9). TACAN: 10Y.
-EAST of UAE at 12000ft
-
+CALLSIGN: TEXACO <br>
+FREQUENCY:  120.500 (WHITE 9) <br>
+TACAN: 10Y <br>
+LOCATION: EAST of UAE at 12000ft <br>
+<br>
 
 
 
 ## Identification Friend or Foe (IFF)
 All flights are to use the following IFF codes :
 
-**MODE 1:** 01
+**MODE 1:** 01 <br>
 **MODE 3:** In Accordance With (IAW):  [Flight information](/OPUF-Brief/Docs/Flights.html)
 
 For A-10C, IFF works in cockpit.
 For F/A-18 and KA-50, UR transponder will need to be used.
-Please see UR website how to enable IFF:
-http://tacnoworld.fr/universradio-transponder/
+Please see UR website how to enable IFF: <br>
+[UniversRadio Transponder](http://tacnoworld.fr/universradio-transponder/)
+
 
 
 <br>
