@@ -3,28 +3,29 @@
 
 ## Multiplayer Instruction
 [132nd Virtual Wing Multiplayer Instructions](https://www.dropbox.com/s/wdpip6b6cewz2hd/132%20Multiplayer%20Instructions%20-%20v1.7.pdf?dl=0)
-
-
+<br>
+<br>
+<br>
 ## Radio plugin - UniversRadio
 The 132nd uses UniverRadio, a program created by Tacno. This program is mandatory for all participants attending 132nd events.
 [UniversRadio Website](http://tacnoworld.fr/)
-
-
-
+<br>
+<br>
+<br>
 ## Mods
 Everyone attending this mission need to use OvGME in order to install the necessary Mods. <br>
 Please refer to the 132nd Skin and Mod Install QuickstartGuide: <br>
 [132nd Skin and Mod Install](https://www.dropbox.com/s/jtftoqwto3tkbbp/DCS%202.5%20Mod%20Install_QuickCard.pdf?raw=1)
 
-### [OvGME Program](https://drive.google.com/file/d/1qs-8gFBibQbFnlVCvMYAFrAB2_nGd-Qy/view?usp=sharing) 
+[OvGME Program](https://drive.google.com/file/d/1qs-8gFBibQbFnlVCvMYAFrAB2_nGd-Qy/view?usp=sharing) 
 <br>
-### [OvGME ED Thread](https://forums.eagle.ru/showthread.php?t=171956)
+[OvGME ED Thread](https://forums.eagle.ru/showthread.php?t=171956)
 <br>
 <br>
 <br>
-
-
-
+<br>
+<br>
+<br>
 ## Credits
 Thanks for the great contributions from the DCS community, and to highlight a few of the most important ones for the 132nd:
 - MIST (Speed&Grimes) <br>
