@@ -1,36 +1,41 @@
 # WEEKLY SPINS OPUF MSN 09
+<br>
+<br>
+<br>
 
-## RAMROD
+### RAMROD
 
 | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 | - | - | - | - | - | - | - | - | - | - |
 | B | L | A | C | K | H | O | R | S | E |
 
 
-## BASE
+### BASE
 
 | ALTITUDE | SPEED | HEADING | NUMBER| 
 | -------- | ----- | ------- | ----- | 
-| 5000ft AMSL | 300 Kts | 300 degrees |5 |
+| 5000ft AMSL | 300 Kts | 300 degrees | 5 |
 
-## CODEWORDS
+### CODEWORDS
 
 | MEANING | CODEWORD | 
 | ------- | -------- | 
-| ON STATION | CODE | 
-| OFF STATION | WORD |
-| RTB | TEST |
-| MISSION CANCEL | TEST 2 |
-| MISSION SUCCESSFUL| TEST 3 |
-| MISSION UNSUCCESSFUL| TEST 3 |
-| ATTACK SUCCESSFUL | TEST 3 |
-| ATTACK UNSUCCESSFUL | TEST 3 |
-| LAST OFF TARGET| TEST 3 |
-| REATTACK | TEST 3 |
-| PUSHING | TEST 3 |
-| ROLEX | TEST 3 |
-| REQUEST| TEST 3 |
-| WOUNDED BIRD | TEST 3 |
+| ON STATION | ALABAMA | 
+| OFF STATION | BABYLON |
+| RTB | CHICAGO |
+| MISSION CANCEL | DENVER |
+| MISSION SUCCESSFUL| ERIE |
+| MISSION UNSUCCESSFUL| FRANKFURT |
+| ATTACK SUCCESSFUL | GEORGIA |
+| ATTACK UNSUCCESSFUL | HIGHLAND |
+| LAST OFF TARGET| ILLINOIS |
+| REATTACK | JAKARTA |
+| PUSHING | KENTUCKY |
+| ROLEX | LOUSVILLE |
+| REQUEST ROLEX| MEMPHIS|
+| WOUNDED BIRD | NANTUCKET |
+| FEET WET | OHIO |
+| FEET DRY | PHILIPPINES |
 
 
 ## AIRSPACE
@@ -40,6 +45,10 @@ MRR
 KILLBOX
 
 
-
+<br>
+<br>
+<br>
+<br>
+<br>
 ## Back
 [Back to frontpage](https://132nd-vwing.github.io/OPUF-Brief/)
