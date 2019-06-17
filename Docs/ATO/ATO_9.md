@@ -2,7 +2,7 @@
 
 
 ###### [Flight information](/OPUF-Brief/Docs/Flights.html)
-###### [Weekly Spins MSN 09](/OPUF-Brief/Docs/SPINS_9.html)
+###### [Weekly Spins MSN 09](/OPUF-Brief/Docs/SPINS_09.html)
 ###### [Air Control Order MSN 09](/OPUF-Brief/Docs/ACO/ACO_9.html)
 
 ## TASKING 

@@ -2,7 +2,7 @@
 
 
 ###### [Air Tasking Order MSN 09](/OPUF-Brief/Docs/ATO/ATO_9.html)
-###### [Weekly Spins MSN 09](/OPUF-Brief/Docs/SPINS_9.html)
+###### [Weekly Spins MSN 09](/OPUF-Brief/Docs/SPINS_09.html)
 
 
 
