@@ -29,6 +29,6 @@ IFF JSON
 <br>
 
 
-![TNC Logo](Images/TNC.png)
+![TNC Logo](Images/TNC.PNG)
 
 ![132nd Logo](/Images/132ndLogosmall.png)
