@@ -10,6 +10,11 @@
 | B | L | A | C | K | H | O | R | S | E |
 
 
+### BULLSEYE
+Bullseye in use is: XX
+Location:
+
+
 ### BASE
 
 | ALTITUDE | SPEED | HEADING | NUMBER| 

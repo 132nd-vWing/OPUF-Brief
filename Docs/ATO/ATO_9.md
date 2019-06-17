@@ -1,11 +1,10 @@
-# Air Tasking Order OPUF MSN 09
+# Air Tasking Order OPUF MSN 09 
 
 
 ### [Flight information](/OPUF-Brief/Docs/Flights.html)
 ### [Weekly Spins MSN 09](/OPUF-Brief/Docs/SPINS_09.html)
-### [ATO](/OPUF-Brief/Docs/ATO/ATO_10.html)
 
-##TASKING 
+## TASKING 
 ### FLIGHT
 **MISSION**
 <br>

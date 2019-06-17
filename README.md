@@ -9,7 +9,7 @@
 
 
 ## Admin
-[Presets](/Docs/Presets.md)  | [Flight information](/Docs/Flights.md) | [Links](/Docs/Links.md) | [SPINS](/Docs/SPINS.md)
+[Admin info]([ATO](/OPUF-Brief/Docs/Admin/Admin.html)) [Presets](/Docs/Presets.md)  | [Flight information](/Docs/Flights.md) | [Links](/Docs/Links.md) | [SPINS](/Docs/SPINS.md)
 
 ## Situation
 [Situation](/Docs/Situation.md) |  [Enemy Forces](/Docs/Enemy.md)  |  [Order of Battle](/Docs/OOB.md) |
