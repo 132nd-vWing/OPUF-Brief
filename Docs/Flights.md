@@ -3,8 +3,7 @@
 <br>
 <br>
 <br>
-## F/A-18C
-<br>
+
 | **FLIGHT** | **TACAN** |**PRIMARY FREQUENCY**|**SECONDARY FREQUENCY**|**Lasercode** |**IFF**| Airbase | Group ID |
 | ------ | ---- | ------ | -------- | -------- | ---- | --- |
 **PANTHER**  |50Y-113Y|xxx.xxx |xxx.xxx |1515-1518|4211-4214| OMAM | N/A |
@@ -20,7 +19,7 @@
 **SPARE**    |60Y-123Y|xxx.xxx| xxx.xxx |1445-1448|4361-4364| OMAM | N/A |
 
 
-## A-10C
+
 | **FLIGHT** | **TACAN** |**PRIMARY FREQUENCY**|**SECONDARY FREQUENCY**|**Lasercode** |**IFF**| Airbase | Group ID |
 | ------ | ---- | ------ | -------- | -------- | ---- | --- |
 **BEAST** |25Y-88Y|xxx.xxx|xxx.xxx|1511-1514|4121-4124| OMDM | 31 |
@@ -35,7 +34,7 @@
 <br>
 
 ## Rotary Wing
-<br>
+
 | **FLIGHT** | **IFF** |**PRIMARY FREQUENCY**|**SECONDARY FREQUENCY**| Airbase |
 | ------      | ----     | ------              | --------            | -------- |
 **BEAR** |3211-3214 |xxxxx| xxxx | FARP |
