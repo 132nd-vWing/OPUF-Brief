@@ -10,7 +10,7 @@
 
 
 ## Admin
-[Admin info](/OPUF-Brief/Docs/Admin/Admin.html) | [Presets](/Docs/Presets.md)  | [Flight information](/Docs/Flights.md) | [Links](/Docs/Links.md) | [SPINS](/Docs/SPINS.md)
+[Admin info](/OPUF-Brief/Docs/Admin/Admin.html) | [Presets](/Docs/Presets.md)  | [Flight information](/Docs/Flights.md) | [Links](/Docs/Links.md) | [SPINS](/Docs/SPINS.md) | [Navigation](/Docs/Navigation.md)
 
 
 
