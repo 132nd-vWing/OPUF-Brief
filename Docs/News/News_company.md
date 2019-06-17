@@ -1,4 +1,4 @@
-# The News Company  
+# The News Company   ![TNC Logo](/OPUF-Brief/Images/TNC.PNG)
 
 
 ![TNC Logo](/OPUF-Brief/Images/TNC.PNG)
