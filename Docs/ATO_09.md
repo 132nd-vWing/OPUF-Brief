@@ -1,8 +1,8 @@
 # Air Tasking Order OPUF MSN 09
 
 
-[Flight information](/Docs/Flights.md)
-[Weekly Spins MSN 09](/Docs/SPINS_09.md)
+[Flight information](OPUF-Brief/Docs/Flights.md)
+[Weekly Spins MSN 09](OPUF-Brief/Docs/SPINS_09.md)
 
 
 ### FLIGHT
