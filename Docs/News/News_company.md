@@ -1,4 +1,4 @@
-# The News Company [TNC Logo](Images/TNC.PNG)
+# The News Company 
 
 <br>
 ![TNC Logo](Images/TNC.PNG)
