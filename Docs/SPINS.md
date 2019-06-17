@@ -79,19 +79,19 @@ The left side of the tanker is to be used for joining aircraft. The first receiv
 
 
 ### Tanker information
-**KC-135 MPRS:**
+**KC-135 MPRS:**<br>
 CALLSIGN: SHELL <br>
 FREQUENCY:  247.500 (LIME 11) <br>
 TACAN: 38Y <br>
 LOCATION: West of UAE, at 24000ft <br>
 <br>
-**KC-135 MPRS:**
+**KC-135 MPRS:** <br>
 CALLSIGN: ARCO <br>
 FREQUENCY: 240.750 (MAROON 7) <br>
 TACAN: 39Y <br>
 LOCATION: EAST of UAE, at 24000ft <br>
 <br>
-**KC-135:**
+**KC-135:**<br>
 CALLSIGN: TEXACO <br>
 FREQUENCY:  120.500 (WHITE 9) <br>
 TACAN: 10Y <br>
@@ -104,10 +104,10 @@ LOCATION: EAST of UAE at 12000ft <br>
 All flights are to use the following IFF codes :
 
 **MODE 1:** 01 <br>
-**MODE 3:** In Accordance With (IAW):  [Flight information](/OPUF-Brief/Docs/Flights.html)
+**MODE 3:** In Accordance With (IAW)  [Flight information](/OPUF-Brief/Docs/Flights.html)
 
-For A-10C, IFF works in cockpit.
-For F/A-18 and KA-50, UR transponder will need to be used.
+For A-10C, IFF works in cockpit.<br>
+For F/A-18 and MI-8 and KA-50, UR transponder will need to be used.
 Please see UR website how to enable IFF: <br>
 [UniversRadio Transponder](http://tacnoworld.fr/universradio-transponder/)
 
