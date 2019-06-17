@@ -1,17 +1,20 @@
 # WEEKLY SPINS OPUF MSN 09
 
 ## RAMROD
+
 | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 | - | - | - | - | - | - | - | - | - | - |
 | B | L | A | C | K | H | O | R | S | E |
 
 
 ## BASE
+
 | ALTITUDE | SPEED | HEADING | NUMBER| 
 | -------- | ----- | ------- | ----- | 
 | 5000ft AMSL | 300 Kts | 300 degrees |5 |
 
 ## CODEWORDS
+
 | MEANING | CODEWORD | 
 | ------- | -------- | 
 | ON STATION | CODE | 
