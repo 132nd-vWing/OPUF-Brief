@@ -4,7 +4,7 @@
 
 
 The News Company is a international news agency that is covering the conflict in the Strait of Hormuz (SoH)
-<br>
+
 ![TNC Logo](Images/TNC.PNG)
 
 
