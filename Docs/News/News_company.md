@@ -1,7 +1,9 @@
-# The News Company   ![TNC Logo](/OPUF-Brief/Images/TNC.PNG)
-
-
 ![TNC Logo](/OPUF-Brief/Images/TNC.PNG)
+
+# The News Company   
+
+
+
 
 The News Company is a international news agency that is covering the conflict in the Strait of Hormuz (SoH)
 
