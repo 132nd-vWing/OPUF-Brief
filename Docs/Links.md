@@ -1,8 +1,8 @@
 # Links
 
-### [Enemy Forces](/Docs/Enemy.md)
+### [Enemy Forces](/Docs/Enemy.html)
 ### Tasking
-### [Presets](/OPUF-Brief/Docs/Presets.md)
+### [Presets](/OPUF-Brief/Docs/Presets.html)
 
 
 ## Back
