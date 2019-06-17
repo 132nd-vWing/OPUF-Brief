@@ -15,7 +15,7 @@
 [Situation](/Docs/Situation.md) |  [Enemy Forces](/Docs/Enemy.md)  |  [Order of Battle](/Docs/OOB.md) |
 
 ## Mission Specific Information
-[ATO MSN 09](/OPUF-Brief/Docs/ATO/ATO_9.html)|[Weekly Spins MSN 09](/Docs/SPINS_09.md)
+[ATO MSN 09](/OPUF-Brief/Docs/ATO/ATO_9.html) | [Weekly Spins MSN 09](/Docs/SPINS_09.md)
 
 ## For Controllers
 JSON Files <br>
