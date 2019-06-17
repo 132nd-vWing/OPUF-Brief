@@ -113,6 +113,17 @@ Please see UR website how to enable IFF: <br>
 
 
 
+## Authentication
+### Autentication Encryption Table
+[AET-100](https://www.dropbox.com/s/b6mbo7fw2wvnkfi/AET-100_RAMROD_v1.1.pdf?dl=0)
+
+
+### Tranmission Authentication Table
+[TAT-101](https://www.dropbox.com/s/6aplu5oktunvclm/TAT-101_V1.2.pdf?dl=0)
+
+
+
+
 <br>
 <br>
 <br>
