@@ -8,7 +8,8 @@ This page gives necessary information for participation on 132nd Virtual Wing's 
 - Events uses UniversRadio radio plugin  
 <br>
 <br>
-Please signup on 132nd Virtual Wing's event page:
+
+Please signup on 132nd Virtual Wing's event page: <br>
 [132nd Events](http://www.132virtualwing.org/index.php/page/events) 
 <br>
 <br>
@@ -28,9 +29,8 @@ Please signup on 132nd Virtual Wing's event page:
 [ATO MSN 09](/OPUF-Brief/Docs/ATO/ATO_9.html) | [Weekly Spins MSN 09](/Docs/SPINS_09.md)
 
 ## For Controllers (ATC and/or AWACS)
-JSON Files <br>
-IFF JSON
-[Directing](/OPUF-Brief/Docs/Directing/directing.html)
+
+IFF JSON | [Directing](/OPUF-Brief/Docs/Directing/directing.html)
 
 
 

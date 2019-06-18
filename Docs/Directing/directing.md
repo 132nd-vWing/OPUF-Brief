@@ -29,6 +29,19 @@ RIGHT CLICK / SAVE AS. (OR COPY PASTE YOUR OWN)
 ####  [KILLBOX UNIFORM](/JSON/KB/kb_uniform.json)
 ####  [KILLBOX WHISKEY](/JSON/KB/kb_whiskey.json)
 ####  [KILLBOX VICTOR](/JSON/KB/kb_victor.json) 
+
+
+
+### IFF Codes
+####  [IFF Codes JSON](/Docs/Directing/transponder_codes.json)
+
+
+
+### NAVPOINTS 
+
+All navigation points and information about airspace, threatsites, JTAC locations, FARPs, tankers, please refer to OP URGENT FURY Google Earth link for current version:
+<br>
+[OPUF Google Earth KMZ](https://www.dropbox.com/s/ofdotxseoz0foz8/OP%20Urgent%20Fury.kmz?dl=0)
 <br>
 <br>
 <br>
