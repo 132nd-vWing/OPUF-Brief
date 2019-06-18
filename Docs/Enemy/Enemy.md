@@ -7,43 +7,53 @@
 ### Tactical AirBase 10 (TAB 10) :  Shiraz H24
 **100th Tactical Fighter Squadron (TFS)**
 * F-14A Squadron
-* Unit strength x12  
+* Unit strength: x12  
 
 **273rd Tactical Fighter Squadron (TFS)**  
 * F-5 Squadron
-* Unit strength x12  
+* Unit strength: x12  
 
 
 ### Tactical AirBase 5 (TAB 5) :  Kerman H23
-#### 34th Tactical Fighter Squadron (TFS)
-MiG-29A Squadron, flying 12x  MiG-29A
-#### 28th Tactical Fighter Squadron (TFS)
-F-4 Squadron, flying 12x  F-4
-#### 125th Tactical Attack Squadron (TFS)
-SU-24M Squadron, flying 8x  SU-24M
+**34th Tactical Fighter Squadron (TFS)**
+* MiG-29A Squadron
+* Unit strength: x12  
+
+**28th Tactical Fighter Squadron (TFS)**
+* F-4 Squadron
+* Unit Strength: x12  
+
+**125th Tactical Attack Squadron (TFS)**
+* SU-24M Squadron
+* Unit Strength: x12  
 
 
 ### Tactical AirBase 2 (TAB 2) :  Bandar Abbas International Airport H28
-#### 29th Tactical Fighter Squadron (TFS)
-F-5 Squadron, flying 12x  F-5
+**29th Tactical Fighter Squadron (TFS)**
+* F-5 Squadron
+* Unit Strength: x12  
 
 ---
 
 ## Air Defence
 
 ### 73rd Air Defence Battalion
-#### AO: Bandar Abbas Region  
-SA-10 Battery  
-EWR North  
-EWR SOUTH  
-EWR C2  
-HAWK WEST  
-HAWK NORTH  
+**AO: Bandar Abbas Region**  
+  
+**Known Deployments**    
+* SA-10 Battery  
+* EWR North  
+* EWR SOUTH  
+* EWR C2  
+* HAWK WEST  
+* HAWK NORTH  
 
 
 ### 78th Air Defence Battalion
-#### AO: LAR  
-SA-6  
+**AO: LAR**  
+  
+**Known Deployments**
+* SA-6  
 
 
 
