@@ -49,7 +49,7 @@
 * HAWK NORTH  
 
 ### [27th Home Guard Air Defence Battalion](27TH_HG_BATT.MD)
-**AO: Bandar Abbas Region**  
+**AO: Straight of Hormuz**  
 **TYPE: EWR**
 
 ### 78th Air Defence Battalion
