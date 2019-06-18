@@ -126,7 +126,7 @@ Please see UR website how to enable IFF: <br>
 
 ## Color Coded Frequences
 
-![132nd colored freqs](/Images/Frequencys.png)
+![132nd colored freqs](/Images/Frequencys.PNG)
 
 <br>
 <br>
