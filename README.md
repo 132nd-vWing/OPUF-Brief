@@ -17,12 +17,12 @@ Please signup on 132nd Virtual Wing's event page: <br>
 <br>
 
 ## Situation
-[Situation](/Docs/Situation.md) |  [Enemy Forces](/OPUF-Brief/Docs/Enemy/Enemy.html)  |  [Order of Battle](/Docs/OOB.md) | [The News Company](/OPUF-Brief/Docs/News/News_company.html)
+[Situation](/Docs/Situation.md) |  [Enemy Forces](/OPUF-Brief/Docs/Enemy/Enemy.html)  |  [Friendly Forces](/Docs/Friendlies.md) | [The News Company](/OPUF-Brief/Docs/News/News_company.html)
 
 
 
 ## Admin
-[Admin info](/OPUF-Brief/Docs/Admin/Admin.html) | [Presets](/Docs/Presets.md)  | [Flight information](/Docs/Flights.md) | [Links](/Docs/Links.md) | [SPINS](/Docs/SPINS.md) | [Navigation](/Docs/Navigation.md)
+[Admin info](/OPUF-Brief/Docs/Admin/Admin.html) | [Presets](/Docs/Presets.md)  | [Flight information](/Docs/Flights.md) | [SPINS](/Docs/SPINS.md) | [Navigation](/Docs/Navigation.md)
 
 
 
