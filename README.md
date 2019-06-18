@@ -7,6 +7,9 @@ This page gives necessary information for participation on 132nd Virtual Wing's 
 - Events uses UniversRadio radio plugin  
 <br>
 
+
+
+Next event takes place Sunday 23rd June at 1800Z. Signups requested by evening Friday 21st June. 
 Please signup on 132nd Virtual Wing's event page: <br>
 [132nd Events](http://www.132virtualwing.org/index.php/page/events) 
 <br>
