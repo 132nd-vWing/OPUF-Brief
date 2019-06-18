@@ -33,7 +33,7 @@ RIGHT CLICK / SAVE AS. (OR COPY PASTE YOUR OWN)
 
 
 ### IFF Codes
-####  [IFF Codes JSON](/Docs/Directing/transponder_codes.json)
+####  [IFF Codes JSON](/JSON/transponder_codes.json)
 
 
 
