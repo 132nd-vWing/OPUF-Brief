@@ -53,9 +53,9 @@ IRAN have established a beachhead at KHASAB, and have reached as far south as BU
 
 ### 6th June 2011
 Allied forces have been conducting CAS to support the frontline at BUKHA, while conducting attacks at Iranian forces in the KHASAB beachhead, 
-primarily by locating rocket launchers, SAMs and C2 to facilitate for further operations. Allied forces are commencing an offensive to retake KHASAB area, with primary objective the airfield at KHASAB.
+primarily by locating rocket launchers, SAMs and C2 to facilitate for further operations. Allied forces are preparing an offensive to retake KHASAB area, with primary objective the airfield at KHASAB.
 
-
+### 7th June 2011
 
 
 ## Insurgent activity

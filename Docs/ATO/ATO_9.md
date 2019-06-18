@@ -5,9 +5,9 @@
 ###### [Weekly Spins MSN 09](/OPUF-Brief/Docs/SPINS_09.html)
 ###### [Air Control Order MSN 09](/OPUF-Brief/Docs/ACO/ACO_9.html)
 
+ATO for 7th of JUNE 2011
+- Will be published evening Friday 21st June real-world time. (based on signups and requests)
 
-
-Taskings will be updated and published on evening of Friday 21st June based on signups and requests-
 
 
 
