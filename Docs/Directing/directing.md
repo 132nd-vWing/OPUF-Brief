@@ -1,12 +1,8 @@
 
 ![DIR FRONT IMAGE](DIR_FRONT_IMG.PNG)
 
-# ASSETS AND INFO.
 
-
-
-
-## JSON LotATC Overlays
+# JSON LotATC Overlays
 
 RIGHT CLICK / SAVE AS. (OR COPY PASTE YOUR OWN)
 
@@ -32,4 +28,11 @@ RIGHT CLICK / SAVE AS. (OR COPY PASTE YOUR OWN)
 ####  [KILLBOX TANGO](/JSON/KB/kb_tango.json)
 ####  [KILLBOX UNIFORM](/JSON/KB/kb_uniform.json)
 ####  [KILLBOX WHISKEY](/JSON/KB/kb_whiskey.json)
-####  [KILLBOX VICTOR](/JSON/KB/kb_victor.json)  
+####  [KILLBOX VICTOR](/JSON/KB/kb_victor.json) 
+<br>
+<br>
+<br>
+<br>
+<br>
+## Back
+[Back to frontpage](https://132nd-vwing.github.io/OPUF-Brief/) 
