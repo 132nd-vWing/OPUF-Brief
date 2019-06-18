@@ -1,11 +1,13 @@
 # Enemy Forces
 
+---
+
 ## Air Forces
 
 ### Tactical AirBase 10 (TAB 10) :  Shiraz H24
-#### 100th Tactical Fighter Squadron (TFS)
+**100th Tactical Fighter Squadron (TFS)**
 F-14A Squadron, flying 12x F-14A Tomcat
-#### 273rd Tactical Figher Squadron (TFS)
+**273rd Tactical Figher Squadron (TFS)**
 F-5 Squadron, flying 12x  F-5
 
 
@@ -22,6 +24,7 @@ SU-24M Squadron, flying 8x  SU-24M
 #### 29th Tactical Figher Squadron (TFS)
 F-5 Squadron, flying 12x  F-5
 
+---
 
 ## Air Defence
 
@@ -68,9 +71,12 @@ SA-6
 SA-10  
 SA-2  
 
+---
 
 ## Ground
 NSTR  
+
+---
 
 ## Navy
 
