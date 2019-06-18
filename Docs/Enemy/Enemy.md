@@ -1,35 +1,118 @@
 # Enemy Forces
 
-Enemy forces information
+## Air Forces
 <br>
 <br>
-### Air Forces
-Shiraz:  
-1x F-14 Sqn (22 AC)  
-1x F-5 Sqn (14 AC)  
-  
-Kerman:  
-1x Mig29 Sqn (14 AC)  
-2x F-4 Sqn (14+14=28 AC)  
-  
-Bandar:  
-1x F-5 Sqn (14 AC)  
+### Tactical AirBase 10 (TAB 10) :  Shiraz
+<br>
+#### 100th Tactical Fighter Squadron (TFS)
+<br>
+F-14A Squadron, flying 12x F-14A Tomcat<
+<br>
+<br>
+#### 273rd Tactical Figher Squadron (TFS)
+<br>
+F-5 Squadron, flying 12x  F-5
+<br>
+<br>
+<br>
+<br>
+### Tactical AirBase 5 (TAB 5) :  Kerman
+<br>
+#### 34th Tactical Figher Squadron (TFS)
+<br>
+MiG-29A Squadron, flying 12x  MiG-29A
+<br>
+<br>
+#### 28th Tactical Figher Squadron (TFS)
+<br>
+F-4 Squadron, flying 12x  F-4
+<br>
+<br>
+#### 125th Tactical Attack Squadron (TFS)
+<br>
+SU-24M Squadron, flying 8x  SU-24M
+<br>
+<br>
+<br>
+<br>
+### Tactical AirBase 2 (TAB 2) :  Bandar Abbas International Airport
+<br>
+#### 29th Tactical Figher Squadron (TFS)
+<br>
+F-5 Squadron, flying 12x  F-5
+<br>
+<br>
+<br>
+<br>
+<br>
+## Air Defence
+<br>
+### 73rd Air Defence Battalion
+Bandar Abbas Region
+SA-10 Battery
+EWR North
+EWR SOUTH
+EWR C2
+HAWK WEST
+HAWK NORTH
+<br>
+<br>
+<br>
+### 78th Air Defence Battalion
+LAR
+SA-6
+<br>
+<br>
+<br>
+### 74th Air Defence Battalion
+SHIRAZ
+SA-6
+<br>
+<br>
+<br>
+### 63rd Air Defence Battalion
+LAVAN
+HAWK
+
+### 62nd Air Defence Battalion
+BUSHER
+SA-2
+HAWK
+EWR
 
 
-### Air Defence
-SA-10 at Bandar Abbas  
-SA-6 at LAR Airbase  
-SA-6 at Shiraz Airbase  
+### 79th Air Defence Battalion
+JIROFT
+SA-3
+SA-6
 
-### Ground Forces
-NIL
 
-### TARGETS
-High Value Targets  
-Currently being developed for Phase 2 and Phase 3.  
+### 99th Air Defence Battalion
+KERMAN
+SA-10
+SA-2
+<br>
+<br>
+<br>
+<br>
+<br>
+## Ground
+NSTR
 
-Target list  
-Currently being developed for Phase 2 and Phase 3.  
+
+
+
+## Navy
+
+
+### 21st Coastal Artillery Battalion
+Bandar-e-Jask
+
+
+### 22nd Coastal Artillery Battalion
+QHESM ISLAND
+
 
 ## Back
 [Back to frontpage](https://132nd-vwing.github.io/OPUF-Brief/)
