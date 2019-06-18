@@ -64,12 +64,12 @@
 
 
 ### 63rd Air Defence Battalion
-#### AO: LAVAN  
+**AO: LAVAN**
 **Known Deployments:**
 * HAWK  
 
 ### 62nd Air Defence Battalion
-#### AO: BUSHER  
+**AO: BUSHER**
 **Known Deployments:**
 * SA-2  
 * HAWK  
@@ -77,7 +77,7 @@
 
 
 ### 79th Air Defence Battalion
-#### AO: JIROFT 
+**AO: JIROFT**
 **Known Deployments:**
 * SA-3  
 * SA-6  
@@ -100,11 +100,11 @@ NSTR
 
 
 ### 21st Coastal Artillery Battalion
-#### AO: Bandar-e-Jask
+**AO: Bandar-e-Jask**
 
 
 ### 22nd Coastal Artillery Battalion
-#### AO: QHESM ISLAND
+**AO: QHESM ISLAND**
 
 ---
 
