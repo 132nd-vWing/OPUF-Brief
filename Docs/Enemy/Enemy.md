@@ -4,14 +4,9 @@
 <br>
 <br>
 ### Tactical AirBase 10 (TAB 10) :  Shiraz
-<br>
 #### 100th Tactical Fighter Squadron (TFS)
-
-F-14A Squadron, flying 12x F-14A Tomcat<
-<br>
-<br>
+F-14A Squadron, flying 12x F-14A Tomcat
 #### 273rd Tactical Figher Squadron (TFS)
-
 F-5 Squadron, flying 12x  F-5
 <br>
 <br>
