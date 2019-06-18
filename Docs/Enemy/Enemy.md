@@ -55,8 +55,6 @@
 **Known Deployments:**
 * SA-6  
 
-> Base defence unit at H27
-
 
 ### 74th Air Defence Battalion
 **AO: SHIRAZ**  
