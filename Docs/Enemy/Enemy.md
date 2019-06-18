@@ -1,22 +1,5 @@
 # Enemy Forces
 
-## After action reports.
-
-**Panther 12 - 211800ZAPR2016**
-> AI at Chem-plant: MET (50%)
-> -kills
-> 1 x F5
-> 
-> -expenditure
-> 1 x AIM120C
-> 4 x MK82 (jett)
-> 1 x FPU-8 (jett)
-> 
-> -intel
-> F5's on QRA NW of target area.
-> IR Sam's at target area.
-
-
 ---
 
 ## Air Forces
