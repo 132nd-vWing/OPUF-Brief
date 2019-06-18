@@ -25,7 +25,7 @@ FARP LONDON: 230.500 (INDIGO 11) <br>
 FARP MADRID 231.750 (BROWN 8) <br>
 
 ### FLIP
-Flight Information Publication in use are availeble here:
+Flight Information Publication in use are available here:
 [FLIP Gulf Region](https://www.dropbox.com/s/sp91zf63rx0esao/FLIP_GULFR2_EC1.pdf?dl=0)
 
 
@@ -44,13 +44,13 @@ A-A Controller 2 :229.000 (GREEN 4) <br>
 Air Request Net: 21.00 <br>
 CSAR Freq: 233.000 (PINK 1) <br>
 In flight Report net: 228.000 (ORANGE 10) <br>
-Alert Frequncy: 248.750 (GREEN 6) <br>
+Alert Frequency: 248.750 (GREEN 6) <br>
 Admin frequency: 238.750 (AMBER 2) <br>
 VHF Back-up: 122.250 (GRAY 10) <br>
 <br>
 <br>
 ### AI AWACS
-If no human AWACS controllers are availeble, all flights are to check-in on check-in frequency and once checked-in, push to AWACS AI MAGIC frequency. Once RTB, flights are to check-out on AWACS check-in frequency prior to pushing to ATC.
+If no human AWACS controllers are available, all flights are to check-in on check-in frequency and once checked-in, push to AWACS AI MAGIC frequency. Once RTB, flights are to check-out on AWACS check-in frequency prior to pushing to ATC.
 <br>
 #### AWACS AI Frequencies:
 MAGIC: 301.0 <br>
@@ -62,7 +62,7 @@ Additonal information about AWACS procedures, please have a look at:
 
 
 
-## Aerial Refueling
+## Aerial Refuelling
 Tanker instructions
 
 **Altimeter setting.**
@@ -75,7 +75,7 @@ Receivers are to join from below and are to maintain a minimum of 1000ft vertica
 Receivers must receive clearance from the controlling agency (AWACS) before contacting the tanker.
 
 **Joining procedures.**
-The left side of the tanker is to be used for joining aircraft. The first receiver of a formation may join directly astern the boom, when the receiver has visually confirmed that no refueling is in progress.
+The left side of the tanker is to be used for joining aircraft. The first receiver of a formation may join directly astern the boom, when the receiver has visually confirmed that no refuelling is in progress.
 
 
 ### Tanker information
@@ -114,17 +114,17 @@ Please see UR website how to enable IFF: <br>
 
 
 ## Authentication
-### Autentication Encryption Table
+### Authentication Encryption Table
 [AET-100](https://www.dropbox.com/s/b6mbo7fw2wvnkfi/AET-100_RAMROD_v1.1.pdf?dl=0)
 
 
-### Tranmission Authentication Table
+### Transmission Authentication Table
 [TAT-101](https://www.dropbox.com/s/6aplu5oktunvclm/TAT-101_V1.2.pdf?dl=0)
 
 
 
 
-## Color Coded Frequences
+## Color Coded Frequencies
 
 ![132nd colored freqs](/OPUF-Brief/Images/Frequencys.PNG)
 
