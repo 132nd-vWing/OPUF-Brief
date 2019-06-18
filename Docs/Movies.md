@@ -1,6 +1,6 @@
 # OPUF Recordings
 
-[132nd Virtual Wing OP URGENT FURY MSN 01 Shit hits the Fan](https://youtu.be/j9KIwrw3fHI?t=145)    (Same incident that is reported by the TNC about sucide bomber) <br>
+[132nd Virtual Wing OP URGENT FURY MSN 01 Shit hits the Fan](https://youtu.be/j9KIwrw3fHI?t=145)    (Same incident that is reported by the TNC about suicide bomber) <br>
 
 [132nd Virtual Wing OP URGENT FURY MSN 03](https://youtu.be/j8efDtn0nXI)
 
