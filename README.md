@@ -13,7 +13,7 @@ Next event takes place Sunday 23rd June at 1800Z. Signups requested by evening F
 Please signup on 132nd Virtual Wing's event page (A user on the 132nd website is required): <br>
 [132nd Events](http://www.132virtualwing.org/index.php/page/events)
 
-**NOTE:** If you do not have an account on 132nd Virtual Wing website, please PM 132nd.Neck on Discord and ask for an account. 
+**NOTE** If you do not have an account on 132nd Virtual Wing website, please PM 132nd.Neck on Discord and ask for an account. 
 <br>
 <br>
 <br>
