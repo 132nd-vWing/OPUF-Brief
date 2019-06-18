@@ -1,0 +1,37 @@
+{
+	"drawings": [
+		{
+			"author": "CombatFlite",
+			"brushStyle": 1,
+			"center_x": 54.4135833333333,
+			"center_y": 24.0770666666667,
+			"color": "#3f00ff00",
+			"colorBg": "#3f00ff00",
+			"id": "{af66704b-5e59-4093-8467-d6323f5961e7}",
+			"lineWidth": 1,
+			"name": "NOLSO",
+			"radius": 1000,
+			"shared": false,
+			"timestamp": "30.11.2018-00:00:00",
+			"type": "circle"
+		},
+		{
+			"author": "CombatFlite",
+			"brushStyle": 1,
+			"color": "#ff00ff00",
+			"colorBg": "#0000ff00",
+			"font": "8514oem,6,-1,5,75,0,0,0,0,0",
+			"id": "{6729ee35-f19e-48c8-9f01-51dd6829dc71}",
+			"lineWidth": 20,
+			"name": "NOLSO_label",
+			"pos_x": 54.4135833333333,
+			"pos_y": 24.0770666666667,
+			"shared": false,
+			"text": "NOLSO",
+			"timestamp": "30.11.2018-00:00:00",
+			"type": "text"
+		}
+	],
+	"enable": "true",
+	"version": "1.1.0-beta2"
+}
