@@ -43,7 +43,7 @@ F-5 Squadron, flying 12x  F-5
 
 
 ### 73rd Air Defence Battalion
-Bandar Abbas Region  
+#### AO: Bandar Abbas Region  
 SA-10 Battery  
 EWR North  
 EWR SOUTH  
