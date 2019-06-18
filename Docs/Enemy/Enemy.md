@@ -5,10 +5,10 @@
 ## Air Forces
 
 ### Tactical AirBase 10 (TAB 10) :  Shiraz H24
-**100th Tactical Fighter Squadron (TFS)**
-F-14A Squadron, flying 12x F-14A Tomcat
-**273rd Tactical Figher Squadron (TFS)**
-F-5 Squadron, flying 12x  F-5
+**100th Tactical Fighter Squadron (TFS)**  
+F-14A Squadron, unit strength x12  
+**273rd Tactical Figher Squadron (TFS)**  
+F-5 Squadron, unit strength x12  
 
 
 ### Tactical AirBase 5 (TAB 5) :  Kerman H23
