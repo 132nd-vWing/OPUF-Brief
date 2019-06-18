@@ -14,7 +14,7 @@ RIGHT CLICK / SAVE AS. (OR COPY PASTE YOUR OWN)
 ####  [LAND OUTLINE](/JSON/LAND_OUTLINE.json)
 ####  [NAVP OPUF UAE_interior](/JSON/NAVP_OPUF_UAE_interior.json)
 ####  [NAVP OPUF WEST WET](/JSON/NAVP_OPUF_west_wet.json)
-####  [NVAP OPUF EAST WET](/JSON/NVAP_OPUF_east_wet.json)  
+####  [NAVP OPUF EAST WET](/JSON/NVAP_OPUF_east_wet.json)  
 
 ### KILLBOXES
 
