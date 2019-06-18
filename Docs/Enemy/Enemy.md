@@ -40,7 +40,7 @@
 ### 73rd Air Defence Battalion
 **AO: Bandar Abbas Region**  
   
-**Known Deployments**    
+**Known Deployments:**
 * SA-10 Battery  
 * EWR North  
 * EWR SOUTH  
@@ -52,37 +52,42 @@
 ### 78th Air Defence Battalion
 **AO: LAR**  
   
-**Known Deployments**
+**Known Deployments:**
 * SA-6  
 
 
 
 ### 74th Air Defence Battalion
-#### AO: SHIRAZ  
-SA-6  
+**AO: SHIRAZ**  
+**Known Deployments:**
+* SA-6  
 
 
 ### 63rd Air Defence Battalion
 #### AO: LAVAN  
-HAWK  
+**Known Deployments:**
+* HAWK  
 
 ### 62nd Air Defence Battalion
 #### AO: BUSHER  
-SA-2  
-HAWK  
-EWR  
+**Known Deployments:**
+* SA-2  
+* HAWK  
+* EWR  
 
 
 ### 79th Air Defence Battalion
 #### AO: JIROFT 
-SA-3  
-SA-6  
+**Known Deployments:**
+* SA-3  
+* SA-6  
 
 
 ### 99th Air Defence Battalion
-#### AO: KERMAN  
-SA-10  
-SA-2  
+**AO: KERMAN**  
+**Known Deployments:**
+* SA-10  
+* SA-2  
 
 ---
 
@@ -101,6 +106,7 @@ NSTR
 ### 22nd Coastal Artillery Battalion
 #### AO: QHESM ISLAND
 
+---
 
 ## Back
 [Back to frontpage](https://132nd-vwing.github.io/OPUF-Brief/)
