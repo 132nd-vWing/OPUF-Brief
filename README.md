@@ -27,8 +27,7 @@ Please signup on 132nd Virtual Wing's event page: <br>
 [ATO MSN 09](/OPUF-Brief/Docs/ATO/ATO_9.html) | [Weekly Spins MSN 09](/Docs/SPINS_09.md)
 
 ## For Controllers (ATC and/or AWACS)
-
-IFF JSON | [Directing](/OPUF-Brief/Docs/Directing/directing.html)
+[Directing](/OPUF-Brief/Docs/Directing/directing.html)
 
 
 
@@ -39,4 +38,4 @@ IFF JSON | [Directing](/OPUF-Brief/Docs/Directing/directing.html)
 
 
 
-![132nd Logo](/Images/132ndLogosmall.png)
+        ![132nd Logo](/Images/132ndLogosmall.png)

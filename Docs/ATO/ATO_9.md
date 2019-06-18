@@ -5,6 +5,12 @@
 ###### [Weekly Spins MSN 09](/OPUF-Brief/Docs/SPINS_09.html)
 ###### [Air Control Order MSN 09](/OPUF-Brief/Docs/ACO/ACO_9.html)
 
+
+
+Taskings will be updated and published on evening of Friday 21st June based on signups and requests-
+
+
+
 ## TASKING 
 ### FLIGHT
 **MISSION**
