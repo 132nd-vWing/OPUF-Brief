@@ -2,6 +2,10 @@
 
 <br>
 <br>
+This page gives necessary information for participation on 132nd Virtual Wing's campaing Operation Urgent Fury.
+Events take place Sundays at 1800Z.  
+Events uses latest version of DCS Open Beta  
+Events uses UniversRadio radio plugin  
 
 
 ## Situation
