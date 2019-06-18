@@ -14,8 +14,9 @@
 
 
 ### BULLSEYE
-Bullseye in use is: XX
-Location:
+
+Location: N26 23 18 E056 22 43  / N26 23.306 E056 22.720
+
 
 
 ### BASE
@@ -46,11 +47,6 @@ Location:
 | FEET DRY | PHILIPPINES |
 
 
-## AIRSPACE
-Various information of active airspace can be added here.
-ROZ
-MRR
-KILLBOX
 
 
 <br>
