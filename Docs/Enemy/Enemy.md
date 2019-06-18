@@ -6,12 +6,12 @@
 ### Tactical AirBase 10 (TAB 10) :  Shiraz
 <br>
 #### 100th Tactical Fighter Squadron (TFS)
-<br>
+
 F-14A Squadron, flying 12x F-14A Tomcat<
 <br>
 <br>
 #### 273rd Tactical Figher Squadron (TFS)
-<br>
+
 F-5 Squadron, flying 12x  F-5
 <br>
 <br>
@@ -20,88 +20,82 @@ F-5 Squadron, flying 12x  F-5
 ### Tactical AirBase 5 (TAB 5) :  Kerman
 <br>
 #### 34th Tactical Figher Squadron (TFS)
-<br>
+
 MiG-29A Squadron, flying 12x  MiG-29A
 <br>
 <br>
 #### 28th Tactical Figher Squadron (TFS)
-<br>
+
 F-4 Squadron, flying 12x  F-4
 <br>
 <br>
 #### 125th Tactical Attack Squadron (TFS)
-<br>
+
 SU-24M Squadron, flying 8x  SU-24M
 <br>
 <br>
 <br>
 <br>
 ### Tactical AirBase 2 (TAB 2) :  Bandar Abbas International Airport
-<br>
+
 #### 29th Tactical Figher Squadron (TFS)
-<br>
 F-5 Squadron, flying 12x  F-5
 <br>
 <br>
-<br>
-<br>
-<br>
+
+
 ## Air Defence
-<br>
+
+
 ### 73rd Air Defence Battalion
-Bandar Abbas Region
-SA-10 Battery
-EWR North
-EWR SOUTH
-EWR C2
-HAWK WEST
-HAWK NORTH
-<br>
-<br>
-<br>
+Bandar Abbas Region  
+SA-10 Battery  
+EWR North  
+EWR SOUTH  
+EWR C2  
+HAWK WEST  
+HAWK NORTH  
+
+
 ### 78th Air Defence Battalion
-LAR
-SA-6
+LAR  
+SA-6  
 <br>
-<br>
-<br>
+
+
 ### 74th Air Defence Battalion
-SHIRAZ
-SA-6
+SHIRAZ  
+SA-6  
 <br>
-<br>
-<br>
+
+
+
 ### 63rd Air Defence Battalion
-LAVAN
-HAWK
+LAVAN  
+HAWK  
 
 ### 62nd Air Defence Battalion
-BUSHER
-SA-2
-HAWK
-EWR
+BUSHER  
+SA-2  
+HAWK  
+EWR  
 
 
 ### 79th Air Defence Battalion
-JIROFT
-SA-3
-SA-6
+JIROFT 
+SA-3  
+SA-6  
 
 
 ### 99th Air Defence Battalion
-KERMAN
-SA-10
-SA-2
+KERMAN  
+SA-10  
+SA-2  
 <br>
-<br>
-<br>
-<br>
-<br>
+
+
 ## Ground
-NSTR
-
-
-
+NSTR  
 
 ## Navy
 
