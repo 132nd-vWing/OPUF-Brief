@@ -6,22 +6,24 @@
 
 ### Tactical AirBase 10 (TAB 10) :  Shiraz H24
 **100th Tactical Fighter Squadron (TFS)**  
-F-14A Squadron, unit strength x12  
-**273rd Tactical Figher Squadron (TFS)**  
-F-5 Squadron, unit strength x12  
+* F-14A Squadron
+* Unit strength x12  
+**273rd Tactical Fighter Squadron (TFS)**  
+* F-5 Squadron
+* unit strength x12  
 
 
 ### Tactical AirBase 5 (TAB 5) :  Kerman H23
-#### 34th Tactical Figher Squadron (TFS)
+#### 34th Tactical Fighter Squadron (TFS)
 MiG-29A Squadron, flying 12x  MiG-29A
-#### 28th Tactical Figher Squadron (TFS)
+#### 28th Tactical Fighter Squadron (TFS)
 F-4 Squadron, flying 12x  F-4
 #### 125th Tactical Attack Squadron (TFS)
 SU-24M Squadron, flying 8x  SU-24M
 
 
 ### Tactical AirBase 2 (TAB 2) :  Bandar Abbas International Airport H28
-#### 29th Tactical Figher Squadron (TFS)
+#### 29th Tactical Fighter Squadron (TFS)
 F-5 Squadron, flying 12x  F-5
 
 ---
