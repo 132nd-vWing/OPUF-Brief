@@ -38,4 +38,4 @@ Please signup on 132nd Virtual Wing's event page: <br>
 
 
 
-        ![132nd Logo](/Images/132ndLogosmall.png)
+![132nd Logo](/Images/132ndLogosmall.png)
