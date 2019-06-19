@@ -37,17 +37,11 @@
 
 ## Air Defence
 
-### 73rd Air Defence Battalion
+### [3rd Air Defence Battalion](73RD_AD_BN.MD)
 **AO: Bandar Abbas Region**  
 **TYPE: AREA DEFENCE**
   
-**Known Deployments:**
-* SA-10 Battery  
-* EWR North  
-* EWR SOUTH  
-* EWR C2  
-* HAWK WEST  
-* HAWK NORTH  
+ 
 
 ### [27th Home Guard Air Defence Battalion](27TH_HG_BATT.MD)
 **AO: Straight of Hormuz**  
