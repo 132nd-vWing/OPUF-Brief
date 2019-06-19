@@ -27,4 +27,4 @@ Imagry valid as of 6th June 2011.
 ![SA-10 site](/OPUF-Brief/Images/SA10_Intel.PNG)
 
 
-![SA-10 site](/OPUF-Brief/Images/SA10_Intel.PNG)
+![SA-10 site](/OPUF-Brief/Images/SA10_map.PNG)
