@@ -37,7 +37,7 @@
 
 ## Air Defence
 
-### [3rd Air Defence Battalion](73RD_AD_BN.MD)
+### [73rd Air Defence Battalion](73RD_AD_BN.MD)
 **AO: Bandar Abbas Region**  
 **TYPE: AREA DEFENCE**
   
