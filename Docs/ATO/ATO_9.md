@@ -79,7 +79,7 @@ JTAC HITMAN will provide LZ as required. Coordinate escort with COBRA flight.
 <br>
 
 ### PANTHER
-**SEAD/DEAD. ALPHA PACKAGE**
+**MISSION:** SEAD/DEAD. ALPHA PACKAGE
 <br>
 **CONTROLLER:** MAGIC 
 <br>
@@ -96,67 +96,80 @@ JTAC HITMAN will provide LZ as required. Coordinate escort with COBRA flight.
 <br>
 
 
-### FLIGHT
-**MISSION**
+### FALCON
+**MISSION:** SEAD/DEAD. ALPHA PACKAGE
 <br>
-**CONTROLLER:** 
+**CONTROLLER:** MAGIC 
 <br>
-**CONTACT POINT (CP):** 
+**CONTACT POINT (CP):** DONALDDUCK
 <br>
-**VUL Gametime:**
+**VUL Gametime:** N/A
 <br>
-**FREQUENCY:** 
+**FREQUENCY:**  AWACS+Package ALPHA: A-A 2
 <br>
-**REMARKS:** 
+**TARGET:**  [73rd Air Defence Battalion](/OPUF-Brief/Docs/Enemy/73RD_AD_BN.html)
 <br>
-<br>
-
-
-### FLIGHT
-**MISSION**
-<br>
-**CONTROLLER:** 
-<br>
-**CONTACT POINT (CP):** 
-<br>
-**VUL Gametime:**
-<br>
-**FREQUENCY:** 
-<br>
-**REMARKS:** 
+**REMARKS:** Part of ALPHA Package.
 <br>
 <br>
 
 
-### FLIGHT
-**MISSION**
+### HAWK
+**MISSION:** SEAD/DEAD. ALPHA PACKAGE
 <br>
-**CONTROLLER:** 
+**CONTROLLER:** MAGIC 
 <br>
-**CONTACT POINT (CP):** 
+**CONTACT POINT (CP):** DONALDDUCK
 <br>
-**VUL Gametime:**
+**VUL Gametime:** N/A
 <br>
-**FREQUENCY:** 
+**FREQUENCY:**  AWACS+Package ALPHA: A-A 2
 <br>
-**REMARKS:** 
+**TARGET:**  [73rd Air Defence Battalion](/OPUF-Brief/Docs/Enemy/73RD_AD_BN.html)
 <br>
+**REMARKS:** Part of ALPHA Package.
 <br>
 
 
-### FLIGHT
-**MISSION**
+### RAVEN
+**MISSION:** SWEEP. ALPHA PACKAGE
 <br>
-**CONTROLLER:** 
+**CONTROLLER:** MAGIC 
 <br>
-**CONTACT POINT (CP):** 
+**CONTACT POINT (CP):** DONALDDUCK
 <br>
-**VUL Gametime:**
+**VUL Gametime:** N/A
 <br>
-**FREQUENCY:** 
+**FREQUENCY:**  AWACS+internal : A-A 1 | AWACS+Package ALPHA: A-A 2
 <br>
-**REMARKS:** 
+**TARGET:**  [73rd Air Defence Battalion](/OPUF-Brief/Docs/Enemy/73RD_AD_BN.html)
 <br>
+**REMARKS:** Part of ALPHA Package.
+<br>
+
+
+### JEDI
+**MISSION:** Air Interdiction
+<br>
+**CONTROLLER:** MAGIC 
+<br>
+**CONTACT POINT (CP):** TINKERBELL
+<br>
+**VUL Gametime:** TOT: 1820G-1830G (1920Z-1930Z)
+<br>
+**FREQUENCY:**  AWACS: A-G 1
+<br>
+**TARGET:**  JASK Air Defence Sector. Primary target: weapon storage. Secondary target: Maintainence hangar
+**REMARKS:** <br>
+Attack is intended to degrade IRANIAN ability to conduct air operations in their SOUTHEASTERN sector, and to set conditions for the arrival of allied forces entering the Straith-of-Hormuz. 
+Primary target is 2 hardened weapon storages.<br>
+Coordinates:<br>
+Weapon Storage 1: N25 39.694 E057 48.532 , 26 ft  <br>
+Weapon Storage 2: N25 39.714 E057 48.573, 26 ft <br>
+Maintanance hangar: N25 39.124 E057 47.201, 26ft <br>
+<br>
+Primary TGT: [Weapon storage](/OPUF-Brief/Images/Bandarejask_weaponstorage.PNG) <br>
+Secondary TGT: [Maintenance Hanger](/OPUF-Brief/Images/Bandarejask_airfield.PNG) <br>
 <br>
 
 
