@@ -29,7 +29,7 @@ Please signup on 132nd Virtual Wing's event page (user on the 132nd website is r
 
 
 ## Mission Specific Information
-[ATO MSN 09](/OPUF-Brief/Docs/ATO/ATO_9.html) | [Weekly Spins MSN 09](/Docs/SPINS_09.md)
+[ATO MSN 09](/OPUF-Brief/Docs/ATO/ATO_9.html) | [Weekly Spins MSN 09](/Docs/SPINS_09.md) | [NOTAM OPUF MISSION 09](/OPUF-Brief/Docs/NOTAM/NOTAM_09.html) | [Air Control Order MSN 09](/OPUF-Brief/Docs/ACO/ACO_9.html)
 
 ## For Controllers (ATC and/or AWACS)
 [Directing](/OPUF-Brief/Docs/Directing/directing.html)

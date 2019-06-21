@@ -36,7 +36,7 @@ No entry into activae airspace unless approved by airspace owner/controlling age
 
 
 ## Graphical presentation
-![ACO MSN 09](/Images/ACO_09.PNG)
+![ACO MSN 09](/OPUF-Brief/Images/ACO_09.PNG)
 
 
 
