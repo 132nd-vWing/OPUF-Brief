@@ -7,7 +7,9 @@ UNMANNED ATC operate on twr freq when within 10nm of installation below 7 500ft
 All ATC calls on Al Minhad TWR: 121.2 <br>
 Ground, TWR and Approach merged on TWR Freq.
 
-
+## Aircraft locations
+All F/A-18C aircrafts are moved forward and are located at AL MINHAD for this mission. <br>
+(Make sure to grab a F/A-18C at Al Minhad and not at Al Dahfra when joining the server).
 
 
 ## AWACS Instructions

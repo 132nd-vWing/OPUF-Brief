@@ -87,7 +87,7 @@ JTAC HITMAN will provide LZ as required. Coordinate escort with COBRA flight.
 <br>
 **VUL Gametime:** N/A
 <br>
-**FREQUENCY:**  AWACS+Package ALPHA: A-A 2
+**FREQUENCY:**  AWACS+Package ALPHA: A-A 2 (IAW presets)
 <br>
 **TARGET:**  [73rd Air Defence Battalion](/OPUF-Brief/Docs/Enemy/73RD_AD_BN.html)
 <br>
@@ -105,7 +105,7 @@ JTAC HITMAN will provide LZ as required. Coordinate escort with COBRA flight.
 <br>
 **VUL Gametime:** N/A
 <br>
-**FREQUENCY:**  AWACS+Package ALPHA: A-A 2
+**FREQUENCY:**  AWACS+Package ALPHA: A-A 2 (IAW presets)
 <br>
 **TARGET:**  [73rd Air Defence Battalion](/OPUF-Brief/Docs/Enemy/73RD_AD_BN.html)
 <br>
@@ -123,7 +123,7 @@ JTAC HITMAN will provide LZ as required. Coordinate escort with COBRA flight.
 <br>
 **VUL Gametime:** N/A
 <br>
-**FREQUENCY:**  AWACS+Package ALPHA: A-A 2
+**FREQUENCY:**  AWACS+Package ALPHA: A-A 2 (IAW presets)
 <br>
 **TARGET:**  [73rd Air Defence Battalion](/OPUF-Brief/Docs/Enemy/73RD_AD_BN.html)
 <br>
@@ -140,11 +140,12 @@ JTAC HITMAN will provide LZ as required. Coordinate escort with COBRA flight.
 <br>
 **VUL Gametime:** N/A
 <br>
-**FREQUENCY:**  AWACS+internal : A-A 1 | AWACS+Package ALPHA: A-A 2
+**FREQUENCY:**  AWACS+internal : A-A 1 | AWACS+Package ALPHA: A-A 2 (IAW presets)
 <br>
 **TARGET:**  [73rd Air Defence Battalion](/OPUF-Brief/Docs/Enemy/73RD_AD_BN.html)
 <br>
-**REMARKS:** Part of ALPHA Package.
+**REMARKS:** Part of ALPHA Package. Support SEAD/DEAD effort with offensive fighter sweep to neutralize any A-A threats to the package. 
+Secondary mission is to establish CAP overhead KHASAB in order to protect CAS operations.
 <br>
 
 
@@ -155,14 +156,14 @@ JTAC HITMAN will provide LZ as required. Coordinate escort with COBRA flight.
 <br>
 **CONTACT POINT (CP):** TINKERBELL
 <br>
-**VUL Gametime:** TOT: 1820G-1830G (1920Z-1930Z)
+**VUL Gametime:** TOT: 1820G-1840G (1920Z-1940Z)
 <br>
-**FREQUENCY:**  AWACS: A-G 1
+**FREQUENCY:**  AWACS: A-G 1 (IAW presets)
 <br>
 **TARGET:**  JASK Air Defence Sector. Primary target: weapon storage. Secondary target: Maintainence hangar
 <br>
 **REMARKS:** <br>
-Attack is intended to degrade IRANIAN ability to conduct air operations in their SOUTHEASTERN sector, and to set conditions for the arrival of allied forces entering the Straith-of-Hormuz. 
+Attack is intended to degrade IRANIAN ability to conduct air operations in their SOUTHEASTERN sector, and to set conditions for the arrival of allied forces entering the Strait-of-Hormuz. 
 Primary target is 2 hardened weapon storages.<br>
 Coordinates:<br>
 Weapon Storage 1: N25 39.694 E057 48.532 , 26 ft  <br>
@@ -171,6 +172,24 @@ Maintanance hangar: N25 39.124 E057 47.201, 26ft <br>
 <br>
 Primary TGT: [Weapon storage](/OPUF-Brief/Images/Bandarejask_weaponstorage.PNG) <br>
 Secondary TGT: [Maintenance Hanger](/OPUF-Brief/Images/Bandarejask_airfield.PNG) <br>
+<br>
+
+
+### EAGLE
+**MISSION:** ARMED RECONISSANCE
+<br>
+**CONTROLLER:** MAGIC 
+<br>
+**CONTACT POINT (CP):** TINKERBELL
+<br>
+**VUL Gametime:** 1800G-1900G (1900Z-2000Z)
+<br>
+**FREQUENCY:**  AWACS A-G 1 (IAW presets)
+<br>
+**TARGET:**  [21st Coastal Artillery Battalion](/OPUF-Brief/Docs/Enemy/21ST_CAB.html)
+<br>
+**REMARKS:** Task is to search in Killbox V6 and locate elements of 21st Coastal Artillery Battalion. Intelligence indicate that part of the BN is deployed in the field and are operations.
+This mission is intended to set conditions for the arrival of allied forces entering the Strait-of-Hormuz ( Carrier Strike Group).
 <br>
 
 
