@@ -13,10 +13,14 @@ Next event takes place Sunday 23rd June at 1800Z. Signups requested by evening  
 Please signup on 132nd Virtual Wing's event page (user on the 132nd website is required): <br>
 [132nd Events](http://www.132virtualwing.org/index.php/page/events)
 
-**NOTE** If you do not have an account on 132nd Virtual Wing website, please PM 132nd.Neck on Discord and ask for an account. 
+**NOTE 1** If you do not have an account on 132nd Virtual Wing website, please PM 132nd.Neck on Discord and ask for an account. 
 <br>
 <br>
 <br>
+**NOTE 2** You will need to manually refresh webpages to get changes as the pages are updated. Until we resolve this issue, we recommend everyone to refresh the page when you enter it to make sure you have the latest information availeble.
+<br>
+<br>
+<br
 
 ## Situation
 [Situation](/Docs/Situation.md) |  [Enemy Forces](/OPUF-Brief/Docs/Enemy/Enemy.html)  |  [Friendly Forces](/Docs/Friendlies.md) | [The News Company](/OPUF-Brief/Docs/News/News_company.html) |  [NOTAM's](/OPUF-Brief/Docs/NOTAM/NOTAM.html) | [Recordings](/OPUF-Brief/Docs/Movies.html) 
@@ -33,7 +37,7 @@ Please signup on 132nd Virtual Wing's event page (user on the 132nd website is r
 
 ## For Controllers (ATC and/or AWACS)
 [Directing](/OPUF-Brief/Docs/Directing/directing.html)
-
+<br>
 
 
 
