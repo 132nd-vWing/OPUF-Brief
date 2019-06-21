@@ -6,11 +6,20 @@
 ###### [Airspace Control Order MSN 09](/OPUF-Brief/Docs/ACO/ACO_9.html)
 ###### [NOTAM OPUF MISSION 09](/OPUF-Brief/Docs/NOTAM/NOTAM_09.html)
 
-ATO for 7th of JUNE 2011
-- Will be published evening Friday 21st June real-world time. (based on signups and requests)
+# ATO for 7th of JUNE 2011
+This ATO is supported by the following documents: <br>
+* ACO
+* Weekly SPINS
+* NOTAM
 
-
-
+## Priorites
+This ATO periods primary focus is to set conditions for the arrivial of allied naval reinforcements from CSG-74, in addition to a amphibious task group. <br>
+* Priority 1: Locate and neutralize Silkworm threat in the SoH
+* Priority 2: CAS in support of friendlies effort to recapture the airfield of KHASAB
+* Priority 3: SEAD/DEAD effort in Bandar Abbas region
+* Priority 4: Supporting efforts
+<br>
+<br>
 
 ## TASKING 
 ### BEAST
