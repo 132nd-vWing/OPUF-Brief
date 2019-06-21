@@ -23,7 +23,7 @@ This ATO periods primary focus is to set conditions for the arrivial of allied n
 
 ## TASKING 
 ### BEAST
-**CAS** 
+**MISSION:**  CAS
 <br>
 **CONTROLLER:** JTAC HITMAN 
 <br>
@@ -39,7 +39,7 @@ This ATO periods primary focus is to set conditions for the arrivial of allied n
 
 
 ### AXE
-**CAS** 
+**MISSION:** CAS
 <br>
 **CONTROLLER:** JTAC HITMAN 
 <br>
@@ -55,7 +55,7 @@ This ATO periods primary focus is to set conditions for the arrivial of allied n
 
 
 ### COBRA
-**ESCORT of BEAR flight / SECONDARY MISSION: CAS** 
+**MISSION:** ESCORT of BEAR flight / SECONDARY MISSION: CAS
 <br>
 **CONTROLLER:** JTAC HITMAN IVO KHASAB
 <br>
@@ -72,7 +72,7 @@ This ATO periods primary focus is to set conditions for the arrivial of allied n
 
 
 ### BEAR
-**Air Lift**
+**MISSION:**Air Lift + CASEVAC
 <br>
 **CONTROLLER:** 
 <br>
