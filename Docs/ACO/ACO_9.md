@@ -13,7 +13,7 @@ No entry into activae airspace unless approved by airspace owner/controlling age
 
 #### ROZ NEPTUNE <br>
 * Owner: JTAC HITMAN
-* Frequency: 
+* Frequency: 127.750 (PURPLE 11)
 * Centregrid: N 26 10.268 E 056 14.192
 * Altitude: GND-FL220
 * Radius: 5nm
