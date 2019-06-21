@@ -92,6 +92,13 @@
 * SA-10  
 * SA-2  
 
+
+### [25th Home Guard Air Defence Battalion](25TH_HG_BATT.MD)
+**AO: JASK**  
+**TYPE: BASE DEFENCE**
+ 
+
+
 ---
 
 ## Ground
@@ -102,7 +109,7 @@ NSTR
 ## Navy
 
 
-### 21st Coastal Artillery Battalion
+### [21st Coastal Artillery Battalion](25TH_HG_BATT.MD)
 **AO: Bandar-e-Jask**  
 
 
