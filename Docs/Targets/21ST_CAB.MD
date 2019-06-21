@@ -30,6 +30,10 @@ Following based on intelligence from recent desertions.
 * Depending on alert posture one or two of the batteries are erected at the same time.  
 * Recon PLT are tasked mostly with local security, including counter-surveillance against the local population.  
 
+
+
+### INTEL
+
 ---
 
 #### SS-C-2 INFO  
@@ -49,4 +53,10 @@ Flight altitude: < 20m
 Guidance: Inertial + active conical scanning terminal guidance radar (HY-2); or inertial + infra-red homing guidance (HY-2A); or inertial + mono-pulse active radar (HY-2B)  
 Single-shot hit probability: 90%  
 
--- // end example costal defence --
+<br>
+<br>
+<br>
+<br>
+<br>
+## Back
+[Back to frontpage](https://132nd-vwing.github.io/OPUF-Brief/)

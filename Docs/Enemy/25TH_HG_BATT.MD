@@ -20,3 +20,12 @@ The battalion is static in positions protecting the airfield.
 
 ### INTEL
 NSTR
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+## Back
+[Back to frontpage](https://132nd-vwing.github.io/OPUF-Brief/)
