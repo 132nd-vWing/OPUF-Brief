@@ -160,6 +160,7 @@ JTAC HITMAN will provide LZ as required. Coordinate escort with COBRA flight.
 **FREQUENCY:**  AWACS: A-G 1
 <br>
 **TARGET:**  JASK Air Defence Sector. Primary target: weapon storage. Secondary target: Maintainence hangar
+<br>
 **REMARKS:** <br>
 Attack is intended to degrade IRANIAN ability to conduct air operations in their SOUTHEASTERN sector, and to set conditions for the arrival of allied forces entering the Straith-of-Hormuz. 
 Primary target is 2 hardened weapon storages.<br>
