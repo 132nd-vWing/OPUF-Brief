@@ -89,7 +89,7 @@ JTAC HITMAN will provide LZ as required. Coordinate escort with COBRA flight.
 <br>
 **FREQUENCY:**  AWACS+Package ALPHA: A-A 2
 <br>
-**TARGET:**  [73rd Air Defence Battalion](73RD_AD_BN.MD)
+**TARGET:**  [73rd Air Defence Battalion](/OPUF-Brief/Docs/Enemy/73RD_AD_BN.html)
 <br>
 **REMARKS:** Package lead of ALPHA Package.
 <br>
