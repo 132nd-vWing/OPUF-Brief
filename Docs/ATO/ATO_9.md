@@ -78,18 +78,20 @@ JTAC HITMAN will provide LZ as required. Coordinate escort with COBRA flight.
 <br>
 <br>
 
-### FLIGHT
-**MISSION**
+### PANTHER
+**SEAD/DEAD. ALPHA PACKAGE**
 <br>
-**CONTROLLER:** 
+**CONTROLLER:** MAGIC 
 <br>
-**CONTACT POINT (CP):** 
+**CONTACT POINT (CP):** DONALDDUCK
 <br>
-**VUL Gametime:**
+**VUL Gametime:** N/A
 <br>
-**FREQUENCY:** 
+**FREQUENCY:**  AWACS+Package ALPHA: A-A 2
 <br>
-**REMARKS:** 
+**TARGET:**  [73rd Air Defence Battalion](73RD_AD_BN.MD)
+<br>
+**REMARKS:** Package lead of ALPHA Package.
 <br>
 <br>
 

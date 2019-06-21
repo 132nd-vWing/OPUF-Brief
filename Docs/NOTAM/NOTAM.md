@@ -1,9 +1,7 @@
 # NOTAM (NOtice To AirMen)
-<br>
-<br>
-<br>
-## Active NOTAM's
 
+
+## Active NOTAM's
 ##### [NOTAM OPUF MISSION 09](/OPUF-Brief/Docs/NOTAM/NOTAM_09.html)
 <br>
 <br>
