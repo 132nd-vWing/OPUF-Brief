@@ -3,9 +3,8 @@
 <br>
 <br>
 ## Active NOTAM's
-<br>
 
-### [NOTAM OPUF MISSION 09](/OPUF-Brief/Docs/NOTAM/NOTAM_09.html)
+##### [NOTAM OPUF MISSION 09](/OPUF-Brief/Docs/NOTAM/NOTAM_09.html)
 <br>
 <br>
 <br>
