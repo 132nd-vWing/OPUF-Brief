@@ -19,20 +19,20 @@ Please signup on 132nd Virtual Wing's event page (user on the 132nd website is r
 <br>
 
 ## Situation
-[Situation](/Docs/Situation.md) |  [Enemy Forces](/OPUF-Brief/Docs/Enemy/Enemy.md)  |  [Friendly Forces](/Docs/Friendlies.md) | [The News Company](/OPUF-Brief/Docs/News/News_company.md) |  [Recordings](/OPUF-Brief/Docs/Movies.md)
+[Situation](/Docs/Situation.md) |  [Enemy Forces](/Docs/Enemy/Enemy.md)  |  [Friendly Forces](/Docs/Friendlies.md) | [The News Company](/OPUF-Brief/Docs/News/News_company.md) |  [Recordings](/OPUF-Brief/Docs/Movies.md)
 
 
 
 ## Admin
-[Admin info](/OPUF-Brief/Docs/Admin/Admin.html) | [Presets](/Docs/Presets.md)  | [Flight information](/Docs/Flights.md) | [SPINS](/Docs/SPINS.md) | [Navigation](/Docs/Navigation.md)
+[Admin info](/Docs/Admin/Admin.html) | [Presets](/Docs/Presets.md)  | [Flight information](/Docs/Flights.md) | [SPINS](/Docs/SPINS.md) | [Navigation](/Docs/Navigation.md)
 
 
 
 ## Mission Specific Information
-[ATO MSN 09](/OPUF-Brief/Docs/ATO/ATO_9.md) | [Weekly Spins MSN 09](/Docs/SPINS_09.md)
+[ATO MSN 09](/Docs/ATO/ATO_9.md) | [Weekly Spins MSN 09](/Docs/SPINS_09.md)
 
 ## For Controllers (ATC and/or AWACS)
-[Directing](/OPUF-Brief/Docs/Directing/directing.md)
+[Directing](/Docs/Directing/directing.md)
 
 
 
