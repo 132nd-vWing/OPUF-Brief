@@ -19,7 +19,7 @@ Please signup on 132nd Virtual Wing's event page (user on the 132nd website is r
 <br>
 
 ## Situation
-[Situation](/Docs/Situation.md) |  [Enemy Forces](/OPUF-Brief/Docs/Enemy/Enemy.html)  |  [Friendly Forces](/Docs/Friendlies.md) | [The News Company](/OPUF-Brief/Docs/News/News_company.html) |  [Recordings](/OPUF-Brief/Docs/Movies.html)
+[Situation](/Docs/Situation.md) |  [Enemy Forces](/OPUF-Brief/Docs/Enemy/Enemy.md)  |  [Friendly Forces](/Docs/Friendlies.md) | [The News Company](/OPUF-Brief/Docs/News/News_company.md) |  [Recordings](/OPUF-Brief/Docs/Movies.md)
 
 
 
@@ -29,10 +29,10 @@ Please signup on 132nd Virtual Wing's event page (user on the 132nd website is r
 
 
 ## Mission Specific Information
-[ATO MSN 09](/OPUF-Brief/Docs/ATO/ATO_9.html) | [Weekly Spins MSN 09](/Docs/SPINS_09.md)
+[ATO MSN 09](/OPUF-Brief/Docs/ATO/ATO_9.md) | [Weekly Spins MSN 09](/Docs/SPINS_09.md)
 
 ## For Controllers (ATC and/or AWACS)
-[Directing](/OPUF-Brief/Docs/Directing/directing.html)
+[Directing](/OPUF-Brief/Docs/Directing/directing.md)
 
 
 
