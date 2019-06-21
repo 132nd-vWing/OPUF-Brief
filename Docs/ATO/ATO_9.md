@@ -12,6 +12,71 @@ ATO for 7th of JUNE 2011
 
 
 ## TASKING 
+### BEAST
+**CAS** 
+<br>
+**CONTROLLER:** JTAC HITMAN 
+<br>
+**CONTACT POINT (CP):** MICKEYMOUSE
+<br>
+**VUL Gametime:**1745G-1900G (1845Z-2000Z)
+<br>
+**FREQUENCY:**  PRI: 127.750 (PURPLE 11) , SEC: 238.0 (PINK 11)
+<br>
+**REMARKS:** Loadout and additional details to be coordinated by JTAC HITMAN
+<br>
+<br>
+
+
+### AXE
+**CAS** 
+<br>
+**CONTROLLER:** JTAC HITMAN 
+<br>
+**CONTACT POINT (CP):** MICKEYMOUSE
+<br>
+**VUL Gametime:**1755G-1915G (1855Z-2015Z)
+<br>
+**FREQUENCY:**  PRI: 127.750 (PURPLE 11) , SEC: 238.0 (PINK 11)
+<br>
+**REMARKS:** Loadout and additional details to be coordinated by JTAC HITMAN
+<br>
+<br>
+
+
+### COBRA
+**ESCORT of BEAR flight / SECONDARY MISSION: CAS** 
+<br>
+**CONTROLLER:** JTAC HITMAN IVO KHASAB
+<br>
+**CONTACT POINT (CP):** Outside ROZ NEPTUNE
+<br>
+**VUL Gametime:** IAW BEAR FL
+<br>
+**FREQUENCY:** For CAS: PRI: 127.750 (PURPLE 11) , SEC: 238.0 (PINK 11)
+<br>
+**REMARKS:** Contact JTAC HITMAN before entering ROZ NEPTUNE. Coordinate with BEAR flight.
+<br>
+<br>
+
+
+
+### BEAR
+**Air Lift**
+<br>
+**CONTROLLER:** 
+<br>
+**CONTACT POINT (CP):** 
+<br>
+**VUL Gametime:** Troops to be inserted between 1815G-1845G  (1915Z-1945Z)
+<br>
+**FREQUENCY:** HITMAN Freq: PRI: 127.750 (PURPLE 11) , SEC: 238.0 (PINK 11)
+<br>
+**REMARKS:** Pickup troops at Harbour (N25 58.700 E056 03.200). Troops to support attack at assault at KHASAB. Coordinate with JTAC HITMAN for LZ of troops. BPT CASEVAC of casualties from frontline during RTB. 
+JTAC HITMAN will provide LZ as required. Coordinate escort with COBRA flight.
+<br>
+<br>
+
 ### FLIGHT
 **MISSION**
 <br>
@@ -27,6 +92,7 @@ ATO for 7th of JUNE 2011
 <br>
 <br>
 
+
 ### FLIGHT
 **MISSION**
 <br>
@@ -43,9 +109,52 @@ ATO for 7th of JUNE 2011
 <br>
 
 
+### FLIGHT
+**MISSION**
+<br>
+**CONTROLLER:** 
+<br>
+**CONTACT POINT (CP):** 
+<br>
+**VUL Gametime:**
+<br>
+**FREQUENCY:** 
+<br>
+**REMARKS:** 
+<br>
+<br>
 
 
+### FLIGHT
+**MISSION**
+<br>
+**CONTROLLER:** 
+<br>
+**CONTACT POINT (CP):** 
+<br>
+**VUL Gametime:**
+<br>
+**FREQUENCY:** 
+<br>
+**REMARKS:** 
+<br>
+<br>
 
+
+### FLIGHT
+**MISSION**
+<br>
+**CONTROLLER:** 
+<br>
+**CONTACT POINT (CP):** 
+<br>
+**VUL Gametime:**
+<br>
+**FREQUENCY:** 
+<br>
+**REMARKS:** 
+<br>
+<br>
 
 
 
