@@ -28,3 +28,32 @@ Imagry valid as of 6th June 2011.
 
 
 ![SA-10 site](/OPUF-Brief/Images/SA10_map.PNG)
+
+
+
+Additional sources have confirmed the presence of 2 x HAWK sites and 1x EWR site.
+Locations as shown on map and pictures below:
+![73rd MAP](/OPUF-Brief/Images/73RD_map.PNG)
+
+
+
+![73rd EWR](/OPUF-Brief/Images/73RD_EWR.PNG)
+
+
+
+
+![HAWK NORTH](/OPUF-Brief/Images/73RD_HAWK_N.PNG)
+
+
+
+
+![HAWK WEST](/OPUF-Brief/Images/73RD_HAWK_W.PNG)
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+## Back
+[Back to frontpage](https://132nd-vwing.github.io/OPUF-Brief/)
