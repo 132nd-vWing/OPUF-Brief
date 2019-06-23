@@ -23,10 +23,10 @@ All F/A-18C aircrafts are moved forward and are located at AL MINHAD for this mi
 
 
 #### AWACS Freqs:
-Check-in
-A-A 1: RAVEN dedicated working freq
-A-A 2: Package ALPHA working freq
-A-G 1: Advisory calls and threat calls for CAS and A-G flights
+Check-in  and working freqs as follows<br>
+A-A 1: RAVEN dedicated working freq <br>
+A-A 2: Package ALPHA working freq <br>
+A-G 1: Advisory calls and threat calls for CAS and A-G flights<br>
 
 
 
