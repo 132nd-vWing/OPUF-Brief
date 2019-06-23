@@ -1,6 +1,8 @@
 # Enemy Forces
 
 
+## Air Forces
+
 
 Unit | Location | Type | Remarks
 ---- | -------- | ---- | ------- |
@@ -11,40 +13,27 @@ Unit | Location | Type | Remarks
 125th Tactical Attack Squadron (TAS) | Kerman H23 | SU-24 | 12 Aircraft
 29th Tactical Fighter Squadron (TFS) | Bandar Abbas International Airport H28 | F-5 | 12 Aircraft
 
-## Air Forces
 
-### Tactical AirBase 10 (TAB 10) :  Shiraz H24
-**100th Tactical Fighter Squadron (TFS)**
-* F-14A Squadron
-* Unit strength: x12  
-
-**273rd Tactical Fighter Squadron (TFS)**  
-* F-5 Squadron
-* Unit strength: x12  
-
-
-### Tactical AirBase 5 (TAB 5) :  Kerman H23
-**34th Tactical Fighter Squadron (TFS)**
-* MiG-29A Squadron
-* Unit strength: x12  
-
-**28th Tactical Fighter Squadron (TFS)**
-* F-4 Squadron
-* Unit Strength: x12  
-
-**125th Tactical Attack Squadron (TFS)**
-* SU-24M Squadron
-* Unit Strength: x12  
-
-
-### Tactical AirBase 2 (TAB 2) :  Bandar Abbas International Airport H28
-**29th Tactical Fighter Squadron (TFS)**
-* F-5 Squadron
-* Unit Strength: x12  
 
 ---
 
 ## Air Defence
+
+
+Unit | Location | Type | Remarks
+---- | -------- | ---- | ------- |
+[73rd Air Defence Battalion](73RD_AD_BN.MD) | Bandar Abbas Region | Area Defence | NSTR 
+[27th Home Guard Air Defence Battalion](27TH_HG_BATT.MD) | Strait of Hormuz | EWR | NSTR
+78th Air Defence Battalion | LAR | Base Defence | SA-6 Battalion
+74th Air Defence Battalion | SHIRAZ | Base Defence | SA-6 Battalion
+63rd Air Defence Battalion | LAVAN | Base Defence | HAWK Battery
+62nd Air Defence Battalion | BUSHER | Base Defence | SA-2 Battery
+79th Air Defence Battalion | JIROFT | Base Defence | SA-3 + SA-6 Battery
+99th Air Defence Battalion | KERMAN | Base Defence | SA-10 + SA-2
+[25th Home Guard Air Defence Battalion](25TH_HG_BATT.MD) | JASK | Base Defence | Rapier Battery
+
+
+
 
 ### [73rd Air Defence Battalion](73RD_AD_BN.MD)
 **AO: Bandar Abbas Region**  
