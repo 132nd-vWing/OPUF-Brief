@@ -40,6 +40,9 @@ NSTR
 
 
 
+
+
+
 ## Navy
 
 
@@ -49,12 +52,7 @@ Unit | Location | Type | Remarks
 22nd Coastal Artillery Battalion  | QHESM ISLAND | Coastal Artillery | NSTR
 
 
-### [21st Coastal Artillery Battalion](21ST_CAB.MD)
-**AO: Bandar-e-Jask**  
 
-
-### 22nd Coastal Artillery Battalion
-**AO: QHESM ISLAND**  
 
 
 
