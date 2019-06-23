@@ -15,7 +15,7 @@ Unit | Location | Type | Remarks
 
 
 
----
+
 
 ## Air Defence
 
@@ -35,76 +35,18 @@ Unit | Location | Type | Remarks
 
 
 
-### [73rd Air Defence Battalion](73RD_AD_BN.MD)
-**AO: Bandar Abbas Region**  
-**TYPE: AREA DEFENCE**
-  
- 
-
-### [27th Home Guard Air Defence Battalion](27TH_HG_BATT.MD)
-**AO: Straight of Hormuz**  
-**TYPE: EWR**
-
-### 78th Air Defence Battalion
-**AO: LAR**  
-**TYPE: BASE DEFENCE**
-  
-**Known Deployments:**
-* SA-6  
-
-
-### 74th Air Defence Battalion
-**AO: SHIRAZ**  
-**TYPE: BASE DEFENCE**
-**Known Deployments:**
-* SA-6  
-
-
-### 63rd Air Defence Battalion
-**AO: LAVAN**  
-**TYPE: BASE DEFENCE**
-**Known Deployments:**
-* HAWK  
-
-### 62nd Air Defence Battalion
-**AO: BUSHER**  
-**TYPE: BASE DEFENCE**
-**Known Deployments:**
-* SA-2  
-* HAWK  
-* EWR  
-
-
-### 79th Air Defence Battalion
-**AO: JIROFT**  
-**TYPE: BASE DEFENCE**
-**Known Deployments:**
-* SA-3  
-* SA-6  
-
-
-### 99th Air Defence Battalion
-**AO: KERMAN**  
-**TYPE: BASE DEFENCE**
-**Known Deployments:**
-* SA-10  
-* SA-2  
-
-
-### [25th Home Guard Air Defence Battalion](25TH_HG_BATT.MD)
-**AO: JASK**  
-**TYPE: BASE DEFENCE**
- 
-
-
----
-
 ## Ground
 NSTR  
 
----
+
 
 ## Navy
+
+
+Unit | Location | Type | Remarks
+---- | -------- | ---- | ------- |
+[21st Coastal Artillery Battalion](21ST_CAB.MD) | BANDAR-E-JASK | Coastal Artillery | NSTR
+22nd Coastal Artillery Battalion  | QHESM ISLAND | Coastal Artillery | NSTR
 
 
 ### [21st Coastal Artillery Battalion](21ST_CAB.MD)
@@ -114,7 +56,7 @@ NSTR
 ### 22nd Coastal Artillery Battalion
 **AO: QHESM ISLAND**  
 
----
+
 
 ## Back
 [Back to frontpage](https://132nd-vwing.github.io/OPUF-Brief/)
