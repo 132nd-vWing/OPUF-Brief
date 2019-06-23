@@ -1,6 +1,15 @@
 # Enemy Forces
 
----
+
+
+Unit | Location | Type | Remarks
+---- | -------- | ---- | ------- |
+100th Tactical Fighter Squadron (TFS) | Shiraz H24 | F-14A | 12 Aircraft
+273rd Tactical Fighter Squadron (TFS) | Shiraz H24 | F-5| 12 Aircraft
+34th Tactical Fighter Squadron (TFS) | Kerman H23 | MiG-29A | 12 Aircraft
+28th Tactical Fighter Squadron (TFS) | Kerman H23 | F-4 | 12 Aircraft
+125th Tactical Attack Squadron (TAS) | Kerman H23 | SU-24 | 12 Aircraft
+29th Tactical Fighter Squadron (TFS) | Bandar Abbas International Airport H28 | F-5 | 12 Aircraft
 
 ## Air Forces
 
