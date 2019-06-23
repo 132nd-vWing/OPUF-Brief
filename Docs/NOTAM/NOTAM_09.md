@@ -24,6 +24,7 @@ All F/A-18C aircrafts are moved forward and are located at AL MINHAD for this mi
 
 #### AWACS Freqs:
 Check-in  and working freqs as follows<br>
+Check-in: Check-in Freq
 A-A 1: RAVEN dedicated working freq <br>
 A-A 2: Package ALPHA working freq <br>
 A-G 1: Advisory calls and threat calls for CAS and A-G flights<br>
@@ -35,6 +36,14 @@ Abbreviated check-in's: <br>
 Fligth check in the following way: <br>
 Flight: "AXE flight checking in as fragged, Bulls 180 for 55" <br>
 AWACS: "Positive radar contact, push A-A 1 / A-A 2 / A-G 1" (as required per flight) <br>
+
+
+
+**FLOW**
+* Before taxi, pilots gives a advisory call to AL MINHAD Traffic about taxing, takeoff and departure out of the airspace
+* Outside ATC controlled area, pilot will push to AWACS Check-in freq and give abbreviated check-in. 
+* Flight will then be pushed to dedicated AWACS working freq
+* Flight resumes communication with AWACS on working freq.
 <br>
 <br>
 <br>
