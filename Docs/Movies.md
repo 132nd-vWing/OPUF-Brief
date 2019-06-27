@@ -18,6 +18,9 @@
 
 [132nd Virtual WingOP URGENT FURY MSN 1](https://www.twitch.tv/videos/308309227)
 
+[DCS 132nd 617th - OP Urgent Fury 09: BEAST 1-2](https://youtu.be/Gla2fPPifCA)
+
+
 <br>
 <br>
 <br>
