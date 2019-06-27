@@ -23,7 +23,8 @@ Please signup on 132nd Virtual Wing's event page (user on the 132nd website is r
 <br>
 
 ## Situation
-[Situation](/Docs/Situation.md) |  [Enemy Forces](/OPUF-Brief/Docs/Enemy/Enemy.html)  |  [Friendly Forces](/Docs/Friendlies.md) | [The News Company](/OPUF-Brief/Docs/News/News_company.html) |  [NOTAM's](/OPUF-Brief/Docs/NOTAM/NOTAM.html) | [Recordings](/OPUF-Brief/Docs/Movies.html) 
+[Situation](/Docs/Situation.md) |  [Enemy Forces](/OPUF-Brief/Docs/Enemy/Enemy.html)  |  [Friendly Forces](/Docs/Friendlies.md) | [The News Company](/OPUF-Brief/Docs/News/News_company.html) |  [NOTAM's](/OPUF-Brief/Docs/NOTAM/NOTAM.html) | 
+[Recordings](/OPUF-Brief/Docs/Movies.html) | [TARGET LIST](/OPUF-Brief/Docs/TARGET/Target_list.html) |
 
 
 
