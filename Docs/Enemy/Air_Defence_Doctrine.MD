@@ -41,6 +41,7 @@ Mission: Supporting 1x Regiment (3x Mechanized or motorized BN), Frontline force
 Mission: Supporting Armor BN, Frontline forces<br>
 4x SA-15<br>
 4x SA-8<br>
+1x Dog Ear Radar<br>
 
 
 
