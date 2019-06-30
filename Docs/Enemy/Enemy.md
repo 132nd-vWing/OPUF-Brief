@@ -27,6 +27,15 @@ Air Defence (EWR, SAM and AAA) are doctrinally operating in the following way: <
 
 Unit | Location | Type | Remarks
 ---- | -------- | ---- | ------- |
+72nd Air Defence Brigade (72nd ADB) | KERMAN | Area Defence | NSTR
+74th Air Defence Brigade  74th ADB) | SHIRAZ | Area Defence | NSTR
+66th SA-6 Regiment (66th SA6 REGT) | LAR | Point Defence | NSTR
+
+ OLD: (Mission 9 and before. Not to be used for MSN 10 and above) 
+ 
+
+Unit | Location | Type | Remarks
+---- | -------- | ---- | ------- |
 [73rd Air Defence Battalion](73RD_AD_BN.MD) | Bandar Abbas Region | Area Defence | NSTR 
 [27th Home Guard Air Defence Battalion](27TH_HG_BATT.MD) | Strait of Hormuz | EWR | NSTR
 78th Air Defence Battalion | LAR | Base Defence | SA-6 Battalion

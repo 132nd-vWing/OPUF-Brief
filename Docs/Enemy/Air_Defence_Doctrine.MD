@@ -17,6 +17,15 @@ Mission: Protecting Infrastructure (Civilian airfields)<br>
 
 
 
+## Air Defence Platoon<br>
+Mission: Either supporting static sites, or as part of Air Defence Battery supporting Frontline forces<br>
+1x SA-19 Tunguska<br>
+1x SA-13<br>
+3x Manpads<br>
+
+
+
+
 ## Air Defence Battery <br>
 Mission: Supporting a Battalion (Mechanized or Motorized), Frontline forces<br>
 2x Tunguska SA-19<br>
@@ -67,6 +76,7 @@ EWR<br>
 1x TR SNR-75 Fan Song (Radar)<br>
 1x SR P-19 (Radar)<br>
 6x Launchers<br>
+1x Air Defence Platoon  <br>
 Logistics<br>
 
 
@@ -82,6 +92,7 @@ EWR<br>
 1x S-125 TR SNR (Radar)<br>
 1x SR P-19  (Radar)<br>
 4x Launchers<br>
+1x Air Defence Platoon  <br>
 Logistics<br>
 
 
@@ -96,6 +107,7 @@ EWR<br>
 ### SA-6 BN<br>
 1x STR 9S91 (radar)<br>
 4x Launchers<br>
+1x Air Defence Platoon  <br>
 Logistics<br>
 
 
