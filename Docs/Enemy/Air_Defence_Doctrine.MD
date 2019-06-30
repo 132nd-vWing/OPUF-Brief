@@ -1,0 +1,144 @@
+#  Air Defence Doctrine
+
+The Air Defences are operating in accordance with the following Doctrine:
+
+## Home guard Air Defence Battery (HGADB)<br>
+Mission: Protecting Infrastructure
+1-2 x ZU-23 or ZSU 23/4
+1-2 x SA-9 or SA-13
+
+
+## Home Guard Air Defence Battalion (HGADBN)<br>
+Mission: Protecting Infrastructure (Civilian airfields)<br>
+1-2 x Rapier systems<br>
+1-2 x ZU-23 or ZSU 23-4<br>
+
+
+
+
+
+## Air Defence Battery <br>
+Mission: Supporting a Battalion (Mechanized or Motorized), Frontline forces<br>
+2x Tunguska SA-19<br>
+2x SA-13<br>
+6x Manpads<br>
+
+
+
+
+
+## Air Defence Battalion<br>
+Mission: Supporting 1x Regiment (3x Mechanized or motorized BN), Frontline forces<br>
+6x 2S6 Tunguska SA-19<br>
+6x SA-13<br>
+18x Manpads<br>
+
+
+
+
+
+## Air Defence Revolutionary Guard Battalion  (ADRGB) <br>
+Mission: Supporting Armor BN, Frontline forces<br>
+4x SA-15<br>
+4x SA-8<br>
+
+
+
+
+
+## HAWK BN<br>
+1x SR AN/MPQ 50 (Radar)<br>
+1x TR AN/MPQ 46 (Radar)<br>
+1x CWAR AN/MPQ 55 (Radar)<br>
+1x PCP<br>
+6x Launchers<br>
+
+
+
+
+
+## SA-2 Regiment<br>
+2 x SA-2 BN<br>
+EWR<br>
+
+
+### SA-2 BN  <br>
+1x TR SNR-75 Fan Song (Radar)<br>
+1x SR P-19 (Radar)<br>
+6x Launchers<br>
+Logistics<br>
+
+
+
+
+
+## SA-3 Regiment<br>
+2x SA-3 BN<br>
+EWR<br>
+
+
+### SA-3 BN<br>
+1x S-125 TR SNR (Radar)<br>
+1x SR P-19  (Radar)<br>
+4x Launchers<br>
+Logistics<br>
+
+
+
+
+
+## SA-6 Regiment<br>
+2x SA-6 BN<br>
+EWR<br>
+
+
+### SA-6 BN<br>
+1x STR 9S91 (radar)<br>
+4x Launchers<br>
+Logistics<br>
+
+
+
+
+
+## Air Defence Brigade<br>
+Mission is to protect critically important fixed installations (Such as military airfields)<br>
+SA-10 BN<br>
+2x SA-11 Batterys<br>
+1x Air Defence Battery<br>
+
+### SA-10 BN<br>
+1x S300 PS TR 30N6 (Radar)<br>
+1x S300 PS SR 64H6R (Radar)<br>
+1x S300 PS SR 5N66M (Radar)<br>
+1x S300 PS CP 54K6<br>
+8x Launchers<br>
+Logistics<br>
+
+
+
+### SA-11 Battery<br>
+1x SR 9S18 M1 (Radar)<br>
+1x CC 9S470M1<br>
+2x Launchers<br>
+Logistics<br>
+
+
+
+### Air Defence battery<br>
+2x Tunguska SA-19<br>
+2x SA-13<br>
+6x Manpads<br>
+
+
+
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+## Back
+[Back to frontpage](https://132nd-vwing.github.io/OPUF-Brief/)

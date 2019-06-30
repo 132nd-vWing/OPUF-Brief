@@ -20,6 +20,11 @@ Unit | Location | Type | Remarks
 ## Air Defence
 
 
+Air Defence (EWR, SAM and AAA) are doctrinally operating in the following way: <br>
+[Air Defence Doctrine](Air_Defence_Doctrine.MD)
+<br>
+
+
 Unit | Location | Type | Remarks
 ---- | -------- | ---- | ------- |
 [73rd Air Defence Battalion](73RD_AD_BN.MD) | Bandar Abbas Region | Area Defence | NSTR 
