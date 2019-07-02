@@ -9,7 +9,7 @@ This page gives necessary information for participation on 132nd Virtual Wing's 
 
 
 
-Next event takes place Sunday 23rd June at 1800Z. Signups requested by evening   Friday 21st June. 
+
 Please signup on 132nd Virtual Wing's event page (user on the 132nd website is required): <br>
 [132nd Events](http://www.132virtualwing.org/index.php/page/events)
 
@@ -24,7 +24,8 @@ Please signup on 132nd Virtual Wing's event page (user on the 132nd website is r
 
 ## Situation
 [Situation](/Docs/Situation.md) |  [Enemy Forces](/OPUF-Brief/Docs/Enemy/Enemy.html)  |  [Friendly Forces](/Docs/Friendlies.md) | [The News Company](/OPUF-Brief/Docs/News/News_company.html) |  [NOTAM's](/OPUF-Brief/Docs/NOTAM/NOTAM.html) | 
-[Recordings](/OPUF-Brief/Docs/Movies.html) | [TARGET LIST](/OPUF-Brief/Docs/TARGET/Target_list.html) |
+[Recordings](/OPUF-Brief/Docs/Movies.html) | [TARGET LIST](/OPUF-Brief/Docs/TARGET/Target_list.html) | [Archive Missions](/OPUF-Brief/Docs/Archive.html) |  
+
 
 
 
@@ -34,7 +35,7 @@ Please signup on 132nd Virtual Wing's event page (user on the 132nd website is r
 
 
 ## Mission Specific Information
-[ATO MSN 09](/OPUF-Brief/Docs/ATO/ATO_9.html) | [Weekly Spins MSN 09](/Docs/SPINS_09.md) | [NOTAM OPUF MISSION 09](/OPUF-Brief/Docs/NOTAM/NOTAM_09.html) | [Airspace Control Order MSN 09](/OPUF-Brief/Docs/ACO/ACO_9.html)
+
 
 ## For Controllers (ATC and/or AWACS)
 [Directing](/OPUF-Brief/Docs/Directing/directing.html)
