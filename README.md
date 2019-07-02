@@ -34,7 +34,8 @@ Please signup on 132nd Virtual Wing's event page (user on the 132nd website is r
 
 
 
-## Mission Specific Information
+## Mission Specific Information <br>
+To be added for MISSION 10 when a date have been set. (LIKELY AUGUST)
 
 
 ## For Controllers (ATC and/or AWACS)
