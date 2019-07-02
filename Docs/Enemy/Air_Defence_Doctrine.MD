@@ -47,7 +47,7 @@ Mission: Supporting 1x Regiment (3x Mechanized or motorized BN), Frontline force
 
 
 ## Air Defence Revolutionary Guard Battalion  (ADRGB) <br>
-Mission: Supporting Armor BN, Frontline forces<br>
+Mission: Supporting Armor Regiment, Frontline forces<br>
 4x SA-15<br>
 4x SA-8<br>
 1x Dog Ear Radar<br>

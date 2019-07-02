@@ -50,8 +50,14 @@ Unit | Location | Type | Remarks
 
 
 ## Ground
-NSTR  
 
+
+Ground Forces are doctrinally operating in the following way: <br>
+[Ground Forces Doctrine](Ground_Force_Structure.MD)
+<br>
+Unit | Location | Type | Remarks
+---- | -------- | ---- | ------- |  
+133rd Armored Regiment | LAR | T-72 | NSTR
 
 
 
