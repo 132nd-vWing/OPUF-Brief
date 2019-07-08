@@ -16,7 +16,7 @@ MBT BN 2 | Battalion |
 
 ### Regimental Headquarter
 
-Unit | Size | Type | vehicles |
+Unit | Size | Type | Vehicles |
 Regiment HQ | Platoon | Headquarter| 1x Mobile Command Post, 2x UAZ 469, 2x KAMAZ 43101, 1x ZIL 131 KUNG|
 
 
@@ -24,7 +24,7 @@ Regiment HQ | Platoon | Headquarter| 1x Mobile Command Post, 2x UAZ 469, 2x KAMA
 
 ### Artillery Battery
 
-Unit | Size | Type | vehicles |
+Unit | Size | Type | Vehicles |
 Arty Battery 1 | Battery 1 | Artillery | 3x Artillery tubes, 2x Utility vehicles |
 
 
@@ -32,7 +32,7 @@ Arty Battery 1 | Battery 1 | Artillery | 3x Artillery tubes, 2x Utility vehicles
 
 ### Main Battle Tank Battalion
 
-Unit | Size | Type | vehicles |
+Unit | Size | Type | Vehicles |
 ---- | ---- | ---- | -------- |
 MBT Company 1 | Company 1 | Line company |          |
               | Platoon 11 | Line platoon | 3 x MBT's |
@@ -73,7 +73,7 @@ Mechanized Infantry BN 2 | Battalion |
 
 ### Regimental Headquarter
 
-Unit | Size | Type | vehicles |
+Unit | Size | Type | Vehicles |
 Regiment HQ | Platoon | Headquarter| 1x Mobile Command Post, 2x UAZ 469, 2x KAMAZ 43101, 1x ZIL 131 KUNG|
 
 
@@ -81,7 +81,7 @@ Regiment HQ | Platoon | Headquarter| 1x Mobile Command Post, 2x UAZ 469, 2x KAMA
 
 ### Artillery Battery
 
-Unit | Size | Type | vehicles |
+Unit | Size | Type | Vehicles |
 Arty Battery 1 | Battery 1 | Artillery | 3x Artillery tubes, 2x Utility vehicles |
 
 
@@ -89,7 +89,7 @@ Arty Battery 1 | Battery 1 | Artillery | 3x Artillery tubes, 2x Utility vehicles
 
 ### Mechanized Infantry Battalion
 
-Unit | Size | Type | vehicles |
+Unit | Size | Type | Vehicles |
 ---- | ---- | ---- | -------- |
 Mechanized Infantry Company 1 | Company 1 | Line company |          |
               | Platoon 11 | Line platoon | 3 x IFV |
@@ -124,7 +124,7 @@ Motorized Infantry BN 2 | Battalion |
 
 ### Regimental Headquarter
 
-Unit | Size | Type | vehicles |
+Unit | Size | Type | Vehicles |
 Regiment HQ | Platoon | Headquarter| 1x Mobile Command Post, 2x UAZ 469, 2x KAMAZ 43101, 1x ZIL 131 KUNG|
 
 
@@ -132,7 +132,7 @@ Regiment HQ | Platoon | Headquarter| 1x Mobile Command Post, 2x UAZ 469, 2x KAMA
 
 ### Artillery Battery
 
-Unit | Size | Type | vehicles |
+Unit | Size | Type | Vehicles |
 Arty Battery 1 | Battery 1 | Artillery | 3x Artillery tubes, 2x Utility vehicles |
 
 
@@ -140,7 +140,7 @@ Arty Battery 1 | Battery 1 | Artillery | 3x Artillery tubes, 2x Utility vehicles
 
 ### Motorized Infantry Battalion
 
-Unit | Size | Type | vehicles |
+Unit | Size | Type | Vehicles |
 ---- | ---- | ---- | -------- |
 Motorized Infantry Company 1 | Company 1 | Line company |          |
               | Platoon 11 | Line platoon | 3 x APC |
