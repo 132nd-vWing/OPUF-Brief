@@ -38,7 +38,27 @@
 
 
 
+## Armored Regiment (Main battle Tank Regiment)
+Unit | Size | 
+---- | -------- | 
+Regiment HQ | Platoon |
+Artillery Battery | Battery |
+MBT BN 1 | Battalion | 
+MBT BN 2 | Battalion |
 
+
+### Main Battle Tanke Battalion
+Unit | Size | Type | Veichles |
+---- | ---- | ---- | -------- |
+MBT Company 1 | Company | Line company - Main battle Tanks | 6 x MBT's |
+              | Platoon 1 | Line platoon- Main battle Tanks | 3 x MBT's |
+			  | Platoon 2 | Line platoon- Main battle Tanks | 3 x MBT's |
+MBT Company 2 | Company | Line company - Main battle Tanks | 6 x MBT's |
+              | Platoon 1 | Line platoon- Main battle Tanks | 3 x MBT's |
+			  | Platoon 2 | Line platoon- Main battle Tanks | 3 x MBT's |
+MBT Company 3 | Company | Support Company | 6 x Logistical veichles |
+              | Platoon 1 | logistical platoon  | 3 x logistical veichles |
+              | Platoon 2 | logistical platoon  | 3 x logistical veichles |
 
 ## Mech Inf Regiment<br>
 2x Mec Inf BN (IFV)<br>
