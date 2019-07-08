@@ -1,44 +1,8 @@
-#  Ground Forces
-
-## MBT Regiment<br>
-1x HQ Platoon
-2x MBT BN<br>
-1x Arty Battery<br>
-
-
-### MBT BN (12x MBT + 6 log veichles)<br>
-2x MBT Company's (line company) <br>
-1x Support company<br>
-
-
-#### MBT Line Company (6x MBT)<br>
-2x MBT Platoons<br>
-
-
-#### Support Company <br>
-2x Platoons logistical veichles (3x veichles)<br>
+#  Ground Forces Structure
 
 
 
-#### Artillery Battery<br>
-3 x Artillery tubes<br>
-2 logistical veichles<br>
-
-
-
-#### HQ Platoon<br>
-1 x Mobile Command Post<br>
-2 x UAZ 469<br>
-2x KAMAZ 43101<br>
-1x ZIL 131 KUNG<br>
-
-
-##### MBT Platoons  (3x MBT)<br>
-3x MBT <br> 
-
-
-
-## Armored Regiment (Main battle Tank Regiment)
+## Armored Regiment (Main Battle Tank Regiment)
 
 Unit | Size | 
 ---- | -------- | 
@@ -48,20 +12,48 @@ MBT BN 1 | Battalion |
 MBT BN 2 | Battalion |
 
 
-### Main Battle Tanke Battalion
 
-Unit | Size | Type | Veichles |
+
+### Regimental Headquarter
+
+Unit | Name | Type | Veichles |
+Regiment HQ | Platoon | Headquarter| 1x Mobile Command Post, 2x UAZ 469, 2x KAMAX 43101, 1x ZIL 131 KUNG|
+
+
+
+
+### Artillery Battery
+
+Unit | Name | Type | Veichles |
+Arty Battery 1 | Battery 1 | Artillery | 3x Artillery tubes, 2x Utility veichles |
+
+
+
+
+### Main Battle Tank Battalion
+
+Unit | Name | Type | Veichles |
 ---- | ---- | ---- | -------- |
-MBT Company 1 | Company | Line company - Main battle Tanks | 6 x MBT's |
-              | Platoon 1 | Line platoon- Main battle Tanks | 3 x MBT's |
-			  | Platoon 2 | Line platoon- Main battle Tanks | 3 x MBT's |
-MBT Company 2 | Company | Line company - Main battle Tanks | 6 x MBT's |
-              | Platoon 1 | Line platoon- Main battle Tanks | 3 x MBT's |
-			  | Platoon 2 | Line platoon- Main battle Tanks | 3 x MBT's |
-MBT Company 3 | Company | Support Company | 6 x Logistical veichles |
-              | Platoon 1 | logistical platoon  | 3 x logistical veichles |
-              | Platoon 2 | logistical platoon  | 3 x logistical veichles |
+MBT Company 1 | Company 1 | Line company |          |
+              | Platoon 1 | Line platoon | 3 x MBT's |
+			  | Platoon 2 | Line platoon | 3 x MBT's |
+MBT Company 2 | Company 2 | Line company  |         |
+              | Platoon 1 | Line platoon | 3 x MBT's |
+			  | Platoon 2 | Line platoon | 3 x MBT's |
+MBT Company 3 | Company 3 | Support Company |         |
+              | Platoon 1 | Support platoon  | 3 x Utility veichles |
+              | Platoon 2 | Support platoon  | 3 x Utility veichles |
+			  
+			  
+			    
+			  
 
+			  
+			  
+			  
+			  
+			  
+			  
 ## Mech Inf Regiment<br>
 2x Mec Inf BN (IFV)<br>
 1x Arty Battery<br>
