@@ -39,6 +39,7 @@
 
 
 ## Armored Regiment (Main battle Tank Regiment)
+
 Unit | Size | 
 ---- | -------- | 
 Regiment HQ | Platoon |
@@ -48,6 +49,7 @@ MBT BN 2 | Battalion |
 
 
 ### Main Battle Tanke Battalion
+
 Unit | Size | Type | Veichles |
 ---- | ---- | ---- | -------- |
 MBT Company 1 | Company | Line company - Main battle Tanks | 6 x MBT's |
