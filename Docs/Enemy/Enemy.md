@@ -60,7 +60,7 @@ Ground Forces are doctrinally operating in the following way: <br>
 
 Unit | Location | Type | Remarks |
 ---- | -------- | ---- | ------- |  
-[133rd ARMORED REGIMENT](133rd_MBT_REGT.html) | LAR | T-72 | NSTR |
+[133rd ARMORED REGIMENT](133rd_MBT_REGT.MD) | LAR | T-72 | NSTR |
 
 
 
