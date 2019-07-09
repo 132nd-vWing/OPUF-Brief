@@ -66,6 +66,7 @@ Unit | Location | Type | Remarks |
 [133rd ARMORED REGIMENT](/OPUF-Brief/Docs/Enemy/133RD_MBT_REGT.html) | LAR | T-72 | NSTR |
 [123rd MOTORIZED INFANTRY REGIMENT](/OPUF-Brief/Docs/Enemy/123RD_APC_REGT.html) | JENAH | BTR-80 | NSTR |
 [421st RECON COMPANY](/OPUF-Brief/Docs/Enemy/421ST_REC_COY.html) | LAR | Land Rover and Infantry | NSTR |
+[222nd MEHANIZED INFANTRY REGIMENT](/OPUF-Brief/Docs/Enemy/222ND_IFV_REGT.html) | LAR | T-72 | NSTR |
 
 
 
