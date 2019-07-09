@@ -33,6 +33,9 @@ Unit | Location | Type | Remarks
 43rd HAWK Battalion (43rd HAWK BN) | LAVAN | Point Defence | NSTR
 51st SA-2 Regiment (51st SA2 REGT) | KHONJ | Point Defence | NSTR
 85th SA-3 Regiment (86th SA3 REGT) | NAJAFSHAHR | Point Defence | NSTR
+623rd SA-6 Battalion (623rd SA6 BN) | JIROFT | Point Defence | NSTR
+544th SA-2 Battalion (544th SA2 BN) | BAM | Point Defence | NSTR
+853rd SA-3 Battalion (853th SA3 BN) | HASHTBANDI | Point Defence | NSTR
 
 
 
