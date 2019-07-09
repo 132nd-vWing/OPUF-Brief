@@ -6,11 +6,11 @@
 
 
 ### BACKGROUND<br>
-The 222nd Mechanized Infantry Regiment is based at the city at JENAH.
+The 222nd Mechanized Infantry Regiment is based at the city at HAJIABAD.
 
 
 ### EQUIPMENT <br>
-2x IFV BN  (12x BTR-80 in each Battalion) <br>
+2x IFV BN  (12x BMP-2 in each Battalion) <br>
 1x Arty battery (3x Artillery tubes) <br>
 HQ Platoon (1 x Mobile Command Post, 2 x UAZ 469, 2x KAMAZ 43101, 1x ZIL 131 KUNG) <br>
 
