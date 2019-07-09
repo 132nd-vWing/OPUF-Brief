@@ -70,7 +70,8 @@ Unit | Location | Type | Remarks |
 [222nd MECHANIZED INFANTRY REGIMENT](/OPUF-Brief/Docs/Enemy/222ND_IFV_REGT.html) | HAJIABAD | BMP-2 | NSTR |
 
 
-
+#### Army Disposition
+![Ground Forces](/OPUF-Brief/Images/Groundforces.PNG)
 
 
 ## Navy
