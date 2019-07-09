@@ -1,6 +1,8 @@
 #  123rd Motorized Regiment<br>
 
 
+![123rd Motorized Infantry Regiment Logo](/OPUF-Brief/Images/123rd_APC_REGT.PNG)
+
 
 
 ### BACKGROUND<br>
