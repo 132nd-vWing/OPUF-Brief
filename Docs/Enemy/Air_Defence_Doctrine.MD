@@ -37,10 +37,10 @@ Mission: Supporting a Battalion (Mechanized or Motorized), Frontline forces<br>
 
 
 ## Air Defence Battalion<br>
-Mission: Supporting 1x Regiment (3x Mechanized or motorized BN), Frontline forces<br>
-6x 2S6 Tunguska SA-19<br>
-6x SA-13<br>
-18x Manpads<br>
+Mission: Supporting 1x Regiment (2x Mechanized or motorized BN), Frontline forces<br>
+4x 2S6 Tunguska SA-19<br>
+4x SA-13<br>
+12x Manpads<br>
 
 
 
