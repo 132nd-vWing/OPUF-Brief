@@ -30,6 +30,8 @@ Unit | Location | Type | Remarks
 72nd Air Defence Brigade (72nd ADB) | KERMAN | Area Defence | NSTR
 74th Air Defence Brigade  74th ADB) | SHIRAZ | Area Defence | NSTR
 66th SA-6 Regiment (66th SA6 REGT) | LAR | Point Defence | NSTR
+43rd HAWK Battalion (43rd HAWK BN) | LAVAN | Point Defence | NSTR
+51st SA-2 Regiment (51st SA2 REGT) | KHONJ | Point Defence | NSTR
 
  OLD: (Mission 9 and before. Not to be used for MSN 10 and above) 
  
