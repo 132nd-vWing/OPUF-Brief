@@ -1,4 +1,4 @@
-#  123rd Motorized Regiment<br>
+#  123rd Motorized Infantry Regiment<br>
 
 
 ![123rd Motorized Infantry Regiment Logo](/OPUF-Brief/Images/123rd_APC_REGT.PNG)
@@ -6,11 +6,11 @@
 
 
 ### BACKGROUND<br>
-The 123rd Armored Regiment is based at the city at JENAH.
+The 123rd Motorized Infantry Regiment is based at the city at JENAH.
 
 
 ### EQUIPMENT <br>
-2x BTR BN  (12x BTR-80 in each Battalion) <br>
+2x APC BN  (12x BTR-80 in each Battalion) <br>
 1x Arty battery (3x Artillery tubes) <br>
 HQ Platoon (1 x Mobile Command Post, 2 x UAZ 469, 2x KAMAZ 43101, 1x ZIL 131 KUNG) <br>
 
