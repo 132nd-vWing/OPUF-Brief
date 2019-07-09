@@ -61,6 +61,7 @@ Ground Forces are doctrinally operating in the following way: <br>
 Unit | Location | Type | Remarks |
 ---- | -------- | ---- | ------- |  
 [133rd ARMORED REGIMENT](/OPUF-Brief/Docs/Enemy/133RD_MBT_REGT.html) | LAR | T-72 | NSTR |
+[123rd MOTORIZED REGIMENT](/OPUF-Brief/Docs/Enemy/123RD_APC_REGT.html) | JENAH | BTR-80 | NSTR |
 
 
 
