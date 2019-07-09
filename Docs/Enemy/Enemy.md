@@ -32,22 +32,12 @@ Unit | Location | Type | Remarks
 66th SA-6 Regiment (66th SA6 REGT) | LAR | Point Defence | NSTR
 43rd HAWK Battalion (43rd HAWK BN) | LAVAN | Point Defence | NSTR
 51st SA-2 Regiment (51st SA2 REGT) | KHONJ | Point Defence | NSTR
+85th SA-3 Regiment (86th SA3 REGT) | NAJAFSHAHR | Point Defence | NSTR
 
- OLD: (Mission 9 and before. Not to be used for MSN 10 and above) 
- 
 
-Unit | Location | Type | Remarks
----- | -------- | ---- | ------- |
-[73rd Air Defence Battalion](73RD_AD_BN.MD) | Bandar Abbas Region | Area Defence | NSTR 
-[27th Home Guard Air Defence Battalion](27TH_HG_BATT.MD) | Strait of Hormuz | EWR | NSTR
-78th Air Defence Battalion | LAR | Base Defence | SA-6 Battalion
-74th Air Defence Battalion | SHIRAZ | Base Defence | SA-6 Battalion
-63rd Air Defence Battalion | LAVAN | Base Defence | HAWK Battery
-62nd Air Defence Battalion | BUSHER | Base Defence | SA-2 Battery
-79th Air Defence Battalion | JIROFT | Base Defence | SA-3 + SA-6 Battery
-99th Air Defence Battalion | KERMAN | Base Defence | SA-10 + SA-2
-[25th Home Guard Air Defence Battalion](25TH_HG_BATT.MD) | JASK | Base Defence | Rapier Battery
 
+[IRAN SAM COVERAGE COMBAT FLITE](/OPUF-Brief/Docs/IADS/IRAN SAM NETWORK.cf) <br>
+![IRAN SAM COVERAGE](/OPUF-Brief/Images/IRAN_SAM_COVERAGE.PNG)
 
 
 
@@ -81,6 +71,27 @@ Unit | Location | Type | Remarks
 
 
 
+
+
+
+
+
+
+
+# OLD: (Mission 9 and before. Not to be used for MSN 10 and above) 
+ 
+
+Unit | Location | Type | Remarks
+---- | -------- | ---- | ------- |
+[73rd Air Defence Battalion](73RD_AD_BN.MD) | Bandar Abbas Region | Area Defence | NSTR 
+[27th Home Guard Air Defence Battalion](27TH_HG_BATT.MD) | Strait of Hormuz | EWR | NSTR
+78th Air Defence Battalion | LAR | Base Defence | SA-6 Battalion
+74th Air Defence Battalion | SHIRAZ | Base Defence | SA-6 Battalion
+63rd Air Defence Battalion | LAVAN | Base Defence | HAWK Battery
+62nd Air Defence Battalion | BUSHER | Base Defence | SA-2 Battery
+79th Air Defence Battalion | JIROFT | Base Defence | SA-3 + SA-6 Battery
+99th Air Defence Battalion | KERMAN | Base Defence | SA-10 + SA-2
+[25th Home Guard Air Defence Battalion](25TH_HG_BATT.MD) | JASK | Base Defence | Rapier Battery
 
 
 ## Back
