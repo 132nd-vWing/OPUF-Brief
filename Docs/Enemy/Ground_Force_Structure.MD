@@ -1,6 +1,60 @@
-#  Ground Forces Structure
+#  Ground Forces Doctrine
+
+The Iranian Ground Forces operate in accordance with the following doctrine:
+
+The Iranian have a Russian based military force. The primary elements for conducting major military operations are Regiments.
+Supporting the maneouver regiments are various other units such as artillery battalion, Rocket artillery battalion, Recon company, Logistical Battalions
+
+## Regiment
+
+The Iranians have 3 standard maneuverregiments:
+
+- Armored Regiment: Main Battle Tanks (MBT's) as the primary weapon. 
+- Mechanized Infantry Regiment: Infantry Fighting Vehicles (IFV's) as the primary weapon.
+- Motorized Infantry Regiment: Armored Personell Carriers (APC's) as the primary weapon.
 
 
+The Armoured Regiments are considered the primary fighting force for offensive operations, and will normally be conserved as much as possible for counterattacks
+or offensive operations.
+
+
+Each Regiment consist of 2 maneuver Battalions (with MBT, IFV or APC), the Regiment will also have a artillery battery attached in direct support, the Regiment 
+is led by a Regimental HQ platoon.
+
+
+
+
+## Reconnaissance Company
+
+Recon Companys have specially trained personell to call in airstrikes, artillery or collect intelligence.
+Recon units work in smaller units, and relies on not getting detected while doing their missions. The Recon units are normally
+supporting other units, either in direct support (attached to a specific unit) or in general support (providing ad-hoc support).
+
+A Recon Company is broken down into 3 platoons.
+
+Each platoon have 3 teams. Of the 3 teams, 2x teams are equipped with Land Rovers, while the last team is recon team of soldiers without a vehicles. 
+The last team normally inserts via helicopter, walking, or other non-traditional insertion methods.
+
+
+
+
+## Artillery Battalion
+
+
+
+## Rocket Artillery Battalion
+
+
+
+## Logistical Battalion
+
+
+
+
+### Tactics
+
+
+# List of standard units
 
 ## Armored Regiment (Main Battle Tank Regiment)
 
