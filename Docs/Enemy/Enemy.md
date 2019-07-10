@@ -69,6 +69,7 @@ Unit | Location | Type | Remarks |
 [421st RECON COMPANY](/OPUF-Brief/Docs/Enemy/421ST_REC_COY.html) | LAR | Land Rover and Infantry | NSTR |
 [222nd MECHANIZED INFANTRY REGIMENT](/OPUF-Brief/Docs/Enemy/222ND_IFV_REGT.html) | HAJIABAD | BMP-2 | NSTR |
 [236th MECHANIZED INFANTRY REGIMENT](/OPUF-Brief/Docs/Enemy/236TH_IFV_REGT.html) | BANDAR-E-JASK | BMP-2 | NSTR |
+[245th MECHANIZED INFANTRY REGIMENT](/OPUF-Brief/Docs/Enemy/245TH_IFV_REGT.html) | BASTAK | BMP-2 | NSTR |
 
 
 #### Army Disposition
