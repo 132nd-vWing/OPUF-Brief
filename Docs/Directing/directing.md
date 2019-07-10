@@ -31,7 +31,7 @@ RIGHT CLICK / SAVE AS. (OR COPY PASTE YOUR OWN)
 
 All navigation points and information about killboxes, airspace, threatsites, JTAC locations, FARPs, tankers, please refer to OP URGENT FURY Combat Flite for current version:
 <br>
-[OPUF Combat Flite Masterfile FLITE](/OPUF-Brief/OPUF_Masterfile.cf)
+[OPUF Combat Flite Masterfile](/OPUF-Brief/OPUF_Masterfile.cf)
 
 
 <br>
