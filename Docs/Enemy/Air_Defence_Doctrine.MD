@@ -25,9 +25,10 @@ Iranian ground forces.
 
 
 ### Tactics
-The Iranian SAM's are reported to use various modes of operandi in order to increase it's lethality and make it harder for the coalition to operate. 
-One tactic is to have smaller SAM's shut off, and only turned on when a potential target is in the weapon engagement zone of the SAM. 
-The entire network is likely not active at any given time, as the Iranians want to both hide and prevent Anti Radiation Missiles (ARM's) to be able to neutralize their radars.
+The Iranian SAM's are reported to use various modes of operandi in order to increase it's lethality and make it harder for the coalition to operate:
+- One tactic is to have smaller SAM's shut off, and only turned on when a potential target is in the weapon engagement zone of the SAM. 
+- The entire network is likely not active at any given time, as the Iranians want to both hide and prevent Anti Radiation Missiles (ARM's) to be able to neutralize their radars.
+- The Iranians mobile SAM's is also known for shooting, and then moving to a new location to prevent beeing targeted by SEAD/DEAD forces.
 
 
 
