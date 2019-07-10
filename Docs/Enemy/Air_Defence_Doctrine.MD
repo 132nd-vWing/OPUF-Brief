@@ -7,7 +7,7 @@ The Air Defences are operating in accordance with the following Doctrine:
 
 Unit | Size | Sub-units | Equipment | Supports |
 ---- | ---- | --------- | --------- | -------- |
-Air Defence Brigade | Brigade   | 1x SA-10 Bn,    2x SA-11 Battery, 1x Air Defence Battery | SA-10, SA-11, SA-19, SA-13, Manpads              | Critically important installations/areas |
+Air Defence Brigade | Brigade   | 1x SA-10 Bn,    2x SA-11 Battery, 1x Air Defence Battery |             | Critically important installations/areas |
 SA-10 Battalion     | Battalion |                                                       |  3x SA-10 Radars , 8x SA-10 Launchers            | Critically important installations and areas |
 SA-11 Battery       | Battery   |                                                       | 1x SR 9S18 M1, 1x CC 9S470M1, 2x SA-11 Launchers | Protects the SA-10 |
 Air Defence Platoon | Platoon   |                                                       | 1x SA-19, 1x SA-13, 3x Manpads                   | Protects the SA-10 and SA-11|
@@ -18,9 +18,9 @@ Air Defence Platoon | Platoon   |                                               
 
 Unit | Size | Sub-units | Equipment | Supports |
 ---- | ---- | --------- | --------- | -------- |
-SA-2 Regiment | Regiment   | 1x EWR, 2x SA-2 BN             | EWR, SA-2, SA-19, Manpads                                                            | Important installations/areas |
+SA-2 Regiment | Regiment   | 1x EWR, 2x SA-2 BN             |                                                          | Important installations/areas |
 SA-2 Battalion | Battalion | SA-2 Site, Air Defence Platoon | 1x SR P-19, 1x TR SNR-75 Fan Song, 6x SA-6 Launchers, 1x SA-19, 1x SA-13, 1x Manpads | Important installations/areas |
-Air Defence Platoon | Platoon   |                           | 1x SA-19, 1x SA-13, 3x Manpads                                                       | Protects the Static site|
+Air Defence Platoon | Platoon   |                           | 1x SA-19, 1x SA-13, 3x Manpads                                                       | Protects the static site|
 
 
 
@@ -28,9 +28,9 @@ Air Defence Platoon | Platoon   |                           | 1x SA-19, 1x SA-13
 
 Unit | Size | Sub-units | Equipment | Supports |
 ---- | ---- | --------- | --------- | -------- |
-SA-3 Regiment  | Regiment  | 1x EWR, 2x SA-3 BN             | EWR, SA-3, SA-19, Manpads                                                      | Important installations/areas |
+SA-3 Regiment  | Regiment  | 1x EWR, 2x SA-3 BN             |                                                      | Important installations/areas |
 SA-3 Battalion | Battalion | SA-3 Site, Air Defence Platoon |  1x SR P-19,1x S-125 TR SNR, 4x SA-3 Launchers, 1x SA-19, 1x SA-13, 1x Manpads | Important installations/areas |
-Air Defence Platoon | Platoon   |                           | 1x SA-19, 1x SA-13, 3x Manpads                                                 | Protects the Static site|
+Air Defence Platoon | Platoon   |                           | 1x SA-19, 1x SA-13, 3x Manpads                                                 | Protects the static site|
 
 
 
@@ -38,9 +38,9 @@ Air Defence Platoon | Platoon   |                           | 1x SA-19, 1x SA-13
 
 Unit | Size | Sub-units | Equipment | Supports |
 ---- | ---- | --------- | --------- | -------- |
-SA-6 Regiment  | Regiment  | 1x EWR, 2x SA-6 BN             | EWR, SA-6, SA-19, Manpads                                        | Important installations/areas |
+SA-6 Regiment  | Regiment  | 1x EWR, 2x SA-6 BN             |                                        | Important installations/areas |
 SA-6 Battalion | Battalion | SA-6 Site, Air Defence Platoon | 1x STR 9S91 , 4x SA-6 Launchers, 1x SA-19, 1x SA-13, 1x Manpads  | Important installations/areas |
-Air Defence Platoon | Platoon   |                           | 1x SA-19, 1x SA-13, 3x Manpads                                   | Protects the Static site|
+Air Defence Platoon | Platoon   |                           | 1x SA-19, 1x SA-13, 3x Manpads                                   | Protects the static site|
 
 
 
@@ -55,7 +55,7 @@ HAWK Battalion  | Battalion  |          | 1x SR AN/MPQ 50  , 1x TR AN/MPQ 46,   
 ## Mobile Air Defence
 
 Unit | Size | Sub-units | Equipment | Supports |
----- | ---- | --------- | --------- | -------- |                                                                                                                                             |
+---- | ---- | --------- | --------- | -------- | 
 Air Defence Battalion | Battalion | 2x Air Defence Batterys | 4x SA-19, 2x SA-13, 12x Manpads | Supporting a maneuver Regiment (Mechanized or Motorized)  | 
 Air Defence Battery   | Battery   | 2x Air Defence Platoons | 2x SA-19, 2x SA-13, 6x Manpads  | Supporting a maneuver Battalion (Mechanized or Motorized) |
 Air Defence Platoon   | Platoon   |                         | 1x SA-19, 1x SA-13, 3x Manpads  | Supporting static sites   |                                     |
