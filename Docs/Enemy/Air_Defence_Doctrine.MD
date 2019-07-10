@@ -3,6 +3,40 @@
 The Air Defences are operating in accordance with the following Doctrine:
 
 
+The Iranian's have a well developed Integrated Air Defence System (IADS). The Russians have the last years provided various parts to increse the effectiveness 
+of this network. 
+
+The IADS consiste of 2 primary elements. Where one is the A-A fighters located at primary airbases, and the second is the Surface to Air missile's.
+
+IADS consists of Early Warning Radar's (EWR's) that support both elements with early warning.
+
+Around the most critical infrastructure, such as important airbases, a Air Defence Brigade consisting of SA-10 and SA-11 is eastablished to provide necessary area defence to 
+protect other parts of the IADS, especially the A-A fighters.
+
+Around key cities or military installations, various fixed sites of larger SAM's such as SA-2, SA-3 and SA-6 is establised.  All static sites is assessed to be protected by
+smaller SAM's to prevent low-flying aircraft from attacking the larger SAM's.
+
+For supporting the ground forces, the Iranian primarily uses its Air Defence Battalions of SA-19, SA-13. These battalions are attached to motorized and mechanized infantry regiments.
+The Air Defence Revolutionary Guard Battalion's with SA-15 and SA-8 are normally attached to the armored regiments, as these are seen as the most important element of the 
+Iranian ground forces.
+
+
+
+
+
+### Tactics
+The Iranian SAM's are reported to use various modes of operandi in order to increase it's lethality and make it harder for the coalition to operate. 
+One tactic is to have smaller SAM's shut off, and only turned on when a potential target is in the weapon engagement zone of the SAM. 
+The entire network is likely not active at any given time, as the Iranians want to both hide and prevent Anti Radiation Missiles (ARM's) to be able to neutralize their radars.
+
+
+
+
+
+
+# List of standard units
+
+
 ## Air Defence Brigade 
 
 Unit | Size | Sub-units | Equipment | Supports |
@@ -69,161 +103,6 @@ Unit | Size | Sub-units | Equipment | Supports |
 ---- | ---- | --------- | --------- | -------- |
 Home Guard Air Defence Battery   | Battery   |  | 1-2x ZSU-23/4 or ZU-23,1-2 SA-9 or SA-13   | Protecting local infrastructure |
 Home Guard Air Defence Battalion | Battalion |  | 1-2x Rapier systems, 1-2 ZU-23 or ZSU 23/4 | Protecting local infrastucture |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Home guard Air Defence Battery (HGADB)<br>
-Mission: Protecting Infrastructure
-1-2 x ZU-23 or ZSU 23/4
-1-2 x SA-9 or SA-13
-
-
-## Home Guard Air Defence Battalion (HGADBN)<br>
-Mission: Protecting Infrastructure (Civilian airfields)<br>
-1-2 x Rapier systems<br>
-1-2 x ZU-23 or ZSU 23-4<br>
-
-
-
-
-
-## Air Defence Platoon<br>
-Mission: Either supporting static sites, or as part of Air Defence Battery supporting Frontline forces<br>
-1x SA-19 Tunguska<br>
-1x SA-13<br>
-3x Manpads<br>
-
-
-
-
-## Air Defence Battery <br>
-Mission: Supporting a Battalion (Mechanized or Motorized), Frontline forces<br>
-2x Tunguska SA-19<br>
-2x SA-13<br>
-6x Manpads<br>
-
-
-
-
-
-## Air Defence Battalion<br>
-Mission: Supporting 1x Regiment (2x Mechanized or motorized BN), Frontline forces<br>
-4x 2S6 Tunguska SA-19<br>
-4x SA-13<br>
-12x Manpads<br>
-
-
-
-
-
-## Air Defence Revolutionary Guard Battalion  (ADRGB) <br>
-Mission: Supporting Armor Regiment, Frontline forces<br>
-4x SA-15<br>
-4x SA-8<br>
-1x Dog Ear Radar<br>
-
-
-
-
-
-## HAWK BN<br>
-1x SR AN/MPQ 50 (Radar)<br>
-1x TR AN/MPQ 46 (Radar)<br>
-1x CWAR AN/MPQ 55 (Radar)<br>
-1x PCP<br>
-6x Launchers<br>
-
-
-
-
-
-## SA-2 Regiment<br>
-2 x SA-2 BN<br>
-EWR<br>
-
-
-### SA-2 BN  <br>
-1x TR SNR-75 Fan Song (Radar)<br>
-1x SR P-19 (Radar)<br>
-6x Launchers<br>
-1x Air Defence Platoon  <br>
-Logistics<br>
-
-
-
-
-
-## SA-3 Regiment<br>
-2x SA-3 BN<br>
-EWR<br>
-
-
-### SA-3 BN<br>
-1x S-125 TR SNR (Radar)<br>
-1x SR P-19  (Radar)<br>
-4x Launchers<br>
-1x Air Defence Platoon  <br>
-Logistics<br>
-
-
-
-
-
-## SA-6 Regiment<br>
-2x SA-6 BN<br>
-EWR<br>
-
-
-### SA-6 BN<br>
-1x STR 9S91 (radar)<br>
-4x Launchers<br>
-1x Air Defence Platoon  <br>
-Logistics<br>
-
-
-
-
-
-## Air Defence Brigade<br>
-Mission is to protect critically important fixed installations (Such as military airfields)<br>
-SA-10 BN<br>
-2x SA-11 Batterys<br>
-1x Air Defence Battery<br>
-
-### SA-10 BN<br>
-1x S300 PS TR 30N6 (Radar)<br>
-1x S300 PS SR 64H6R (Radar)<br>
-1x S300 PS SR 5N66M (Radar)<br>
-1x S300 PS CP 54K6<br>
-8x Launchers<br>
-Logistics<br>
-
-
-
-### SA-11 Battery<br>
-1x SR 9S18 M1 (Radar)<br>
-1x CC 9S470M1<br>
-2x Launchers<br>
-Logistics<br>
-
-
-
-### Air Defence battery<br>
-2x Tunguska SA-19<br>
-2x SA-13<br>
-6x Manpads<br>
-
 
 
 
