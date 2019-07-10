@@ -5,9 +5,10 @@ The Air Defences are operating in accordance with the following Doctrine:
 Unit | Size | Sub-units | Equipment | Supports |
 ---- | ---- | --------- | --------- | -------- |
 Air Defence Brigade | Brigade | 1x SA-10 Bn, 2x SA-11 Battery, 1x Air Defence Battery | SA-10, SA-11, SA-19, SA-13, Manpads | Critically important installations/areas |
+SA-10 Battalion | Battalion | |  3x SA-10 Radars , 8x SA-10 Launchers | Critically important installations and areas |
 SA-6 Regiment | Regiment | 1x EWR, 2x SA-6 BN | EWR, SA-6, SA-19, Manpads | Important installations/areas |
 SA-6 Battalion | Battalion | SA-6 Site, Air Defence Platoon | 1x SA-6 Radar, 4x SA-6 Launchers, 1x SA-19, 1x SA-13, 1x Manpads | Important installations/areas |
-Mobile Air Defence    |           |                                |                                                                 |                                |
+Mobile Air Defence    |                                           |                                                                 |                                |
 Air Defence Battalion | Battalion | 2x Air Defence Batterys | 4x SA-19, 2x SA-13, 12x Manpads | Supporting a maneuver Regiment (Armor, Mechanized, Motorized) | 
 Air Defence Battery | Battery | 2x Air Defence Platoons | 2x SA-19, 2x SA-13, 6x Manpads | Supporting a maneuver Battalion (Armor, Mechanized, Motorized) |
 Air Defence Platoon | Platoon |                         | 1x SA-19, 1x SA-13, 3x Manpads | Supporting static sites |
