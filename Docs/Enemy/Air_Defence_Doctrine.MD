@@ -4,6 +4,7 @@ The Air Defences are operating in accordance with the following Doctrine:
 
 
 ## Air Defence Brigade 
+
 Unit | Size | Sub-units | Equipment | Supports |
 ---- | ---- | --------- | --------- | -------- |
 Air Defence Brigade | Brigade   | 1x SA-10 Bn, 2x SA-11 Battery, 1x Air Defence Battery | SA-10, SA-11, SA-19, SA-13, Manpads              | Critically important installations/areas |
@@ -14,6 +15,7 @@ Air Defence Platoon | Platoon   |                                               
 
 
 ## SA-2
+
 Unit | Size | Sub-units | Equipment | Supports |
 ---- | ---- | --------- | --------- | -------- |
 SA-2 Regiment | Regiment   | 1x EWR, 2x SA-2 BN             | EWR, SA-2, SA-19, Manpads                                                            | Important installations/areas |
@@ -22,6 +24,7 @@ SA-2 Battalion | Battalion | SA-2 Site, Air Defence Platoon | 1x SR P-19, 1x TR 
 
 
 ## SA-3
+
 Unit | Size | Sub-units | Equipment | Supports |
 ---- | ---- | --------- | --------- | -------- |
 SA-3 Regiment  | Regiment  | 1x EWR, 2x SA-3 BN             | EWR, SA-3, SA-19, Manpads                                                      | Important installations/areas |
@@ -30,6 +33,7 @@ SA-3 Battalion | Battalion | SA-3 Site, Air Defence Platoon |  1x SR P-19,1x S-1
 
 
 ## SA-3
+
 Unit | Size | Sub-units | Equipment | Supports |
 ---- | ---- | --------- | --------- | -------- |
 SA-6 Regiment  | Regiment  | 1x EWR, 2x SA-6 BN             | EWR, SA-6, SA-19, Manpads                                        | Important installations/areas |
@@ -38,6 +42,7 @@ SA-6 Battalion | Battalion | SA-6 Site, Air Defence Platoon | 1x SA-6 Radar, 4x 
 
 
 ## Mobile Air Defence
+
 Unit | Size | Sub-units | Equipment | Supports |
 ---- | ---- | --------- | --------- | -------- |                                                                                                                                             |
 Air Defence Battalion | Battalion | 2x Air Defence Batterys | 4x SA-19, 2x SA-13, 12x Manpads | Supporting a maneuver Regiment (Armor, Mechanized, Motorized)  | 
