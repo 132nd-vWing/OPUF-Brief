@@ -59,7 +59,10 @@ The last team normally inserts via helicopter, walking, or other non-traditional
 <br>
 <br>
 ## Logistical Battalion
-
+A logistical Battalion is broken down into 3 different Companies:
+- Company 1: 2 x platoons with ATMZ-5 Fuel trucks (3 per platoon) delivering fuel
+- Company 2: 2 x platoons with Ural 375 truckes (3 per platoon) delivering ammunition
+- Company 3: 2 x platoons with KAMAZ 43101 trucks (3 per platoon) delivering ammunition or food
 
 
 <br>
