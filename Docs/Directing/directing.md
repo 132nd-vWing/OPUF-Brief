@@ -16,20 +16,20 @@ RIGHT CLICK / SAVE AS. (OR COPY PASTE YOUR OWN)
 ####  [NAVP OPUF WEST WET](/JSON/NAVP_OPUF_west_wet.json)
 ####  [NAVP OPUF EAST WET](/JSON/NVAP_OPUF_east_wet.json)  
 
-### KILLBOXES
 
 
 
 
-
+<br>
+<br>
 ### IFF Codes
 ####  [IFF Codes JSON](/JSON/transponder_codes.json)
 
-
-
+<br>
+<br>
 ### NAVPOINTS 
 
-All navigation points and information about airspace, threatsites, JTAC locations, FARPs, tankers, please refer to OP URGENT FURY Combat Flite for current version:
+All navigation points and information about killboxes, airspace, threatsites, JTAC locations, FARPs, tankers, please refer to OP URGENT FURY Combat Flite for current version:
 <br>
 [OPUF Combat Flite Masterfile FLITE](/OPUF-Brief/OPUF_Masterfile.cf)
 
