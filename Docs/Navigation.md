@@ -1,8 +1,8 @@
 # Navigation
 
-All navigation points and information about airspace, threat-sites, JTAC locations, FARPs, tankers, please refer to OP URGENT FURY Google Earth link for current version:
+All navigation points and information about airspace, threatsites, JTAC locations, FARPs, tankers, please refer to OP URGENT FURY Combat Flite for current version:
 <br>
-[OPUF Google Earth KMZ](https://www.dropbox.com/s/ofdotxseoz0foz8/OP%20Urgent%20Fury.kmz?dl=0)
+[OPUF Combat Flite Masterfile FLITE](/OPUF-Brief/OPUF_Masterfile.cf)
 
 
 <br>

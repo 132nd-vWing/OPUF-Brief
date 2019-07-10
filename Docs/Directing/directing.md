@@ -18,17 +18,7 @@ RIGHT CLICK / SAVE AS. (OR COPY PASTE YOUR OWN)
 
 ### KILLBOXES
 
-####  [KILLBOX MIKE](/JSON/KB/kb_mike.json)
-####  [KILLBOX NOVEMBER](/JSON/KB/kb_november.json)
-####  [KILLBOX OSCAR](/JSON/KB/kb_oscar.json)
-####  [KILLBOX PAPA](/JSON/KB/kb_papa.json)
-####  [KILLBOX QUBEC](/JSON/KB/kb_qubec.json)
-####  [KILLBOX ROMEO](/JSON/KB/kb_romeo.json)
-####  [KILLBOX SIERRA](/JSON/KB/kb_sierra.json)
-####  [KILLBOX TANGO](/JSON/KB/kb_tango.json)
-####  [KILLBOX UNIFORM](/JSON/KB/kb_uniform.json)
-####  [KILLBOX WHISKEY](/JSON/KB/kb_whiskey.json)
-####  [KILLBOX VICTOR](/JSON/KB/kb_victor.json) 
+
 
 
 
@@ -39,9 +29,11 @@ RIGHT CLICK / SAVE AS. (OR COPY PASTE YOUR OWN)
 
 ### NAVPOINTS 
 
-All navigation points and information about airspace, threatsites, JTAC locations, FARPs, tankers, please refer to OP URGENT FURY Google Earth link for current version:
+All navigation points and information about airspace, threatsites, JTAC locations, FARPs, tankers, please refer to OP URGENT FURY Combat Flite for current version:
 <br>
-[OPUF Google Earth KMZ](https://www.dropbox.com/s/ofdotxseoz0foz8/OP%20Urgent%20Fury.kmz?dl=0)
+[OPUF Combat Flite Masterfile FLITE](/OPUF-Brief/OPUF_Masterfile.cf)
+
+
 <br>
 <br>
 <br>
