@@ -49,11 +49,20 @@ The last team normally inserts via helicopter, walking, or other non-traditional
 <br>
 <br>
 ## Artillery Battalion
+A artillery battalion consists of 3 artillery batteries and a HQ element to coordinate the fires from supporting units.
 
+The artillery batteru are equipped with 3x SPH 2S19 Msta launchers and 2x supply trucks.
+
+The HQ consist of  1x CP SKP-11 ATC Mobile Command Post, 2x CP Ural-375 PBU, 3x Ural-4320T
 
 <br>
 <br>
 ## Rocket Artillery Battalion
+A Rocket artillery battalion consist of 3 Rocket artillery batteries and a HQ element to coordinate the fires from supporting units. 
+
+The rocket artillery battery are equipped with 3 BM-21 GRAD launchers and 2 supply trucks.
+
+The HQ consist of 3x CP Ural-375 PBU, 3x KAMAZ-43101 and 2x UAZ-469
 
 
 <br>
@@ -92,6 +101,9 @@ with necessary intelligence that can be valuable for next operations.
 - Large formations of utility veichles  ( fueltrucks, ammunition trucks, trucks) close to maneuver battalions.
 - RW activity in front of enemy frontline formations (insertion of Recon units)
 - Armored units (MBT's) forming up in more than company size
+- Identification of BM-21 GRAD launchers (indicating Rocket artillery battery or battalion)
+- Identification of SPH 2S19 Msta artillery launchers (indicating presence of artillery battalion)
+- Identification of HQ of either Rocket artillery BN or Artillery BN, as these are different from maneuver regiments and identification of a HQ gives the likely area for the battalion.
 
 <br>
 <br>
