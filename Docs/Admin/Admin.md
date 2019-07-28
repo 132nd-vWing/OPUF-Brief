@@ -6,14 +6,14 @@
 <br>
 <br>
 <br>
-## Radio plugin - UniversRadio
-The 132nd uses UniverRadio, a program created by Tacno. This program is mandatory for all participants attending 132nd events.
-[UniversRadio Website](http://tacnoworld.fr/)
+## Radio plugin - Simple Radio
+Operation Urgent Fury is conducted using Simple Radio (SRS
+[SRS thread on ED forums](https://forums.eagle.ru/showthread.php?t=169387)
 <br>
 <br>
 <br>
-## Mods
-Everyone attending this mission need to use OvGME in order to install the necessary Mods. <br>
+## Mods/Skins
+Everyone attending this mission need to use OvGME in order to install the necessary Skins and Mods. <br>
 Please refer to the 132nd Skin and Mod Install QuickstartGuide: <br>
 [132nd Skin and Mod Install](https://www.dropbox.com/s/jtftoqwto3tkbbp/DCS%202.5%20Mod%20Install_QuickCard.pdf?raw=1)
 
@@ -59,6 +59,7 @@ Thanks for the great contributions from the DCS community, and to highlight a fe
 - Ranger79 for various mods: https://forums.eagle.ru/showthread.php?t=121620 <br>
 - Grimes for his support to the DCS community, and specificly his work on the F/A-18C Hornet Desert aggressor skin (VFC-13 livery), which the 494th have been allowed to modify for our use. <br>
 - sadjad-vosoul for his Iranian skin's (https://forums.eagle.ru/showthread.php?t=216906 ) <br>
+- Ciribob for SRS: https://forums.eagle.ru/showthread.php?t=169387
 <br>
 <br>
 <br>
