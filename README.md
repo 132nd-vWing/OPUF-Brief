@@ -4,7 +4,7 @@
 This page gives necessary information for participation on 132nd Virtual Wing's campaing Operation Urgent Fury. <br>
 - Events take place Sundays at 1800Z. 
 - Events uses latest version of DCS Open Beta  
-- Events uses UniversRadio radio plugin  
+- Events uses  **SRS**
 <br>
 
 
@@ -35,8 +35,8 @@ Please signup on 132nd Virtual Wing's event page (user on the 132nd website is r
 
 
 ## Mission Specific Information <br>
-To be added for MISSION 10 when a date have been set. (LIKELY AUGUST)
-
+[Weekly SPINS MSN 10](/OPUF-Brief/Docs/SPINS_10.html) | [ACO MSN 10](/OPUF-Brief/Docs/ACO/ACO_10.html) | [ATO MSN 10](/OPUF-Brief/Docs/ATO/ATO_10.html) | [NOTAM MSN 10](/OPUF-Brief/Docs/NOTAM/NOTAM_10.html)
+<br> Mission specific information will be updated on the evening/night FRIDAY 2nd August (REAL WORLD TIME)
 
 ## For Controllers (ATC and/or AWACS)
 [Directing](/OPUF-Brief/Docs/Directing/directing.html)

@@ -56,7 +56,11 @@ Allied forces have been conducting CAS to support the front-line at BUKHA, while
 primarily by locating rocket launchers, SAMs and C2 to facilitate for further operations. Allied forces are preparing an offensive to retake KHASAB area, with primary objective the airfield at KHASAB.
 
 ### 7th June 2011
-
+Allied forces conducted an assault toward KHASAB and was able to capture both the airfield and the port. KHASAB is now fully under allied control, and this set the conditions
+for conducting an assault into IRAN. <br>
+A SEAD mission was conducted against the SA-10 and other SAM sites in the Bandar Abbas region to further set conditions for the initial assault by seizing Bandar Abbas. <br>
+Allied forces have now started planning for the offensive to invade parts of IRAN, and initial efforts will be against the Bandar Abbas region to seize the airfield and important 
+oil infrastructure. <br>
 
 ## Insurgent activity
 Intelligence also indicate that the increased activity from the insurgent group Alsyf Albarq is connected with IRAN's surprise attack, and further strengthens the theory that Alsyf Albarq have been fighting a proxy war for IRAN.
