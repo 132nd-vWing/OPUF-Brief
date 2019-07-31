@@ -16,7 +16,15 @@
 
 ### BULLSEYE
 
-  **MADISON** Location: N26 23 18 E056 22 43  / N26 23.306 E056 22.720
+**NAOMI** Location: N26 56 20 E056 17 03  / N26 56.340 E056 17.053
+
+
+### TANKER TRACKS
+**SHELL**: AR1201 <br>
+
+**ARCO**: AR1202 <br>
+
+**TEXACO:** AR1203 <br>
 
 
 
