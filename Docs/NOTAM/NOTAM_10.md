@@ -25,14 +25,16 @@ Weapons director , primarily responsible for A-A engagements
 
 
 ### AWACS freqs in use
-Check-in	231.500	GREEN 7  (Initial check-ins)
-A-G controller 1	235.250	GREY 6 (CAS flights)
-A-A Controller 1	248.000	GRAY 2 (PER MAGIC)
-A-A Controller 2	229.000	GREEN 4 (PER MAGIC)
-SEAD freq: 234.250	LEMON 9  (SEAD air alert flights will monitor this freq until told otherwise from AWACS)
-In flight Report net	228.000	ORANGE 10  (BDA and other non-combat critical information)
-Admin frequency	238.750	AMBER 2  (AVAILEBLE FOR AWACS TO USE AS NEEDED)
-VHF Back-up	122.250	GRAY 10   (BACKUP)
+The following is planned. AWACS SD and WD can overrule and push flights as required during the mission.
+
+* Check-in	231.500	GREEN 7  (Initial check-ins)
+* A-G controller 1	235.250	GREY 6 (CAS flights)
+* A-A Controller 1	248.000	GRAY 2 (PER MAGIC)
+* A-A Controller 2	229.000	GREEN 4 (PER MAGIC)
+* SEAD freq: 234.250	LEMON 9  (SEAD air alert flights will monitor this freq until told otherwise from AWACS)
+* In flight Report net	228.000	ORANGE 10  (BDA and other non-combat critical information)
+* Admin frequency	238.750	AMBER 2  (AVAILEBLE FOR AWACS TO USE AS NEEDED)
+* VHF Back-up	122.250	GRAY 10   (BACKUP)
 
 
 
