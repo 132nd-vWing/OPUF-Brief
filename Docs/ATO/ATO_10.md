@@ -28,9 +28,9 @@ Before Carrier Strike Groups and Amphibious forces can enter the Persion Gulf, t
 <br>
 **MISSION:**  SEAD
 <br>
-**CONTROLLER:** 
+**CONTROLLER:** DARKSTAR
 <br>
-**CONTACT POINT (CP):** 
+**CONTACT POINT (CP):** DONALDDUCK
 <br>
 **VUL Gametime:**1645G-1745G (1845Z-1945Z)
 <br>
@@ -44,9 +44,9 @@ Before Carrier Strike Groups and Amphibious forces can enter the Persion Gulf, t
 <br>
 **MISSION:**  SEAD
 <br>
-**CONTROLLER:** 
+**CONTROLLER:**  DARKSTAR
 <br>
-**CONTACT POINT (CP):** 
+**CONTACT POINT (CP):** DONALDDUCK
 <br>
 **VUL Gametime:**1650G-1800G (1850Z-2000Z)
 <br>
