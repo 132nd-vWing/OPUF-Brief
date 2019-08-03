@@ -115,7 +115,7 @@ Before Carrier Strike Groups and Amphibious forces can enter the Persion Gulf, t
 <br>
 **VUL Gametime:**1650G-1800G (1850Z-2000Z)
 <br>
-**FREQUENCY:**  JTAC WARRIORY: PRIMARY: 119.250	(RED 11) SECONDARY: 234.250	LEMON 9  
+**FREQUENCY:**  JTAC WARRIORY: PRIMARY: 119.250	(RED 11) SECONDARY: 245.500	GOLD 11  
 <br>
 **REMARKS:** Shaping to set conditions for air assault to capture the airfield. Expect heavy defences, both from aircraft, airdefence and ground forces.
 <br>
@@ -131,7 +131,7 @@ Before Carrier Strike Groups and Amphibious forces can enter the Persion Gulf, t
 <br>
 **VUL Gametime:**1700G-1810G (1900Z-2010Z)
 <br>
-**FREQUENCY:** JTAC WARRIOR: PRIMARY: 119.250	(RED 11) SECONDARY: 234.250	LEMON 9  
+**FREQUENCY:** JTAC WARRIOR: PRIMARY: 119.250	(RED 11) SECONDARY: 245.500	GOLD 11 
 <br>
 **REMARKS:** Shaping to set conditions for air assault to capture the airfield. Expect heavy defences, both from aircraft, airdefence and ground forces.
 <br>
