@@ -1,3 +1,15 @@
+# HIGH VALUE TARGETS
+These targets are considered of high value, and will take precedence of current tasking if they are located
+
+
+| PRIORITY | TYPE| JUSTIFICATION | 
+| --------- | -------- | ------- |
+| Priority 1 | SS-C-2 Silkworm missiles | These missiles are a threat to the CSG and Amphibious fleet that is enroute to the Persion Gulf to start the invasion of Iran. |
+| Priority 2 | Rocket artillery | Long range rocket artillery is a major threat to any ground movement of allied forces in Iran and need to be dealt with. |
+
+
+
+
 # TARGET LIST
 
 
