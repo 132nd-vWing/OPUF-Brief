@@ -34,7 +34,7 @@ Before Carrier Strike Groups and Amphibious forces can enter the Persion Gulf, t
 <br>
 **VUL Gametime:**1645G-1745G (1845Z-1945Z)
 <br>
-**FREQUENCY:**  SEAD Alert Freq: 234.250	LEMON 9  (Monitor in holding orbit, unless otherwise directed by AWACS)
+**FREQUENCY:**  SEAD Alert Freq: 234.250	LEMON 9  (Monitor in holding orbit, unless otherwise directed by AWACS). Coordinate AAR and on-station with FALCON.
 <br>
 **REMARKS:** 
 <br>
@@ -50,7 +50,7 @@ Before Carrier Strike Groups and Amphibious forces can enter the Persion Gulf, t
 <br>
 **VUL Gametime:**1650G-1800G (1850Z-2000Z)
 <br>
-**FREQUENCY:**  SEAD Alert Freq: 234.250	LEMON 9  (Monitor in holding orbit, unless otherwise directed by AWACS)
+**FREQUENCY:**  SEAD Alert Freq: 234.250	LEMON 9  (Monitor in holding orbit, unless otherwise directed by AWACS). Coordinate AAR and on-station with FALCON.
 <br>
 **REMARKS:** 
 <br>
@@ -64,11 +64,12 @@ Before Carrier Strike Groups and Amphibious forces can enter the Persion Gulf, t
 <br>
 **CONTACT POINT (CP):** DONALDDUCK
 <br>
-**VUL Gametime:**1640G-1750G (1840Z-1950Z)
+**VUL Gametime:**1655G-1755G (1855Z-1955Z)
 <br>
 **FREQUENCY:**  PER AWACS instructions
 <br>
-**REMARKS:** Support CAS / Shaping operations over QESHM airfield. 
+**REMARKS:** Support CAS / Shaping operations over QESHM airfield.  At no time should enemy aircraft be within 25nm from Qhesm Airfield while CAS assets (A-10C) are on station. Coordinate AAR with AWACS and/or 
+other CAP flights.
 <br>
 <br>
 
@@ -80,11 +81,12 @@ Before Carrier Strike Groups and Amphibious forces can enter the Persion Gulf, t
 <br>
 **CONTACT POINT (CP):** DONALDDUCK
 <br>
-**VUL Gametime:**1645G-1755G (1845Z-1955Z)
+**VUL Gametime:**1650G-1755G (1850Z-1955Z)
 <br>
 **FREQUENCY:**  PER AWACS instructions
 <br>
-**REMARKS:** Support CAS / Shaping operations over QESHM airfield. 
+**REMARKS:** Support CAS / Shaping operations over QESHM airfield.  At no time should enemy aircraft be within 25nm from Qhesm Airfield while CAS assets (A-10C) are on station. Coordinate AAR with AWACS and/or 
+other CAP flights.
 <br>
 <br>
 
@@ -97,11 +99,14 @@ Before Carrier Strike Groups and Amphibious forces can enter the Persion Gulf, t
 <br>
 **CONTACT POINT (CP):** DONALDDUCK
 <br>
-**VUL Gametime:**1640G-1750G (1840Z-1950Z)
+**VUL Gametime:**1645G-1755G (1845Z-1955Z)
 <br>
 **FREQUENCY:**  PER AWACS instructions
 <br>
 **REMARKS:** Primary task: Sweep against any enemy aircrafts beeing a threat toward friendly A-10C's. Secondary task: Support CAS / Shaping operations over QESHM airfield. 
+Coordinate SWEEP with arrival of CAS flights and SEAD flights to ensure no enemy aircrafts are a threat to SEAD or CAS flights at their check-in time 1650G (1850Z).
+For CAP: At no time should enemy aircraft be within 25nm from Qhesm Airfield while CAS assets (A-10C) are on station. Coordinate AAR with AWACS and/or 
+other CAP flights.
 <br>
 <br>
 
@@ -153,8 +158,9 @@ Before Carrier Strike Groups and Amphibious forces can enter the Persion Gulf, t
 <br>
 **REMARKS:** Task is to search in Killbox IO and JO and locate elements of 21st Coastal Artillery Battalion. Intelligence indicate that part of the BN is deployed in the field and are operations.
 This mission is intended to set conditions for the arrival of allied forces entering the Strait-of-Hormuz ( Carrier Strike Group).
+If SEAD is needed, request through AWACS, or directly on SEAD Alert Freq: 234.250 (LEMON 9) if no AWACS is availeble.
 <br>
-**REMARKS:** Assessed as LIKELY that Iranian SAM forces are operating in the area.
+**INTELLIGENCE:** Assessed as LIKELY that Iranian SAM forces are operating in the area.
 <br>
 <br>
 
