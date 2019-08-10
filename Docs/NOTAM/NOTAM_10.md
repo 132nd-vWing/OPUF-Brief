@@ -9,14 +9,16 @@ Ground, TWR and Approach merged on TWR Freq. <br>
 **ATIS:** 121.400
 
 ## Aircraft locations
-All aircrafts are moved forward and are located at AL MINHAD for this mission. <br>
+All FW aircrafts are moved forward and are located at AL MINHAD for this mission. <br>
 (Make sure to grab aircrafts at Al Minhad and not at Al Dahfra when joining the server).
+
+RW aircrafts are based at KHASAB.
 
 
 ## AWACS
 
 ### DARKSTAR
-Senior Director + primarily responsible for A-G and SEAD.
+Unmanned.
 
 
 
@@ -25,24 +27,21 @@ Weapons director , primarily responsible for A-A engagements
 
 
 ### AWACS freqs in use
-The following is planned. AWACS SD and WD can overrule and push flights as required during the mission.
+The following is planned. AWACS controllers can overrule and push flights as required during the mission.
 
-* Check-in	231.500	GREEN 7  (Initial check-ins)
-* A-G controller 1	235.250	GREY 6 (CAS flights)
+
 * A-A Controller 1	248.000	GRAY 2 (PER MAGIC)
 * A-A Controller 2	229.000	GREEN 4 (PER MAGIC)
-* SEAD freq: 234.250	LEMON 9  (SEAD air alert flights will monitor this freq until told otherwise from AWACS)
-* In flight Report net	228.000	ORANGE 10  (BDA and other non-combat critical information)
-* Admin frequency	238.750	AMBER 2  (AVAILEBLE FOR AWACS TO USE AS NEEDED)
-* VHF Back-up	122.250	GRAY 10   (BACKUP)
+* SEAD freq: 234.250	LEMON 9  (SEAD air alert flights will monitor this freq until told otherwise from AWACS, requests from A-10, or JTAC)
 
 
 
 **FLOW**
 * Before taxi, pilots gives a advisory call to AL MINHAD Traffic about taxing, takeoff and departure out of the airspace
-* Outside ATC controlled area, pilot will push to AWACS Check-in freq and give abbreviated check-in. 
-* Flight will then be pushed to dedicated AWACS working freq
-* Flight resumes communication with AWACS on working freq.
+* Outside ATC controlled area, pilot will push to AWACS Check-in freq and check-in to let everyone know the flight is on this freq.
+* A-A fligths (CAP and SWEEP) will then push to dedicated AWACS A-A Freq per AWACS controllers direction. 
+* A-A flights resumes communication with AWACS on working freq.
+* All other flights remains on AWACS check-in freq
 <br>
 <br>
 <br>
