@@ -199,6 +199,22 @@ If SEAD is needed, request through AWACS, or directly on SEAD Alert Freq: 234.25
 <br>
 <br>
 
+**SHARK:** 
+<br>
+**MISSION:**  Escort BEAR flight 
+<br>
+**CONTROLLER:** JTAC WARRIOR in position overlooking QHESM airfield
+<br>
+**CONTACT POINT (CP):** N/A
+<br>
+**L-hour**1740G (1940Z)  (When first helicopter should touch ground and offload troops on QHESM airfield.   Timings can be rolexed either left of right based on coordination between JTAC WARRIOR and BEAR Flight Lead.
+<br>
+**FREQUENCY:** JTAC WARRIOR: PRIMARY: 119.250	(RED 11) SECONDARY: 245.500	GOLD 11 
+<br>
+**REMARKS:** KA-50 and MI-8's at KHASAB.   Coordinate with BEAR FL as required.
+<br>
+<br>
+
 
 ## Back
 [Back to frontpage](https://132nd-vwing.github.io/OPUF-Brief/)
