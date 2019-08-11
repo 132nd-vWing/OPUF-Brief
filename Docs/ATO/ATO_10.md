@@ -110,6 +110,25 @@ other CAP flights.
 <br>
 <br>
 
+**HUNTER:** 
+<br>
+**MISSION:**  SWEEP / Secondary Mission CAP
+<br>
+**CONTROLLER:** MAGIC
+<br>
+**CONTACT POINT (CP):** DONALDDUCK
+<br>
+**VUL Gametime:**1645G-1755G (1845Z-1955Z)
+<br>
+**FREQUENCY:**  PER AWACS instructions
+<br>
+**REMARKS:** Primary task: Sweep against any enemy aircrafts beeing a threat toward friendly A-10C's. Secondary task: Support with CAP for MISTY flight.  Coordinate SWEEP with RAVEN and AWACS.
+CAP station: CHARLESTON-OLYMPIA
+
+<br>
+<br>
+
+
 **BEAST:** 
 <br>
 **MISSION:** CAS at QESHM Airfield.
