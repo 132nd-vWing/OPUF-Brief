@@ -62,6 +62,11 @@ A SEAD mission was conducted against the SA-10 and other SAM sites in the Bandar
 Allied forces have now started planning for the offensive to invade parts of IRAN, and initial efforts will be against the Bandar Abbas region to seize the airfield and important 
 oil infrastructure. <br>
 
+### 8th June 2011
+In successful strikes against the remaining silkworm batteries, the situasion is favorable for the Carrier Strike Group to set course to the Strait of Hormuz. Furher, shaping operations are ongoing at Qhesm and 
+the situsion is now ready for conducting and air assault to capture the airfield. Multiple enemy aircrafts have been shot down over Bandar Abbas region , and it is likely that no further F-5 is operational and ready the next 24 hours
+from Bandar Abbas.
+
 ## Insurgent activity
 Intelligence also indicate that the increased activity from the insurgent group Alsyf Albarq is connected with IRAN's surprise attack, and further strengthens the theory that Alsyf Albarq have been fighting a proxy war for IRAN.
 The threat for allied convoys in UAE/OMAN is high, due to reliable intelligence of threats of complex attacks from Al Kahn Brigade against allied convoys. 
