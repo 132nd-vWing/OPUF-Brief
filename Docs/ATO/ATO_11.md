@@ -56,7 +56,21 @@ Task is to locate and neutralize MBT's. MBT's is assessed to likely follow roads
 <br>
 <br>
 
-
+**HAWK:** 
+<br>
+**MISSION:**  CAP between CHARLESTON - MADISON (Killbox HN)
+<br>
+**CONTROLLER:** OVERLORD
+<br>
+**CONTACT POINT (CP):** DONALDDUCK
+<br>
+**VUL Gametime:**0350G-0450G (1850Z-1950Z)
+<br>
+**FREQUENCY:**  PER AWACS instructions
+<br>
+**REMARKS:** Engage any aircrafts posing a threat toward CAS and Air Assault Operations over QHESM.
+<br>
+<br>
 
 **JEDI:** 
 <br>

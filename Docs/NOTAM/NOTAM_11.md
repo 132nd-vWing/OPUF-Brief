@@ -23,7 +23,11 @@ Senior Director. Primarily responsible for A-G coordination and overall picture.
 
 
 ### MAGIC
-Weapons director , primarily responsible for A-A engagements
+Weapons director , primarily responsible for A-A engagements in Western sector ( RAVEN and JEDI flight)
+
+
+### OVERLORD
+Weapons director, primarily responsible for EASTERN sector (HAWK flight)
 
 
 ### AWACS freqs in use
