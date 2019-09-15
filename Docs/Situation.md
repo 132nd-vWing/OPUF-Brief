@@ -67,6 +67,18 @@ In successful strikes against the remaining silkworm batteries, the situasion is
 the situsion is now ready for conducting and air assault to capture the airfield. Multiple enemy aircrafts have been shot down over Bandar Abbas region , and it is likely that no further F-5 is operational and ready the next 24 hours
 from Bandar Abbas.
 
+
+### 9th June 2011
+A successful air assault was conducted against the airfield of QHESM and it is now under allied control. 
+AR missions against main battle tanks from 133rd Armored Regiment (based at LAR) was unsuccessful. Air defence from SA-11 and CAPs defeated a package going into the area. The Main Battle tanks were likely
+moving towards 245th Mechanized Infantry Regiment to increase defensive positions.
+
+### 10th- 15th June 2011
+Continued offensive actions against the Iranian stronghold were successful, and a ground offensive have been launched. A Combined Joint amphibious force have conducted landings in the vicinity of Bandar Abbas to seize control 
+of the airfield and the strategic important oil refineries in the region.
+Preperations on the Bandar Abbas airfield have been ongoing to prepare it to operate as a forward operating base for RW and A-10Cs have been ongoing for the last 24 hours, and the 16th of June is the first ATO day where
+RW and A-10Cs will operate from the base. 
+
 ## Insurgent activity
 Intelligence also indicate that the increased activity from the insurgent group Alsyf Albarq is connected with IRAN's surprise attack, and further strengthens the theory that Alsyf Albarq have been fighting a proxy war for IRAN.
 The threat for allied convoys in UAE/OMAN is high, due to reliable intelligence of threats of complex attacks from Al Kahn Brigade against allied convoys. 
