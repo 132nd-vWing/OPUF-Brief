@@ -13,8 +13,14 @@ No entry into activae airspace unless approved by controlling agency.
 
 
 AR1201 - SHELL FL230-250
+
+
 AR1202 - ARCO FL180-FL200
+
+
 AR1203 - TEXACO FL105-120
+
+
 
 
 

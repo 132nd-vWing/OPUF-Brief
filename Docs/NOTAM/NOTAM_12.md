@@ -39,7 +39,7 @@ Weapons director: Supporting PACKAGE ALPHA.
 Weapons director: Supporting A-G operations (BEAST, AXE, MISTY, COBRA, GRIZZLY)
 
 
-### AWACS freqs in use
+
 
 <br>
 <br>
