@@ -9,18 +9,18 @@
 ## ACO for 16th of JUNE 2011
 
 ### ACTIVE AIRSPACE 
-No entry into activae airspace unless approved by airspace owner/controlling agency.
+No entry into activae airspace unless approved by controlling agency.
 
-AR1201
-AR1202
-AR1203
+
+AR1201 - SHELL FL230-250
+AR1202 - ARCO FL180-FL200
+AR1203 - TEXACO FL105-120
 
 
 
 ## Graphical presentation
 
-WORK IN PROGRESS - correct information to be updated FRIDAY 20th SEPTEMBER (Real world time)
-![ACO MSN 12](/OPUF-Brief/Images/ACO_10.PNG)
+![MSN12 ACO](/OPUF-Brief/Images/MSN12_ACO.PNG)
 
 
 

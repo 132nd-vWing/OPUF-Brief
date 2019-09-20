@@ -20,6 +20,10 @@ Fujaira GND: 124.1 <br>
 Fujaira TWR: 124.2 <br>
 
 
+Bandar Abbas TWR: 118.200 <br>
+Bandar Abbas ATIS: 118.400 <br>
+
+
 ### FARP's
 FARP LONDON: 230.500 (INDIGO 11) <br>
 FARP MADRID 231.750 (BROWN 8) <br>
@@ -100,7 +104,7 @@ LOCATION: See Weekly SPINS <br>
 
 
 
-## Identification Friend or Foe (IFF)
+## Identification Friend or Foe (IFF) (  CURRENTLY NOT USED AS WE ARE USING SRS  )
 All flights are to use the following IFF codes :
 
 **MODE 1:** 01 <br>
