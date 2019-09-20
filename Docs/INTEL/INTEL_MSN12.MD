@@ -1,7 +1,7 @@
 # Situation report OPUF MSN 12
 Local time: Early morning 16th of June 2011.
 
-![MSN12 Overview](/Images/MSN12_OVERVIEW.png)
+![MSN12 Overview](/Images/MSN12_OVERVIEW.PNG)
 
 ### General
 The friendly amphibious forces have the last days expanded the beachhead and the FLOT is as shown in the picture above.
