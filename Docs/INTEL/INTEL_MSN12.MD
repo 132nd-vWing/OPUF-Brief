@@ -22,3 +22,13 @@ To the EAST, [the 151st ARMORED REGIMENT](/OPUF-Brief/Docs/Enemy/151ST_MBT_REGT.
 It is important that the main battle tanks are stopped before they can do damage toward light friendly forces at the FLOT.
 
 
+
+
+
+<br>
+<br>
+<br>
+## Back
+[Back to frontpage](https://132nd-vwing.github.io/OPUF-Brief/)
+
+

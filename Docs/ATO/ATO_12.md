@@ -11,6 +11,8 @@ This ATO is supported by the following documents: <br>
 * ACO
 * Weekly SPINS
 * NOTAM
+* [OPUF Combat Flite Masterfile File for MSN 12](/OPUF-Brief/Combatflite/OPUF_MSN_12.cf)
+
 
 ## Priorites
 Priority 1: is to strike chemical weapon factory, OBJ GARY
