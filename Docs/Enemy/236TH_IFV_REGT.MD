@@ -6,7 +6,7 @@
 
 
 ### BACKGROUND<br>
-The 222nd Mechanized Infantry Regiment is based at the city at BANDAR-E-JASK.
+The 236th Mechanized Infantry Regiment is based at the city at BANDAR-E-JASK.
 
 
 ### EQUIPMENT <br>
