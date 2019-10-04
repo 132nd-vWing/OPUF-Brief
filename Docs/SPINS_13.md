@@ -16,7 +16,7 @@
 
 ### BULLSEYE
 
-** TBD
+**NAOMI** Location: N26 56 20 E056 17 03  / N26 56.340 E056 17.053
 
 
 ### TANKER TRACKS
