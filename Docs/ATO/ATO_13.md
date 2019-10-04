@@ -39,7 +39,7 @@ BDA at reported SA-2 : N28 20.796 E055 41.352<br>
 FALCON 2 report: "FALCON2 - (OPUF12)<br>
 Engaged SA2 ivo N28 20.796 E055 41.352 (Believed INOP)<br>
 Engaged SA3 and SA15 at GARY. SA3 believed to be INOP, still one SA15 active. Possibly additional mobile AD systems ivo GARY"<br>
-Coordinate with SPECTRE flight. SPECTRE flight: Escort of PANTHER.
+
 
 
 
@@ -54,25 +54,21 @@ VUL: (1850Z-2015Z)<br>
 MISSION: CAP in KILBOX GJ and GK.<br> 
 Purpose: Protect CAS operations (AXE and MISTY)<br>
 VUL: (1845Z-2015Z)<br>
-YO-YO ops together with HUNTER to ensure contiuous coverage<br>
+YO-YO ops together with SPECTRE to ensure contiuous coverage<br>
 FOB Bandar Abbas have a limited amount of A-A missiles if needed to resupply.<br>
 
 
-
-**HUNTER**
-MISSION: CAP in KILBOX GJ and GK. <br>
-Purpose: Protect CAS operations (AXE and MISTY)<br>
-VUL: (1845Z-2015Z)<br>
-YO-YO ops together with HAWK to ensure contiuous coverage<br>
-FOB Bandar Abbas have a limited amount of A-A missiles if needed to resupply.<br>
 
 
 
 
 
 **SPECTRE**
-ESCORT PANTHER flight.
-Coordinate with PANTHER flight.
+MISSION: CAP in KILBOX GJ and GK. <br>
+Purpose: Protect CAS operations (AXE and MISTY)<br>
+VUL: (1845Z-2015Z)<br>
+YO-YO ops together with HAWK to ensure contiuous coverage<br>
+FOB Bandar Abbas have a limited amount of A-A missiles if needed to resupply.<br>
 
 
 
