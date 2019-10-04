@@ -34,7 +34,10 @@ A-G controller 1: 235.250 (GREY 6)   (SEAD, AR, CAS)
 or
 A-A Controller 1: 248.000 (GRAY 2)   (A-A, ESCORT) 
 
-NOTE: Only 1 AWACS controller, so be aware of workload and do not expect too much direct support.
+
+or per AWACS directions.
+
+
 AWACS priority: 
 1. Receive request for SEAD or A-A support from A-G flights, 
 2. Retasking SEAD and A-A
