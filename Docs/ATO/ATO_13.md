@@ -58,7 +58,10 @@ YO-YO ops together with SPECTRE to ensure contiuous coverage<br>
 FOB Bandar Abbas have a limited amount of A-A missiles if needed to resupply.<br>
 
 
-
+**JEDI**
+Mission: ARMED RECON: KILLBOX FO (AR ZONE 2). TARGET: [151st ARMORED REGIMENT](/OPUF-Brief/Docs/Enemy/151ST_MBT_REGT.html)<br>
+ROLE: Armed Reconnisance<br>
+VUL: (1950Z-2045Z)<br>
 
 
 
