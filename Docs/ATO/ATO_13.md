@@ -98,5 +98,18 @@ VUL: (1845Z-2015Z)<br>
 <br>
 <br>
 <br>
+
+
+
+** DARKSTAR **
+MISSION: AEW.<br> 
+TYPE: Senior Director<br>
+Check-in: 231.500 (GREEN 7)<br>
+
+
+**MAGIC **
+MISSION: AEW.<br> 
+TYPE: Weapons Director A-A<br>
+Primary Working Freq: 248.000 (GRAY 2)<br>
 ## Back
 [Back to frontpage](https://132nd-vwing.github.io/OPUF-Brief/)
