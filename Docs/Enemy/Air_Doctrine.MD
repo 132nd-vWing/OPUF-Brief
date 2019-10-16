@@ -9,13 +9,13 @@ As of 2010, the strength of the Islamic Republic of Iran Air Force (IRIAF) are e
 
 The strength of the Islamic Revolutionary Guard Corps Air Force (IRGC-AF) is estimated at 5000 personnel. The force structure is unclear, but it includes some ground attack and transport units.
 
-| Aircraft                   | Types                                                     |
-| -------------------------- | --------------------------------------------------------- |
-| Fighters / Fighter Bombers | F-14A, F-4E, F-5A, F-5E, MiG-21/F-7, MiG-29, Su-24, Su-25 |
-| Reconnaissance             | F-4E                                                      |
-| Transport                  | C-130, IL-76MD                                            |
-| Tankers                    | IL-78                                                     |
-| Helicopters                | Mi-8M, CH-47                                              |
+| Aircraft                   | Types                                                 |
+| -------------------------- | ----------------------------------------------------- |
+| Fighters / Fighter Bombers | F-14A, F-4E, F-5A, F-5E, MiG-21, MiG-29, Su-24, Su-25 |
+| Reconnaissance             | F-4E                                                  |
+| Transport                  | C-130, IL-76MD                                        |
+| Tankers                    | IL-78                                                 |
+| Helicopters                | Mi-8M, CH-47                                          |
 
 Iran's most advanced fighter is the MiG-29 Fulcrum, however the IRIAF remains dependent on 1970's U.S. made aircraft like the F-4 Phantom II, the F-14A Tomcat and the F-5 Tiger II. It is currently developing its own derivative based on the F-5A and F-5E Tiger IIs.
 
