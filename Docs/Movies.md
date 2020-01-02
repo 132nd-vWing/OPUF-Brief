@@ -12,6 +12,8 @@
 
 [190106 132nd OPUF MSN5 PANTHER1, DCS World F/A-18C](https://youtu.be/3n290fQ7ulU)
 
+[OP Urgent Fury 10: FALCON 2-1](https://youtu.be/PT5tbaTOGv0)
+
 [132nd OPUF MSN6 HAWK31 SEAD](https://youtu.be/-7HniyhbbKY)
 
 [132 20181202 OP Urgent Fury Mission 03 - Rerun 2 - Bear 1-2](https://youtu.be/Um5xhrnVkmU)
@@ -19,6 +21,20 @@
 [132nd Virtual WingOP URGENT FURY MSN 1](https://www.twitch.tv/videos/308309227)
 
 [DCS 132nd 617th - OP Urgent Fury 09: BEAST 1-2](https://youtu.be/Gla2fPPifCA)
+
+[OP Urgent Fury 9: AWACS](https://youtu.be/a0yLkG36IMs)
+
+[OP Urgent Fury 10: RAVEN 5-1](https://youtu.be/9tlvIJP3N6k)
+
+[OP Urgent Fury 10 rerun: HAWK 3-1](https://youtu.be/RXqfIQFNMzk)
+
+[OP Urgent Fury 11: RAVEN 5-3](https://youtu.be/VUI_VSt9kBg)
+
+[OP Urgent Fury 12: PANTHER 1-1](https://youtu.be/AB4FYDdDw3A)
+
+[OP Urgent Fury 13: PANTHER 1-2](https://youtu.be/CPcq65dlvso)
+
+[OP Urgent Fury 13: SPECTRE 1-1](https://youtu.be/2wuehk1eTeM)
 
 
 <br>
