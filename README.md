@@ -35,7 +35,7 @@ Please signup on 132nd Virtual Wing's event page (user on the 132nd website is r
 
 
 ## Mission Specific Information <br>
-[Weekly SPINS MSN 14](/OPUF-Brief/Docs/SPINS_14.html) | [ACO MSN 14](/OPUF-Brief/Docs/ACO/ACO_14.html) | [ATO MSN 13](/OPUF-Brief/Docs/ATO/ATO_14.html) | [NOTAM MSN 14](/OPUF-Brief/Docs/NOTAM/NOTAM_14.html) |  [INTEL MSN 14](https://github.com/132nd-vWing/OPUF-Brief/blob/master/Docs/INTEL/OPERATION%20URGENT%20FURY%20-%20INTEL%20REPORT%20FOR%20MSN13%20v%201.1.pdf)
+[Weekly SPINS MSN 14](/OPUF-Brief/Docs/SPINS_14.html) | [ACO MSN 14](/OPUF-Brief/Docs/ACO/ACO_14.html) | [ATO MSN 14](/OPUF-Brief/Docs/ATO/ATO_14.html) | [NOTAM MSN 14](/OPUF-Brief/Docs/NOTAM/NOTAM_14.html) |  [INTEL MSN 14](https://github.com/132nd-vWing/OPUF-Brief/blob/master/Docs/INTEL/OPERATION%20URGENT%20FURY%20-%20INTEL%20REPORT%20FOR%20MSN13%20v%201.1.pdf)
 
 
 ## For Controllers (ATC and/or AWACS)

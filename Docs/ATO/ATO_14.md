@@ -36,6 +36,7 @@ Tanker SHELL , Track 1201, can be moved to support the package operation.
 Package frequency: 230.750	(LIME 5)
 <br>
 
+
 **FALCON**
 Package Alpha.  <br>
 Package mission: Strike [OBJECTIVE T11](/OPUF-Brief/Docs/TARGET/nsst_target_T11.pdf)<br>
@@ -69,11 +70,11 @@ ARMED RECONNISANCE and SCAR in KILLBOX FM and FL (AR ZONE 1)<br>
 TARGET: [222nd MECHANIZED INFANTRY REGIMENT](/OPUF-Brief/Docs/Enemy/222ND_IFV_REGT.html)<br>
 VUL: (1855Z-2025Z)<br>
 AXE flight in support <br>
-SCAR frequency:	227.500	(YELLOW 1)  or coordinate with AXE for use of other freqs.
+SCAR frequency:	227.500	(YELLOW 1)  or coordinate with AXE for use of other freqs.<br>
 
 
-** RAGE**
-Strike at critical target at Jiroft.
+**RAGE**
+Strike at critical target at Jiroft.<br>
 
 
 <br>
