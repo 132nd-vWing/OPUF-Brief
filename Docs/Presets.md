@@ -13,6 +13,10 @@ The following presets are programmed into the aircraft:
 
 ### [F/A-18C v1.1](https://www.dropbox.com/s/zjhssb8l1m5q79u/OPUF%20F18%20presets%20v1.1.pdf?dl=0)
 
+
+### F-16C Presets:  [F-16C presets](/OPUF-Brief/Files/OPUF F-16 Presets.pdf)
+
+
 <br>
 <br>
 <br>
