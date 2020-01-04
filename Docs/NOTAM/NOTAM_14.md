@@ -26,6 +26,13 @@ If able, one member of flight monitors AWACS check-in freq for coordination with
 
 
 
+### Lack of PGM
+Due to the high expenditure of Precision Guided Munitions, the stockpile at Al Minhad has run out. For A-G operations only unguided munitions is availeble. <br>
+Only exception is HARMs, which is still availeble
+
+
+
+
 
 
 <br>
