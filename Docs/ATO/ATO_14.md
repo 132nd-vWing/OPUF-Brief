@@ -74,7 +74,7 @@ SCAR frequency:	227.500	(YELLOW 1)  or coordinate with AXE for use of other freq
 
 
 **RAGE**
-Strike at critical target at Jiroft.<br>
+Strike : [OBJECTIVE HECTOR](/OPUF-Brief/Docs/TARGET/OPUF OBJ HECTOR.pdf)<br>
 
 
 <br>
