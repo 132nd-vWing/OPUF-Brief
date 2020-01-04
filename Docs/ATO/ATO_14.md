@@ -60,7 +60,7 @@ Package frequency: 230.750	(LIME 5)<br>
 **AXE**
 ARMED RECONNISANCE in KILLBOX FM and FL (AR ZONE 1)<br>
 TARGET: [222nd MECHANIZED INFANTRY REGIMENT](/OPUF-Brief/Docs/Enemy/222ND_IFV_REGT.html)<br>
-VUL: (1855Z-2025Z)<br>
+VUL: (1955Z-2125Z)<br>
 Support COBRA flight <br>
 <br>
 
@@ -68,7 +68,7 @@ Support COBRA flight <br>
 **COBRA**
 ARMED RECONNISANCE and SCAR in KILLBOX FM and FL (AR ZONE 1)<br>
 TARGET: [222nd MECHANIZED INFANTRY REGIMENT](/OPUF-Brief/Docs/Enemy/222ND_IFV_REGT.html)<br>
-VUL: (1855Z-2025Z)<br>
+VUL: (1955Z-2125Z)<br>
 AXE flight in support <br>
 SCAR frequency:	227.500	(YELLOW 1)  or coordinate with AXE for use of other freqs.<br>
 
