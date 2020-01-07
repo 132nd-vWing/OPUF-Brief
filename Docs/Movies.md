@@ -1,4 +1,4 @@
-# OPUF Recordings
+# Operation Urgen Fury Recordings
 
 [132nd Virtual Wing OP URGENT FURY MSN 01 Shit hits the Fan](https://youtu.be/j9KIwrw3fHI?t=145)    (Same incident that is reported by the TNC about suicide bomber) <br>
 
@@ -32,9 +32,20 @@
 
 [OP Urgent Fury 12: PANTHER 1-1](https://youtu.be/AB4FYDdDw3A)
 
+### OPUF MSN 12
+
 [OP Urgent Fury 13: PANTHER 1-2](https://youtu.be/CPcq65dlvso)
 
 [OP Urgent Fury 13: SPECTRE 1-1](https://youtu.be/2wuehk1eTeM)
+
+### OPUF MSN 14
+
+[OP Urgent Fury 14: RAGE 9-2: Self-escorted Strike](https://youtu.be/Qp3EgFBt0f8)
+
+[OP Urgent Fury 14: COBRA 1-1: CAS: full recording ](https://youtu.be/jQCqa2uIfd8)
+[OP Urgent Fury 14: COBRA 1-1: CAS: Highlights ](https://youtu.be/xPwBrGLO5P8)
+
+[OP Urgent Fury 14: SPECTRE 1-1: Sweep as part of strike package ](https://youtu.be/Hii1DZhqjxQ)
 
 
 <br>
