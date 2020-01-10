@@ -2,9 +2,9 @@
 
 
 ###### [Flight information](/OPUF-Brief/Docs/Flights.html)
-###### [Weekly Spins MSN 14](/OPUF-Brief/Docs/SPINS_15.html)
-###### [Airspace Control Order MSN 14](/OPUF-Brief/Docs/ACO/ACO_15.html)
-###### [NOTAM OPUF MISSION 14](/OPUF-Brief/Docs/NOTAM/NOTAM_15.html)
+###### [Weekly Spins MSN 15](/OPUF-Brief/Docs/SPINS_15.html)
+###### [Airspace Control Order MSN 15](/OPUF-Brief/Docs/ACO/ACO_15.html)
+###### [NOTAM OPUF MISSION 15](/OPUF-Brief/Docs/NOTAM/NOTAM_15.html)
 
 # ATO for 18th of JUNE 2011
 This ATO is supported by the following documents: <br>
@@ -24,37 +24,6 @@ Priority 3: CAS in support of friendlies
 <br>
 
 ## TASKING 
-
-
-
-**PANTHER**
-Package Alpha. Package Commander. <br>
-Package mission: Strike [OBJECTIVE T11](/OPUF-Brief/Docs/TARGET/nsst_target_T11.pdf)<br>
-Task: Escort
-Coordinate with Package Alpha for planning and timings.
-Tanker SHELL , Track 1201, can be moved to support the package operation.
-Package frequency: 230.750	(LIME 5)
-<br>
-
-
-**FALCON**
-Package Alpha.  <br>
-Package mission: Strike [OBJECTIVE T11](/OPUF-Brief/Docs/TARGET/nsst_target_T11.pdf)<br>
-Task: Strike<br>
-Coordinate with Package Alpha for planning and timings.<br>
-Tanker SHELL , Track 1201, can be moved to support the package operation.<br>
-Package frequency: 230.750	(LIME 5)<br>
-<br>
-
-
-**SPECTRE**
-Package Alpha. Deputy Package Commander <br>
-Package mission: Strike [OBJECTIVE T11](/OPUF-Brief/Docs/TARGET/nsst_target_T11.pdf)<br>
-Task: Strike<br>
-Coordinate with Package Alpha for planning and timings.<br>
-Tanker SHELL , Track 1201, can be moved to support the package operation.<br>
-Package frequency: 230.750	(LIME 5)<br>
-<br>
 
 
 **JTAC WARRIOR**
