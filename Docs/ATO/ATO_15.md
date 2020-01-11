@@ -98,6 +98,14 @@ Coordinate with Package Alpha for planning and timings.  Coordinate with FALCON 
 Package frequency: 230.750	(LIME 5)<br>
 PANTHER flight availeble for on-call , airborne alert SEAD. Use  231.500 (GREEN 7) for contacting PANTHER and request support<br>
 
+
+**HUNTER**
+Package Alpha.  <br>
+Package mission: Strike [OBJECTIVE T8](/OPUF-Brief/Docs/TARGET/nsst_target_T8.pdf)<br>
+Task: Sweep <br>
+Coordinate with Package Alpha for planning and timings.<br>
+Package frequency: 230.750	(LIME 5)<br>
+
 <br>
 <br>
 <br>
