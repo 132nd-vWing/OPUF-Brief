@@ -70,16 +70,23 @@ Strike : [OBJECTIVE HECTOR](/OPUF-Brief/Docs/TARGET/OPUF OBJ HECTOR.pdf)<br>
 
 
 **PANTHER**
-Airborne alert, on-call SEAD.
-Hold IVO tanker tracks	and support on call request for SEAD.
-Monitor: Check-in: 231.500 (GREEN 7) for SEAD support requests.
+Airborne alert, on-call SEAD. <br>
+Hold IVO tanker tracks	and support on call request for SEAD.<br>
+Monitor: Check-in: 231.500 (GREEN 7) for SEAD support requests.<br>
+Priority on support to  Package ALPHA<br>
+
+**JEDI**
+Airborne alert, on-call SEAD.<br>
+Hold IVO tanker tracks	and support on call request for SEAD.<br>
+Monitor: Check-in: 231.500 (GREEN 7) for SEAD support requests.<br>
+Priority on support to  COBRA (SCAR)<br>
 
 
 **FALCON**
 CAP<br>
 Barrier CAP over western side of FLOT to prevent enemy AC interfering with COBRA and BEAST operations. <br>
 Coordinate with COBRA for on-station times.<br>
-Coordinate with Package ALPHA as they will be operating in same area for their mission.
+Coordinate with Package ALPHA as they will be operating in same area for their mission.<br>
 
 
 **RAVEN**
