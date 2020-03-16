@@ -22,9 +22,6 @@ RIGHT CLICK / SAVE AS. (OR COPY PASTE YOUR OWN)
 
 <br>
 <br>
-### IFF Codes
-####  [IFF Codes JSON](/JSON/transponder_codes.json)
-
 <br>
 <br>
 ### NAVPOINTS 
