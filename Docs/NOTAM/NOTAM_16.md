@@ -1,7 +1,5 @@
 # NOTAM OPUF MSN 16
 
-
-
 - Update 1.0
 
 ## ATC instructions
@@ -23,12 +21,8 @@ Ground, TWR and Approach merged on TWR Freq. <br>
 
 
 ### AWACS
-Unmanned AWACS:<br>
 All flights check-in at check-in freq: <br>
 Check-in: 231.500 (GREEN 7)<br>
-If able, one member of flight monitors AWACS check-in freq for coordination with other flights.<br>
-
-
 
 
 

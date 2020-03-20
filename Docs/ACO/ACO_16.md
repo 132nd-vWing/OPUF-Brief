@@ -12,18 +12,9 @@
 
 
 
-To BE DECIDED
+![MSN16 ACO](/OPUF-Brief/Images/MSN16_ACO.PNG)
 
 
-
-
-
-## Graphical presentation
-
-
-
-
-TO BE DECIDED
 
 
 
