@@ -16,9 +16,10 @@ This ATO is supported by the following documents: <br>
 
 
 ## Priorites
-* Priority 1: Locate and neutralize unknown enemy regiment ( PACKAGE  BRAVO )
-* Priority 2: Neutralize enemy AWACS ( PACKAGE DELTA )
-* Priority 3: Clear Killbox CARLSBERG for enemy SAMs ( PACKAGE CHARLIE )
+* Priority 1: Support any JTAC / ground force that declares a troops in contact situation
+* Priority 2: Locate and neutralize unknown enemy regiment ( PACKAGE  BRAVO )
+* Priority 3: Neutralize enemy AWACS ( PACKAGE DELTA )
+* Priority 4: Clear Killbox CARLSBERG for enemy SAMs ( PACKAGE CHARLIE )
 
 
 ## Taskings
