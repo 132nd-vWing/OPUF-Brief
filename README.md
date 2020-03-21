@@ -29,7 +29,7 @@ Please signup on 132nd Virtual Wing's event page (user on the 132nd website is r
 
 
 ## Admin
-[Admin info](/OPUF-Brief/Docs/Admin/Admin.html) | [Presets](/Docs/Presets.md)  | [Flight information](/Docs/Flights.md) | [SPINS](/Docs/SPINS.md) | [Navigation](/Docs/Navigation.md)
+[Admin info](/OPUF-Brief/Docs/Admin/Admin.html) | [Presets](/Docs/Presets.md)  | [SPINS](/Docs/SPINS.md) | [Navigation](/Docs/Navigation.md)
 
 
 
