@@ -89,7 +89,7 @@ FREQUENCY:  247.500 (LIME 11) <br>
 TACAN: 38Y <br>
 LOCATION: See Weekly SPINS <br>
 <br>
-**KC-135 MPRS:** <br>
+**KC-135:** <br>
 CALLSIGN: ARCO <br>
 FREQUENCY: 240.750 (MAROON 7) <br>
 TACAN: 39Y <br>
@@ -101,6 +101,7 @@ FREQUENCY:  120.500 (WHITE 9) <br>
 TACAN: 10Y <br>
 LOCATION: See Weekly SPINS <br>
 <br>
+
 
 
 
