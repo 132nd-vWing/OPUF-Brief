@@ -108,13 +108,13 @@ TASK: SEAD  <br>
 **NAVY(F/A-18)**
 HAVCAP <br>
 Area: CAP ALPHA <br>
-Reporting indicate imminent attack from enemy forces from EAST<br>
+Reporting indicate imminent attack from enemy forces from WEST<br>
 <br>
 <br>
 **KILLER(F/A-18)**
 HAVCAP <br>
 Area: CAP BRAVO <br>
-Reporting indicate imminent attack from enemy forces from EAST<br>
+Reporting indicate imminent attack from enemy forces from WEST<br>
 <br>
 <br>
 <br>
