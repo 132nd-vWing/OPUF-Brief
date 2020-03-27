@@ -11,8 +11,8 @@ This ATO is supported by the following documents: <br>
 * ACO
 * Weekly SPINS
 * NOTAM
-* [OPUF Combat Flite File for MSN 16](/OPUF-Brief/Combatflite/OPUF_MSN_16.cf)
-* [INTEL MSN 16](/OPUF-Brief/Docs/INTEL/OPERATION URGENT FURY - INTEL REPORT FOR MSN16.pdf)
+* [OPUF Combat Flite File for MSN 16](/OPUF-Brief/Combatflite/OPUF_MSN_17.cf)
+* [INTEL MSN 16](/OPUF-Brief/Docs/INTEL/OPERATION URGENT FURY - INTEL REPORT FOR MSN17.pdf)
 
 
 ## Priorites
