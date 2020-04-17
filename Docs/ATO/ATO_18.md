@@ -94,18 +94,20 @@ Latest landing time: 2100Z <br>
 **VIPER (F-16)**<br>
 Strike High Value Target (HVT) Objective DENEB.<br>
 Intelligence: We have intelligence that a meeting should take place between high ranking Iranian generals.  The meeting will likely take place at identified meeting location
-OBJECTIVE DENEB. This location have been used for meetings earlier due to the close proximity to a civilian mosque which have prevented allied forces from striking the target.
-Time-on-Target:1920Z-1925Z
-Trigger: Convoy of 4x UAZ-469 military vehicles, and high security outside the meeting location.
+OBJECTIVE DENEB. This location have been used for meetings earlier due to the close proximity to a civilian mosque which have prevented allied forces from striking the target.<br>
+Time-on-Target:1920Z-1925Z<br>
+Trigger: Convoy of 4x UAZ-469 military vehicles, and high security outside the meeting location.<br>
+[OBJECTIVE DENEB](/OPUF-Brief/Docs/TARGET/OPUF OBJ DENEB.pdf)  <br>
 <br>
 <br>
 <br>
 **CHEVY (F-16)**<br>
 Strike High Value Target (HVT) Objective RIGEL.<br>
 Intelligence: We have intelligence that a meeting should take place between high ranking Iranian generals.  The meeting will likely take place at identified meeting location
-OBJECTIVE DENEB. This location have been used for meetings earlier due to the close proximity to a civilian mosque which have prevented allied forces from striking the target.
-Time-on-Target:1930Z-1935Z
-Trigger: Convoy of 4x UAZ-469 military vehicles, and high security outside the meeting location.
+OBJECTIVE DENEB. This location have been used for meetings earlier due to the close proximity to a civilian mosque which have prevented allied forces from striking the target.<br>
+Time-on-Target:1930Z-1935Z<br>
+Trigger: Convoy of 4x UAZ-469 military vehicles, and high security outside the meeting location.<br>
+[OBJECTIVE RIGEL](/OPUF-Brief/Docs/TARGET/OPUF OBJ RIGEL.pdf)  <br>
 <br>
 <br>
 <br>
