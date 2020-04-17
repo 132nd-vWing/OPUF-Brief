@@ -81,7 +81,7 @@ JTAC Freq: 119.250 (RED 11)  Secondary freq: 33.50 (BROWN 4)<br>
 
 
 
-**JEDI(F/A-18) **
+**JEDI(F/A-18)**
 SEAD/DEAD KILLBOX ERDINGER<br>
 During the last 24 hours we have reports of SA-11s operating in KILLBOX ERDINGER ( Reference: [INTEL Report MSN 18](/OPUF-Brief/Docs/INTEL/OPERATION URGENT FURY - INTEL REPORT FOR MSN18.pdf) )<br>. 
 This indicate a movement of SAM systems closer to the FLOT which may indicate a upcoming enemy offensive on the central front. It is a even chance that additional SAMs are located within 
@@ -91,7 +91,7 @@ Latest landing time: 2100Z <br>
 
 
 
-**VIPER (F-16) **
+**VIPER (F-16)**
 Strike High Value Target (HVT) Objective DENEB.<br>
 Intelligence: We have intelligence that a meeting should take place between high ranking Iranian generals.  The meeting will likely take place at identified meeting location
 OBJECTIVE DENEB. This location have been used for meetings earlier due to the close proximity to a civilian mosque which have prevented allied forces from striking the target.
@@ -100,7 +100,7 @@ Trigger: Convoy of 4x UAZ-469 military vehicles, and high security outside the m
 
 
 
-**CHEVY (F-16) **
+**CHEVY (F-16)**
 Strike High Value Target (HVT) Objective RIGEL.<br>
 Intelligence: We have intelligence that a meeting should take place between high ranking Iranian generals.  The meeting will likely take place at identified meeting location
 OBJECTIVE DENEB. This location have been used for meetings earlier due to the close proximity to a civilian mosque which have prevented allied forces from striking the target.
@@ -109,13 +109,13 @@ Trigger: Convoy of 4x UAZ-469 military vehicles, and high security outside the m
 
 
 
-**PANTHER (F/A-18) **
+**PANTHER (F/A-18)**
 DCA CAP ALPHA <br>
 VUL 1850Z-2010Z<br>
 
 
 
-**SPECTRE (F-14) **
+**SPECTRE (F-14)**
 DCA CAP BRAVO <br>
 VUL 1850Z-2010Z<br>
 
