@@ -113,13 +113,17 @@ Trigger: Convoy of 4x UAZ-469 military vehicles, and high security outside the m
 <br>
 **PANTHER (F/A-18)**<br>
 DCA CAP ALPHA <br>
-VUL 1850Z-2010Z<br>
+VUL 1850Z-2000Z<br>
+Intelligence have picked up indications about an enemy attack from Shiraz inboud to Al Dahfra. 
+CAP is in place to prevent Iranian attack coming from the WEST from the direction of Shiraz.<br>
 <br>
 <br>
 <br>
 **SPECTRE (F-14)**<br>
 DCA CAP BRAVO <br>
-VUL 1850Z-2010Z<br>
+VUL 1900Z-2010Z<br>
+Intelligence have picked up indications about an enemy attack from Shiraz inboud to Al Dahfra. 
+CAP is in place to prevent Iranian attack coming from the WEST from the direction of Shiraz.<br>
 <br>
 <br>
 <br>
