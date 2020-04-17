@@ -25,7 +25,7 @@ This ATO is supported by the following documents: <br>
 
 ## Taskings
 
-**(F/A-18)**
+**RAGE (F/A-18)**<br>
 Strike Objective SIRIUS. <br>
 Part of package ALPHA. Package Commander Package ALPHA.<br>
 Package frequency: 230.750 (LIME 5) <br>
@@ -35,7 +35,7 @@ Latest landing time: 2100Z <br>
 
 
 
-**(F/A-18)**
+**ANGRY (F/A-18)**<br>
 Strike Objective SIRIUS. <br>
 Part of package ALPHA.<br>
 Package frequency: 230.750 (LIME 5) <br>
@@ -45,7 +45,7 @@ Latest landing time: 2100Z <br>
 
 
 
-**MISTY (A-10)**
+**MISTY (A-10)**<br>
 AR KILLBOX AMSTEL expanded<br>
 Last 72 hours a russian armored regiment with T-90s have been identified and  destroyed in Killbox AMSTEL. This armored Regiment is labeled Un identified Armored
 Regiment ALPHA and BRAVO.<br>
@@ -57,7 +57,7 @@ Latest landing time: 2100Z <br>
 
 
 
-** AXE (A-10)**
+**AXE (A-10)**<br>
 CAS in support of JTAC VIKING in ROZ GROLSCH.<br>
 CP: Overhead Bandar Lenge Airport, above 10.000ft.<br>
 VUL: 1850Z-2000Z<br>
@@ -65,7 +65,7 @@ JTAC Freq: 119.250 (RED 11)  Secondary freq: 33.50 (BROWN 4)<br>
 
 
 
-** CLAW (A-10)**
+**CLAW (A-10)**
 CAS in support of JTAC VIKING in ROZ GROLSCH.<br>
 CP: Overhead Bandar Lenge Airport, above 10.000ft.<br>
 VUL: 1900Z-2010Z<br>
@@ -73,7 +73,7 @@ JTAC Freq: 119.250 (RED 11)  Secondary freq: 33.50 (BROWN 4)<br>
 
 
 
-** COBRA (KA-50)**
+**COBRA (KA-50)**
 CAS in support of JTAC VIKING in ROZ GROLSCH.<br>
 CP: When airborne, out from FOB BANDAR LENGEH<br>
 VUL: 1850Z-2000Z<br>
@@ -81,7 +81,7 @@ JTAC Freq: 119.250 (RED 11)  Secondary freq: 33.50 (BROWN 4)<br>
 
 
 
-** (F/A-18) **
+**JEDI(F/A-18) **
 SEAD/DEAD KILLBOX ERDINGER<br>
 During the last 24 hours we have reports of SA-11s operating in KILLBOX ERDINGER ( Reference: [INTEL Report MSN 18](/OPUF-Brief/Docs/INTEL/OPERATION URGENT FURY - INTEL REPORT FOR MSN18.pdf) )<br>. 
 This indicate a movement of SAM systems closer to the FLOT which may indicate a upcoming enemy offensive on the central front. It is a even chance that additional SAMs are located within 
@@ -91,7 +91,7 @@ Latest landing time: 2100Z <br>
 
 
 
-** (F-16) **
+**VIPER (F-16) **
 Strike High Value Target (HVT) Objective DENEB.<br>
 Intelligence: We have intelligence that a meeting should take place between high ranking Iranian generals.  The meeting will likely take place at identified meeting location
 OBJECTIVE DENEB. This location have been used for meetings earlier due to the close proximity to a civilian mosque which have prevented allied forces from striking the target.
@@ -100,7 +100,7 @@ Trigger: Convoy of 4x UAZ-469 military vehicles, and high security outside the m
 
 
 
-** (F-16) **
+**CHEVY (F-16) **
 Strike High Value Target (HVT) Objective RIGEL.<br>
 Intelligence: We have intelligence that a meeting should take place between high ranking Iranian generals.  The meeting will likely take place at identified meeting location
 OBJECTIVE DENEB. This location have been used for meetings earlier due to the close proximity to a civilian mosque which have prevented allied forces from striking the target.
@@ -109,18 +109,18 @@ Trigger: Convoy of 4x UAZ-469 military vehicles, and high security outside the m
 
 
 
-** PANTHER (F/A-18) **
+**PANTHER (F/A-18) **
 DCA CAP ALPHA <br>
 VUL 1850Z-2010Z<br>
 
 
 
-** SPECTRE (F-14) **
+**SPECTRE (F-14) **
 DCA CAP BRAVO <br>
 VUL 1850Z-2010Z<br>
 
 
-** JTAC VIKING**
+**JTAC VIKING**
 CAS in support of planned friendly offensive in ROZ GROLSCH. <br>
 Last 24 hours, friendly forces have started their offensive toward the WEST and have captured BANDAR LENGEH. Friendly forces are preparing to continue their offensive with 
 Close Air Support overhead.<br>
