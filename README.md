@@ -2,7 +2,7 @@
 
 <br>
 This page gives necessary information for participation on 132nd Virtual Wing's campaing Operation Urgent Fury. <br>
-- Events uses latest version of DCS Open Beta  
+- Events uses  DCS Open Beta  
 - Events uses  **SRS**
 <br>
 
@@ -34,8 +34,8 @@ Please signup on 132nd Virtual Wing's event page (user on the 132nd website is r
 
 
 ## Mission Specific Information <br>
-[Weekly SPINS MSN 18](/OPUF-Brief/Docs/SPINS_18.html) | [ACO MSN 18](/OPUF-Brief/Docs/ACO/ACO_18.html) | [ATO MSN 18](/OPUF-Brief/Docs/ATO/ATO_18.html) | [NOTAM MSN 18](/OPUF-Brief/Docs/NOTAM/NOTAM_18.html) |  
-[INTEL MSN 18](/OPUF-Brief/Docs/INTEL/OPERATION URGENT FURY - INTEL REPORT FOR MSN18.pdf)
+[Weekly SPINS MSN 19](/OPUF-Brief/Docs/SPINS_19.html) | [ACO MSN 18](/OPUF-Brief/Docs/ACO/ACO_19.html) | [ATO MSN 19](/OPUF-Brief/Docs/ATO/ATO_19.html) | [NOTAM MSN 19](/OPUF-Brief/Docs/NOTAM/NOTAM_19.html) |  
+[INTEL MSN 19](/OPUF-Brief/Docs/INTEL/OPERATION URGENT FURY - INTEL REPORT FOR MSN19.pdf)
 
 
 ## For Controllers (ATC and/or AWACS)
